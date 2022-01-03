@@ -1,0 +1,5 @@
+# Developer Learning Log
+
+Daily updates of topics learned and coded.
+
+* **2022-01-03**: Learned and worked on CSS Flexbox.
