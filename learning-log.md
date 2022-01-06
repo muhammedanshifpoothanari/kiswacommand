@@ -24,3 +24,4 @@ Daily updates of topics learned and coded.
 * **2022-01-06**: Learned and worked on Express routing.
 * **2022-01-06**: Learned and worked on ES6 Classes.
 * **2022-01-06**: Learned and worked on Next.js App Router.
+* **2022-01-06**: Learned and worked on JavaScript Loops.
