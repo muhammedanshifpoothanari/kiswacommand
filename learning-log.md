@@ -28,3 +28,4 @@ Daily updates of topics learned and coded.
 * **2022-01-06**: Learned and worked on Async/Await.
 * **2022-01-07**: Learned and worked on Express Middleware.
 * **2022-01-07**: Learned and worked on Express Middleware.
+* **2022-01-07**: Learned and worked on Docker Containers.
