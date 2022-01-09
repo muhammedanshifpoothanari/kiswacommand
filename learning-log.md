@@ -45,3 +45,4 @@ Daily updates of topics learned and coded.
 * **2022-01-09**: Learned and worked on ES6 Classes.
 * **2022-01-09**: Learned and worked on JWT Authentication.
 * **2022-01-09**: Learned and worked on Docker Containers.
+* **2022-01-09**: Learned and worked on React Props.
