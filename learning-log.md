@@ -47,3 +47,4 @@ Daily updates of topics learned and coded.
 * **2022-01-09**: Learned and worked on Docker Containers.
 * **2022-01-09**: Learned and worked on React Props.
 * **2022-01-09**: Learned and worked on Promises.
+* **2022-01-09**: Learned and worked on JWT Authentication.
