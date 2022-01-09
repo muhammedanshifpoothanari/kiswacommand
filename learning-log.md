@@ -40,3 +40,4 @@ Daily updates of topics learned and coded.
 * **2022-01-09**: Learned and worked on React State (useState).
 * **2022-01-09**: Learned and worked on DOM Selectors.
 * **2022-01-09**: Learned and worked on Next.js App Router.
+* **2022-01-09**: Learned and worked on JavaScript Functions.
