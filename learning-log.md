@@ -50,3 +50,4 @@ Daily updates of topics learned and coded.
 * **2022-01-09**: Learned and worked on JWT Authentication.
 * **2022-01-11**: Learned and worked on Express routing.
 * **2022-01-11**: Learned and worked on CSS Flexbox.
+* **2022-01-11**: Learned and worked on JavaScript Variables.
