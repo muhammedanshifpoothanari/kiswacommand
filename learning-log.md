@@ -55,3 +55,4 @@ Daily updates of topics learned and coded.
 * **2022-01-11**: Learned and worked on Docker Containers.
 * **2022-01-12**: Learned and worked on HTML structure.
 * **2022-01-12**: Learned and worked on Responsive Design.
+* **2022-01-12**: Learned and worked on Express routing.
