@@ -60,3 +60,4 @@ Daily updates of topics learned and coded.
 * **2022-01-12**: Learned and worked on JavaScript Functions.
 * **2022-01-14**: Learned and worked on Fetch API.
 * **2022-01-14**: Learned and worked on Responsive Design.
+* **2022-01-14**: Learned and worked on React Props.
