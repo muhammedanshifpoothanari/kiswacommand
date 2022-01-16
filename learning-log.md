@@ -68,3 +68,4 @@ Daily updates of topics learned and coded.
 * **2022-01-16**: Learned and worked on Promises.
 * **2022-01-16**: Learned and worked on TypeScript Types.
 * **2022-01-16**: Learned and worked on CSS Grid.
+* **2022-01-16**: Learned and worked on Responsive Design.
