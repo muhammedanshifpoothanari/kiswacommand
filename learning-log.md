@@ -65,3 +65,4 @@ Daily updates of topics learned and coded.
 * **2022-01-14**: Learned and worked on Fetch API.
 * **2022-01-16**: Learned and worked on Promises.
 * **2022-01-16**: Learned and worked on REST API design.
+* **2022-01-16**: Learned and worked on Promises.
