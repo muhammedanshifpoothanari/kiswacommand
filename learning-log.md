@@ -77,3 +77,4 @@ Daily updates of topics learned and coded.
 * **2022-01-17**: Learned and worked on MongoDB Connection.
 * **2022-01-17**: Learned and worked on JavaScript Functions.
 * **2022-01-17**: Learned and worked on React Props.
+* **2022-01-17**: Learned and worked on React Props.
