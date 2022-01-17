@@ -82,3 +82,4 @@ Daily updates of topics learned and coded.
 * **2022-01-17**: Learned and worked on HTML structure.
 * **2022-01-17**: Learned and worked on React State (useState).
 * **2022-01-17**: Learned and worked on Express Middleware.
+* **2022-01-17**: Learned and worked on Express Middleware.
