@@ -95,3 +95,4 @@ Daily updates of topics learned and coded.
 * **2022-01-19**: Learned and worked on Next.js App Router.
 * **2022-01-19**: Learned and worked on Mongoose Schemas.
 * **2022-01-19**: Learned and worked on HTML structure.
+* **2022-01-19**: Learned and worked on Async/Await.
