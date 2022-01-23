@@ -108,3 +108,4 @@ Daily updates of topics learned and coded.
 * **2022-01-20**: Learned and worked on TypeScript Types.
 * **2022-01-20**: Learned and worked on React Components.
 * **2022-01-23**: Learned and worked on ES6 Classes.
+* **2022-01-23**: Learned and worked on JWT Authentication.
