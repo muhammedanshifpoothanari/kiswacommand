@@ -125,3 +125,4 @@ Daily updates of topics learned and coded.
 * **2022-01-25**: Learned and worked on React State (useState).
 * **2022-01-25**: Learned and worked on ES6 Classes.
 * **2022-01-25**: Learned and worked on MongoDB Connection.
+* **2022-01-25**: Learned and worked on JavaScript Variables.
