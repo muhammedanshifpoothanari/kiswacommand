@@ -121,3 +121,4 @@ Daily updates of topics learned and coded.
 * **2022-01-23**: Learned and worked on Responsive Design.
 * **2022-01-25**: Learned and worked on ES6 Classes.
 * **2022-01-25**: Learned and worked on Async/Await.
+* **2022-01-25**: Learned and worked on JWT Authentication.
