@@ -129,3 +129,4 @@ Daily updates of topics learned and coded.
 * **2022-01-25**: Learned and worked on Responsive Design.
 * **2022-01-25**: Learned and worked on Next.js App Router.
 * **2022-01-25**: Learned and worked on Async/Await.
+* **2022-01-28**: Learned and worked on React Effects (useEffect).
