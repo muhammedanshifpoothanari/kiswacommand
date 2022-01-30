@@ -137,3 +137,4 @@ Daily updates of topics learned and coded.
 * **2022-01-28**: Learned and worked on Next.js App Router.
 * **2022-01-30**: Learned and worked on REST API design.
 * **2022-01-30**: Learned and worked on TypeScript Types.
+* **2022-01-30**: Learned and worked on React State (useState).
