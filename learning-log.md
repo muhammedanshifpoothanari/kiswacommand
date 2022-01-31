@@ -147,3 +147,4 @@ Daily updates of topics learned and coded.
 * **2022-01-31**: Learned and worked on ES6 Classes.
 * **2022-01-31**: Learned and worked on Mongoose Schemas.
 * **2022-01-31**: Learned and worked on Mongoose Schemas.
+* **2022-01-31**: Learned and worked on CSS Flexbox.
