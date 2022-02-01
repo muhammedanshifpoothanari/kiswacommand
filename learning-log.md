@@ -162,3 +162,4 @@ Daily updates of topics learned and coded.
 * **2022-02-01**: Learned and worked on Responsive Design.
 * **2022-02-01**: Learned and worked on CSS Flexbox.
 * **2022-02-01**: Learned and worked on React Components.
+* **2022-02-01**: Learned and worked on JWT Authentication.
