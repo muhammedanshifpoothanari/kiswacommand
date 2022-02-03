@@ -167,3 +167,4 @@ Daily updates of topics learned and coded.
 * **2022-02-03**: Learned and worked on React Effects (useEffect).
 * **2022-02-03**: Learned and worked on HTML structure.
 * **2022-02-03**: Learned and worked on Async/Await.
+* **2022-02-03**: Learned and worked on CSS Flexbox.
