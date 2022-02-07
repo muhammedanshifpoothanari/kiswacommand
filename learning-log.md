@@ -184,3 +184,4 @@ Daily updates of topics learned and coded.
 * **2022-02-04**: Learned and worked on CSS Flexbox.
 * **2022-02-07**: Learned and worked on CSS Grid.
 * **2022-02-07**: Learned and worked on React Props.
+* **2022-02-07**: Learned and worked on Promises.
