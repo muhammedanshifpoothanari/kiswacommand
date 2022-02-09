@@ -194,3 +194,4 @@ Daily updates of topics learned and coded.
 * **2022-02-07**: Learned and worked on Mongoose Schemas.
 * **2022-02-07**: Learned and worked on ES6 Classes.
 * **2022-02-07**: Learned and worked on JavaScript Loops.
+* **2022-02-09**: Learned and worked on React Components.
