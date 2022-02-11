@@ -208,3 +208,4 @@ Daily updates of topics learned and coded.
 * **2022-02-11**: Learned and worked on JavaScript Functions.
 * **2022-02-11**: Learned and worked on React State (useState).
 * **2022-02-11**: Learned and worked on Express Middleware.
+* **2022-02-11**: Learned and worked on DOM Selectors.
