@@ -205,3 +205,4 @@ Daily updates of topics learned and coded.
 * **2022-02-11**: Learned and worked on Express Middleware.
 * **2022-02-11**: Learned and worked on React Props.
 * **2022-02-11**: Learned and worked on TypeScript Types.
+* **2022-02-11**: Learned and worked on JavaScript Functions.
