@@ -217,3 +217,4 @@ Daily updates of topics learned and coded.
 * **2022-02-15**: Learned and worked on CSS Flexbox.
 * **2022-02-15**: Learned and worked on JavaScript Loops.
 * **2022-02-15**: Learned and worked on React State (useState).
+* **2022-02-15**: Learned and worked on MongoDB Connection.
