@@ -227,3 +227,4 @@ Daily updates of topics learned and coded.
 * **2022-02-16**: Learned and worked on TypeScript Types.
 * **2022-02-16**: Learned and worked on ES6 Classes.
 * **2022-02-16**: Learned and worked on React Effects (useEffect).
+* **2022-02-16**: Learned and worked on JavaScript Loops.
