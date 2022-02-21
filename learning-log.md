@@ -238,3 +238,4 @@ Daily updates of topics learned and coded.
 * **2022-02-18**: Learned and worked on React State (useState).
 * **2022-02-21**: Learned and worked on TypeScript Types.
 * **2022-02-21**: Learned and worked on MongoDB Connection.
+* **2022-02-21**: Learned and worked on HTML structure.
