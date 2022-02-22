@@ -247,3 +247,4 @@ Daily updates of topics learned and coded.
 * **2022-02-22**: Learned and worked on JWT Authentication.
 * **2022-02-22**: Learned and worked on JavaScript Loops.
 * **2022-02-22**: Learned and worked on React Props.
+* **2022-02-22**: Learned and worked on JavaScript Variables.
