@@ -258,3 +258,4 @@ Daily updates of topics learned and coded.
 * **2022-02-23**: Learned and worked on DOM Selectors.
 * **2022-02-23**: Learned and worked on Mongoose Schemas.
 * **2022-02-23**: Learned and worked on JWT Authentication.
+* **2022-02-23**: Learned and worked on JavaScript Loops.
