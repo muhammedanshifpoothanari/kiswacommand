@@ -253,3 +253,4 @@ Daily updates of topics learned and coded.
 * **2022-02-23**: Learned and worked on JavaScript Loops.
 * **2022-02-23**: Learned and worked on React Props.
 * **2022-02-23**: Learned and worked on Responsive Design.
+* **2022-02-23**: Learned and worked on CSS Flexbox.
