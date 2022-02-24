@@ -262,3 +262,4 @@ Daily updates of topics learned and coded.
 * **2022-02-24**: Learned and worked on JWT Authentication.
 * **2022-02-24**: Learned and worked on Async/Await.
 * **2022-02-24**: Learned and worked on Next.js App Router.
+* **2022-02-24**: Learned and worked on React Props.
