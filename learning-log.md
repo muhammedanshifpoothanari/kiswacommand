@@ -270,3 +270,4 @@ Daily updates of topics learned and coded.
 * **2022-03-01**: Learned and worked on Next.js App Router.
 * **2022-03-01**: Learned and worked on CSS Grid.
 * **2022-03-01**: Learned and worked on HTML structure.
+* **2022-03-01**: Learned and worked on Async/Await.
