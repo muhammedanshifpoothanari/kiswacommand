@@ -274,3 +274,4 @@ Daily updates of topics learned and coded.
 * **2022-03-01**: Learned and worked on Responsive Design.
 * **2022-03-01**: Learned and worked on React Effects (useEffect).
 * **2022-03-02**: Learned and worked on React Components.
+* **2022-03-02**: Learned and worked on React Components.
