@@ -291,3 +291,4 @@ Daily updates of topics learned and coded.
 * **2022-03-06**: Learned and worked on DOM Selectors.
 * **2022-03-06**: Learned and worked on MongoDB Connection.
 * **2022-03-06**: Learned and worked on REST API design.
+* **2022-03-06**: Learned and worked on ES6 Classes.
