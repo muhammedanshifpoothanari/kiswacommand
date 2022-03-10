@@ -309,3 +309,4 @@ Daily updates of topics learned and coded.
 * **2022-03-10**: Learned and worked on Fetch API.
 * **2022-03-10**: Learned and worked on JavaScript Functions.
 * **2022-03-10**: Learned and worked on Docker Containers.
+* **2022-03-10**: Learned and worked on REST API design.
