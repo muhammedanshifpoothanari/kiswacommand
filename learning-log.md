@@ -307,3 +307,4 @@ Daily updates of topics learned and coded.
 * **2022-03-10**: Learned and worked on Promises.
 * **2022-03-10**: Learned and worked on TypeScript Types.
 * **2022-03-10**: Learned and worked on Fetch API.
+* **2022-03-10**: Learned and worked on JavaScript Functions.
