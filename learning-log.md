@@ -338,3 +338,4 @@ Daily updates of topics learned and coded.
 * **2022-03-24**: Learned and worked on Async/Await.
 * **2022-03-24**: Learned and worked on CSS Flexbox.
 * **2022-03-24**: Learned and worked on Express Middleware.
+* **2022-03-24**: Learned and worked on Express Middleware.
