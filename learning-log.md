@@ -339,3 +339,4 @@ Daily updates of topics learned and coded.
 * **2022-03-24**: Learned and worked on CSS Flexbox.
 * **2022-03-24**: Learned and worked on Express Middleware.
 * **2022-03-24**: Learned and worked on Express Middleware.
+* **2022-03-24**: Learned and worked on TypeScript Types.
