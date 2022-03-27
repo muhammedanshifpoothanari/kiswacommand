@@ -342,3 +342,4 @@ Daily updates of topics learned and coded.
 * **2022-03-24**: Learned and worked on TypeScript Types.
 * **2022-03-24**: Learned and worked on JavaScript Variables.
 * **2022-03-24**: Learned and worked on Docker Containers.
+* **2022-03-27**: Learned and worked on Responsive Design.
