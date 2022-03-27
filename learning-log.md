@@ -345,3 +345,4 @@ Daily updates of topics learned and coded.
 * **2022-03-27**: Learned and worked on Responsive Design.
 * **2022-03-27**: Learned and worked on Mongoose Schemas.
 * **2022-03-27**: Learned and worked on TypeScript Types.
+* **2022-03-27**: Learned and worked on CSS Grid.
