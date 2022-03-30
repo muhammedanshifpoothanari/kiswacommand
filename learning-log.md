@@ -369,3 +369,4 @@ Daily updates of topics learned and coded.
 * **2022-03-29**: Learned and worked on React Props.
 * **2022-03-30**: Learned and worked on JavaScript Loops.
 * **2022-03-30**: Learned and worked on Fetch API.
+* **2022-03-30**: Learned and worked on TypeScript Types.
