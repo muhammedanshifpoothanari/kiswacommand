@@ -376,3 +376,4 @@ Daily updates of topics learned and coded.
 * **2022-04-01**: Learned and worked on JavaScript Variables.
 * **2022-04-01**: Learned and worked on React Effects (useEffect).
 * **2022-04-01**: Learned and worked on HTML structure.
+* **2022-04-01**: Learned and worked on CSS Flexbox.
