@@ -373,3 +373,4 @@ Daily updates of topics learned and coded.
 * **2022-03-30**: Learned and worked on ES6 Classes.
 * **2022-03-30**: Learned and worked on Express routing.
 * **2022-03-30**: Learned and worked on TypeScript Types.
+* **2022-04-01**: Learned and worked on JavaScript Variables.
