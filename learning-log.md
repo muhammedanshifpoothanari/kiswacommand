@@ -397,3 +397,4 @@ Daily updates of topics learned and coded.
 * **2022-04-02**: Learned and worked on Responsive Design.
 * **2022-04-04**: Learned and worked on Express routing.
 * **2022-04-04**: Learned and worked on React Components.
+* **2022-04-04**: Learned and worked on DOM Selectors.
