@@ -399,3 +399,4 @@ Daily updates of topics learned and coded.
 * **2022-04-04**: Learned and worked on React Components.
 * **2022-04-04**: Learned and worked on DOM Selectors.
 * **2022-04-04**: Learned and worked on Express routing.
+* **2022-04-04**: Learned and worked on Express Middleware.
