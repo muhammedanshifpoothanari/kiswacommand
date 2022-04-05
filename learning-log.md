@@ -406,3 +406,4 @@ Daily updates of topics learned and coded.
 * **2022-04-04**: Learned and worked on ES6 Classes.
 * **2022-04-04**: Learned and worked on JavaScript Functions.
 * **2022-04-04**: Learned and worked on TypeScript Types.
+* **2022-04-05**: Learned and worked on MongoDB Connection.
