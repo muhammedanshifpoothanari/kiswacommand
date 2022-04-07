@@ -415,3 +415,4 @@ Daily updates of topics learned and coded.
 * **2022-04-07**: Learned and worked on CSS Grid.
 * **2022-04-07**: Learned and worked on JavaScript Functions.
 * **2022-04-07**: Learned and worked on Responsive Design.
+* **2022-04-07**: Learned and worked on React Props.
