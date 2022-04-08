@@ -417,3 +417,4 @@ Daily updates of topics learned and coded.
 * **2022-04-07**: Learned and worked on Responsive Design.
 * **2022-04-07**: Learned and worked on React Props.
 * **2022-04-07**: Learned and worked on HTML structure.
+* **2022-04-08**: Learned and worked on REST API design.
