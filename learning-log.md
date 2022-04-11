@@ -427,3 +427,4 @@ Daily updates of topics learned and coded.
 * **2022-04-11**: Learned and worked on Fetch API.
 * **2022-04-11**: Learned and worked on HTML structure.
 * **2022-04-11**: Learned and worked on React Effects (useEffect).
+* **2022-04-11**: Learned and worked on Mongoose Schemas.
