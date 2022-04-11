@@ -423,3 +423,4 @@ Daily updates of topics learned and coded.
 * **2022-04-08**: Learned and worked on React State (useState).
 * **2022-04-08**: Learned and worked on React State (useState).
 * **2022-04-11**: Learned and worked on CSS Flexbox.
+* **2022-04-11**: Learned and worked on React Props.
