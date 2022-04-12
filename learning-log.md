@@ -436,3 +436,4 @@ Daily updates of topics learned and coded.
 * **2022-04-12**: Learned and worked on Responsive Design.
 * **2022-04-12**: Learned and worked on Promises.
 * **2022-04-12**: Learned and worked on React Effects (useEffect).
+* **2022-04-12**: Learned and worked on DOM Selectors.
