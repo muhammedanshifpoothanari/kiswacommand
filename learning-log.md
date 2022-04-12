@@ -434,3 +434,4 @@ Daily updates of topics learned and coded.
 * **2022-04-12**: Learned and worked on TypeScript Types.
 * **2022-04-12**: Learned and worked on JavaScript Variables.
 * **2022-04-12**: Learned and worked on Responsive Design.
+* **2022-04-12**: Learned and worked on Promises.
