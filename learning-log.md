@@ -440,3 +440,4 @@ Daily updates of topics learned and coded.
 * **2022-04-12**: Learned and worked on CSS Grid.
 * **2022-04-12**: Learned and worked on Express routing.
 * **2022-04-12**: Learned and worked on Fetch API.
+* **2022-04-12**: Learned and worked on Async/Await.
