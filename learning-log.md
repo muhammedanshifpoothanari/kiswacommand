@@ -450,3 +450,4 @@ Daily updates of topics learned and coded.
 * **2022-04-14**: Learned and worked on TypeScript Types.
 * **2022-04-15**: Learned and worked on ES6 Classes.
 * **2022-04-15**: Learned and worked on DOM Selectors.
+* **2022-04-15**: Learned and worked on Fetch API.
