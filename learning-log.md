@@ -469,3 +469,4 @@ Daily updates of topics learned and coded.
 * **2022-04-19**: Learned and worked on JavaScript Loops.
 * **2022-04-21**: Learned and worked on React Components.
 * **2022-04-21**: Learned and worked on CSS Flexbox.
+* **2022-04-21**: Learned and worked on Docker Containers.
