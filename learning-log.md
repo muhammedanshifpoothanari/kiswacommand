@@ -473,3 +473,4 @@ Daily updates of topics learned and coded.
 * **2022-04-21**: Learned and worked on JWT Authentication.
 * **2022-04-21**: Learned and worked on HTML structure.
 * **2022-04-21**: Learned and worked on JavaScript Functions.
+* **2022-04-21**: Learned and worked on Async/Await.
