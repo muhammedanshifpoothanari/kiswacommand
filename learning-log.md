@@ -467,3 +467,4 @@ Daily updates of topics learned and coded.
 * **2022-04-19**: Learned and worked on Promises.
 * **2022-04-19**: Learned and worked on Fetch API.
 * **2022-04-19**: Learned and worked on JavaScript Loops.
+* **2022-04-21**: Learned and worked on React Components.
