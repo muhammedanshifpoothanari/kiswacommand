@@ -483,3 +483,4 @@ Daily updates of topics learned and coded.
 * **2022-04-25**: Learned and worked on JWT Authentication.
 * **2022-04-25**: Learned and worked on JavaScript Loops.
 * **2022-04-25**: Learned and worked on CSS Flexbox.
+* **2022-04-25**: Learned and worked on ES6 Classes.
