@@ -515,3 +515,4 @@ Daily updates of topics learned and coded.
 * **2022-04-29**: Learned and worked on MongoDB Connection.
 * **2022-04-29**: Learned and worked on Next.js App Router.
 * **2022-04-30**: Learned and worked on HTML structure.
+* **2022-04-30**: Learned and worked on Express Middleware.
