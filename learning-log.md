@@ -547,3 +547,4 @@ Daily updates of topics learned and coded.
 * **2022-05-05**: Learned and worked on Next.js App Router.
 * **2022-05-05**: Learned and worked on HTML structure.
 * **2022-05-05**: Learned and worked on React Components.
+* **2022-05-05**: Learned and worked on Responsive Design.
