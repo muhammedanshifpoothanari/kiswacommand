@@ -546,3 +546,4 @@ Daily updates of topics learned and coded.
 * **2022-05-04**: Learned and worked on TypeScript Types.
 * **2022-05-05**: Learned and worked on Next.js App Router.
 * **2022-05-05**: Learned and worked on HTML structure.
+* **2022-05-05**: Learned and worked on React Components.
