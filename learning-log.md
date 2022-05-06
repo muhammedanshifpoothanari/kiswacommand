@@ -555,3 +555,4 @@ Daily updates of topics learned and coded.
 * **2022-05-05**: Learned and worked on Next.js App Router.
 * **2022-05-06**: Learned and worked on JWT Authentication.
 * **2022-05-06**: Learned and worked on Mongoose Schemas.
+* **2022-05-06**: Learned and worked on Responsive Design.
