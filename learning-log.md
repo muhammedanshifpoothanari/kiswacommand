@@ -557,3 +557,4 @@ Daily updates of topics learned and coded.
 * **2022-05-06**: Learned and worked on Mongoose Schemas.
 * **2022-05-06**: Learned and worked on Responsive Design.
 * **2022-05-06**: Learned and worked on Async/Await.
+* **2022-05-06**: Learned and worked on Next.js App Router.
