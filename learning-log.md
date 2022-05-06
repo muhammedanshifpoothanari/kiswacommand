@@ -561,3 +561,4 @@ Daily updates of topics learned and coded.
 * **2022-05-06**: Learned and worked on Express Middleware.
 * **2022-05-06**: Learned and worked on HTML structure.
 * **2022-05-06**: Learned and worked on REST API design.
+* **2022-05-06**: Learned and worked on React State (useState).
