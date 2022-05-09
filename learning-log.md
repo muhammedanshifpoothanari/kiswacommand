@@ -564,3 +564,4 @@ Daily updates of topics learned and coded.
 * **2022-05-06**: Learned and worked on React State (useState).
 * **2022-05-09**: Learned and worked on React Components.
 * **2022-05-09**: Learned and worked on Promises.
+* **2022-05-09**: Learned and worked on CSS Grid.
