@@ -574,3 +574,4 @@ Daily updates of topics learned and coded.
 * **2022-05-10**: Learned and worked on JWT Authentication.
 * **2022-05-10**: Learned and worked on Docker Containers.
 * **2022-05-10**: Learned and worked on React Components.
+* **2022-05-10**: Learned and worked on JavaScript Variables.
