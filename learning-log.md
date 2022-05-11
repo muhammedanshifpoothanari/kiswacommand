@@ -582,3 +582,4 @@ Daily updates of topics learned and coded.
 * **2022-05-10**: Learned and worked on JavaScript Functions.
 * **2022-05-11**: Learned and worked on REST API design.
 * **2022-05-11**: Learned and worked on DOM Selectors.
+* **2022-05-11**: Learned and worked on Express Middleware.
