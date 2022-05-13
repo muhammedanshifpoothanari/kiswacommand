@@ -586,3 +586,4 @@ Daily updates of topics learned and coded.
 * **2022-05-11**: Learned and worked on HTML structure.
 * **2022-05-11**: Learned and worked on JavaScript Functions.
 * **2022-05-11**: Learned and worked on TypeScript Types.
+* **2022-05-13**: Learned and worked on MongoDB Connection.
