@@ -597,3 +597,4 @@ Daily updates of topics learned and coded.
 * **2022-05-15**: Learned and worked on DOM Selectors.
 * **2022-05-15**: Learned and worked on Fetch API.
 * **2022-05-15**: Learned and worked on React Effects (useEffect).
+* **2022-05-15**: Learned and worked on React State (useState).
