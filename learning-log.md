@@ -606,3 +606,4 @@ Daily updates of topics learned and coded.
 * **2022-05-16**: Learned and worked on JavaScript Loops.
 * **2022-05-16**: Learned and worked on JavaScript Loops.
 * **2022-05-16**: Learned and worked on Fetch API.
+* **2022-05-16**: Learned and worked on React Props.
