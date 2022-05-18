@@ -613,3 +613,4 @@ Daily updates of topics learned and coded.
 * **2022-05-18**: Learned and worked on MongoDB Connection.
 * **2022-05-18**: Learned and worked on Responsive Design.
 * **2022-05-18**: Learned and worked on Next.js App Router.
+* **2022-05-18**: Learned and worked on JavaScript Loops.
