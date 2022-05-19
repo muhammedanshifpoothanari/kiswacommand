@@ -619,3 +619,4 @@ Daily updates of topics learned and coded.
 * **2022-05-19**: Learned and worked on CSS Flexbox.
 * **2022-05-19**: Learned and worked on Promises.
 * **2022-05-19**: Learned and worked on React State (useState).
+* **2022-05-19**: Learned and worked on REST API design.
