@@ -623,3 +623,4 @@ Daily updates of topics learned and coded.
 * **2022-05-20**: Learned and worked on Next.js App Router.
 * **2022-05-20**: Learned and worked on Express routing.
 * **2022-05-20**: Learned and worked on Next.js App Router.
+* **2022-05-20**: Learned and worked on Docker Containers.
