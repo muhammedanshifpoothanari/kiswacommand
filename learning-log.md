@@ -647,3 +647,4 @@ Daily updates of topics learned and coded.
 * **2022-05-24**: Learned and worked on JavaScript Functions.
 * **2022-05-24**: Learned and worked on Fetch API.
 * **2022-05-24**: Learned and worked on REST API design.
+* **2022-05-24**: Learned and worked on React Effects (useEffect).
