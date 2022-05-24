@@ -639,3 +639,4 @@ Daily updates of topics learned and coded.
 * **2022-05-23**: Learned and worked on Express routing.
 * **2022-05-23**: Learned and worked on Promises.
 * **2022-05-23**: Learned and worked on JavaScript Variables.
+* **2022-05-24**: Learned and worked on Docker Containers.
