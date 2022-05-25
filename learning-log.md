@@ -650,3 +650,4 @@ Daily updates of topics learned and coded.
 * **2022-05-24**: Learned and worked on React Effects (useEffect).
 * **2022-05-24**: Learned and worked on ES6 Classes.
 * **2022-05-24**: Learned and worked on REST API design.
+* **2022-05-25**: Learned and worked on Next.js App Router.
