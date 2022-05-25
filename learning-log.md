@@ -653,3 +653,4 @@ Daily updates of topics learned and coded.
 * **2022-05-25**: Learned and worked on Next.js App Router.
 * **2022-05-25**: Learned and worked on HTML structure.
 * **2022-05-25**: Learned and worked on JWT Authentication.
+* **2022-05-25**: Learned and worked on Docker Containers.
