@@ -661,3 +661,4 @@ Daily updates of topics learned and coded.
 * **2022-05-26**: Learned and worked on React Effects (useEffect).
 * **2022-05-26**: Learned and worked on JavaScript Variables.
 * **2022-05-26**: Learned and worked on Express routing.
+* **2022-05-26**: Learned and worked on HTML structure.
