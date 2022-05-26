@@ -659,3 +659,4 @@ Daily updates of topics learned and coded.
 * **2022-05-26**: Learned and worked on Responsive Design.
 * **2022-05-26**: Learned and worked on CSS Grid.
 * **2022-05-26**: Learned and worked on React Effects (useEffect).
+* **2022-05-26**: Learned and worked on JavaScript Variables.
