@@ -656,3 +656,4 @@ Daily updates of topics learned and coded.
 * **2022-05-25**: Learned and worked on Docker Containers.
 * **2022-05-25**: Learned and worked on TypeScript Types.
 * **2022-05-26**: Learned and worked on ES6 Classes.
+* **2022-05-26**: Learned and worked on Responsive Design.
