@@ -666,3 +666,4 @@ Daily updates of topics learned and coded.
 * **2022-05-31**: Learned and worked on Async/Await.
 * **2022-05-31**: Learned and worked on CSS Grid.
 * **2022-05-31**: Learned and worked on JavaScript Variables.
+* **2022-05-31**: Learned and worked on Promises.
