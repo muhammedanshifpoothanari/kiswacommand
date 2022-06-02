@@ -684,3 +684,4 @@ Daily updates of topics learned and coded.
 * **2022-06-02**: Learned and worked on DOM Selectors.
 * **2022-06-02**: Learned and worked on JWT Authentication.
 * **2022-06-02**: Learned and worked on CSS Flexbox.
+* **2022-06-02**: Learned and worked on React Effects (useEffect).
