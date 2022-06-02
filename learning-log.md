@@ -681,3 +681,4 @@ Daily updates of topics learned and coded.
 * **2022-06-02**: Learned and worked on Next.js App Router.
 * **2022-06-02**: Learned and worked on React Props.
 * **2022-06-02**: Learned and worked on Express Middleware.
+* **2022-06-02**: Learned and worked on DOM Selectors.
