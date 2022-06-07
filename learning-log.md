@@ -713,3 +713,4 @@ Daily updates of topics learned and coded.
 * **2022-06-06**: Learned and worked on JavaScript Functions.
 * **2022-06-06**: Learned and worked on React Effects (useEffect).
 * **2022-06-06**: Learned and worked on MongoDB Connection.
+* **2022-06-07**: Learned and worked on React Effects (useEffect).
