@@ -717,3 +717,4 @@ Daily updates of topics learned and coded.
 * **2022-06-07**: Learned and worked on JWT Authentication.
 * **2022-06-07**: Learned and worked on JavaScript Functions.
 * **2022-06-07**: Learned and worked on Promises.
+* **2022-06-07**: Learned and worked on Fetch API.
