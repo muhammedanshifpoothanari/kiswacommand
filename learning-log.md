@@ -722,3 +722,4 @@ Daily updates of topics learned and coded.
 * **2022-06-07**: Learned and worked on CSS Grid.
 * **2022-06-07**: Learned and worked on DOM Selectors.
 * **2022-06-07**: Learned and worked on React Effects (useEffect).
+* **2022-06-07**: Learned and worked on Mongoose Schemas.
