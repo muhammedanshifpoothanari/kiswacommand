@@ -728,3 +728,4 @@ Daily updates of topics learned and coded.
 * **2022-06-09**: Learned and worked on Mongoose Schemas.
 * **2022-06-09**: Learned and worked on Async/Await.
 * **2022-06-09**: Learned and worked on JWT Authentication.
+* **2022-06-09**: Learned and worked on React Props.
