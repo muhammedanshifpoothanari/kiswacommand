@@ -733,3 +733,4 @@ Daily updates of topics learned and coded.
 * **2022-06-09**: Learned and worked on HTML structure.
 * **2022-06-09**: Learned and worked on JavaScript Loops.
 * **2022-06-09**: Learned and worked on CSS Grid.
+* **2022-06-09**: Learned and worked on Promises.
