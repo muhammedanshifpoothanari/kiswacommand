@@ -750,3 +750,4 @@ Daily updates of topics learned and coded.
 * **2022-06-10**: Learned and worked on MongoDB Connection.
 * **2022-06-13**: Learned and worked on JavaScript Variables.
 * **2022-06-13**: Learned and worked on Async/Await.
+* **2022-06-13**: Learned and worked on Mongoose Schemas.
