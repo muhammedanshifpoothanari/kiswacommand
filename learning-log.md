@@ -766,3 +766,4 @@ Daily updates of topics learned and coded.
 * **2022-06-14**: Learned and worked on React Effects (useEffect).
 * **2022-06-14**: Learned and worked on JavaScript Loops.
 * **2022-06-14**: Learned and worked on JavaScript Functions.
+* **2022-06-14**: Learned and worked on React State (useState).
