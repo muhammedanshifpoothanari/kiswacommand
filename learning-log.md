@@ -775,3 +775,4 @@ Daily updates of topics learned and coded.
 * **2022-06-16**: Learned and worked on REST API design.
 * **2022-06-16**: Learned and worked on Promises.
 * **2022-06-16**: Learned and worked on Express Middleware.
+* **2022-06-16**: Learned and worked on React Components.
