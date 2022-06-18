@@ -789,3 +789,4 @@ Daily updates of topics learned and coded.
 * **2022-06-18**: Learned and worked on HTML structure.
 * **2022-06-18**: Learned and worked on Async/Await.
 * **2022-06-18**: Learned and worked on Async/Await.
+* **2022-06-18**: Learned and worked on TypeScript Types.
