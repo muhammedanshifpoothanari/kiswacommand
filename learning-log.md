@@ -799,3 +799,4 @@ Daily updates of topics learned and coded.
 * **2022-06-20**: Learned and worked on Promises.
 * **2022-06-20**: Learned and worked on HTML structure.
 * **2022-06-20**: Learned and worked on Next.js App Router.
+* **2022-06-20**: Learned and worked on HTML structure.
