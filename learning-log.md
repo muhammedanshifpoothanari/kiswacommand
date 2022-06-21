@@ -804,3 +804,4 @@ Daily updates of topics learned and coded.
 * **2022-06-21**: Learned and worked on MongoDB Connection.
 * **2022-06-21**: Learned and worked on Mongoose Schemas.
 * **2022-06-21**: Learned and worked on MongoDB Connection.
+* **2022-06-21**: Learned and worked on Express Middleware.
