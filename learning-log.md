@@ -813,3 +813,4 @@ Daily updates of topics learned and coded.
 * **2022-06-22**: Learned and worked on JavaScript Functions.
 * **2022-06-22**: Learned and worked on React Components.
 * **2022-06-22**: Learned and worked on Docker Containers.
+* **2022-06-22**: Learned and worked on JavaScript Functions.
