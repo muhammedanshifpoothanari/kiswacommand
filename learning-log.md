@@ -817,3 +817,4 @@ Daily updates of topics learned and coded.
 * **2022-06-27**: Learned and worked on Mongoose Schemas.
 * **2022-06-27**: Learned and worked on React Effects (useEffect).
 * **2022-06-27**: Learned and worked on TypeScript Types.
+* **2022-06-27**: Learned and worked on Express Middleware.
