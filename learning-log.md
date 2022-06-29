@@ -833,3 +833,4 @@ Daily updates of topics learned and coded.
 * **2022-06-28**: Learned and worked on React Components.
 * **2022-06-28**: Learned and worked on CSS Grid.
 * **2022-06-28**: Learned and worked on Docker Containers.
+* **2022-06-29**: Learned and worked on Promises.
