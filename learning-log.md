@@ -853,3 +853,4 @@ Daily updates of topics learned and coded.
 * **2022-06-30**: Learned and worked on JWT Authentication.
 * **2022-06-30**: Learned and worked on React Effects (useEffect).
 * **2022-06-30**: Learned and worked on Responsive Design.
+* **2022-06-30**: Learned and worked on Mongoose Schemas.
