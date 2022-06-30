@@ -846,3 +846,4 @@ Daily updates of topics learned and coded.
 * **2022-06-29**: Learned and worked on Express routing.
 * **2022-06-29**: Learned and worked on JWT Authentication.
 * **2022-06-30**: Learned and worked on Async/Await.
+* **2022-06-30**: Learned and worked on React Components.
