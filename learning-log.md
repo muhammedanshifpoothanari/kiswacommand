@@ -858,3 +858,4 @@ Daily updates of topics learned and coded.
 * **2022-06-30**: Learned and worked on ES6 Classes.
 * **2022-06-30**: Learned and worked on CSS Grid.
 * **2022-07-04**: Learned and worked on Async/Await.
+* **2022-07-04**: Learned and worked on CSS Flexbox.
