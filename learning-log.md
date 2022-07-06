@@ -865,3 +865,4 @@ Daily updates of topics learned and coded.
 * **2022-07-06**: Learned and worked on Responsive Design.
 * **2022-07-06**: Learned and worked on HTML structure.
 * **2022-07-06**: Learned and worked on Mongoose Schemas.
+* **2022-07-06**: Learned and worked on JavaScript Loops.
