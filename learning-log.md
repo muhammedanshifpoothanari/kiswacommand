@@ -872,3 +872,4 @@ Daily updates of topics learned and coded.
 * **2022-07-06**: Learned and worked on ES6 Classes.
 * **2022-07-06**: Learned and worked on DOM Selectors.
 * **2022-07-06**: Learned and worked on React Components.
+* **2022-07-06**: Learned and worked on ES6 Classes.
