@@ -869,3 +869,4 @@ Daily updates of topics learned and coded.
 * **2022-07-06**: Learned and worked on Express Middleware.
 * **2022-07-06**: Learned and worked on Fetch API.
 * **2022-07-06**: Learned and worked on React State (useState).
+* **2022-07-06**: Learned and worked on ES6 Classes.
