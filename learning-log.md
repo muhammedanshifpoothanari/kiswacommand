@@ -876,3 +876,4 @@ Daily updates of topics learned and coded.
 * **2022-07-06**: Learned and worked on Express routing.
 * **2022-07-07**: Learned and worked on React State (useState).
 * **2022-07-07**: Learned and worked on REST API design.
+* **2022-07-07**: Learned and worked on Fetch API.
