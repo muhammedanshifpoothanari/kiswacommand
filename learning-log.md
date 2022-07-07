@@ -878,3 +878,4 @@ Daily updates of topics learned and coded.
 * **2022-07-07**: Learned and worked on REST API design.
 * **2022-07-07**: Learned and worked on Fetch API.
 * **2022-07-07**: Learned and worked on CSS Grid.
+* **2022-07-07**: Learned and worked on JWT Authentication.
