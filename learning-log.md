@@ -886,3 +886,4 @@ Daily updates of topics learned and coded.
 * **2022-07-07**: Learned and worked on Async/Await.
 * **2022-07-12**: Learned and worked on HTML structure.
 * **2022-07-12**: Learned and worked on MongoDB Connection.
+* **2022-07-12**: Learned and worked on CSS Grid.
