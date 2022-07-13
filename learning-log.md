@@ -898,3 +898,4 @@ Daily updates of topics learned and coded.
 * **2022-07-13**: Learned and worked on JavaScript Variables.
 * **2022-07-13**: Learned and worked on MongoDB Connection.
 * **2022-07-13**: Learned and worked on JavaScript Loops.
+* **2022-07-13**: Learned and worked on JavaScript Functions.
