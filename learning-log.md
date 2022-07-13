@@ -894,3 +894,4 @@ Daily updates of topics learned and coded.
 * **2022-07-12**: Learned and worked on MongoDB Connection.
 * **2022-07-12**: Learned and worked on Docker Containers.
 * **2022-07-13**: Learned and worked on CSS Grid.
+* **2022-07-13**: Learned and worked on Fetch API.
