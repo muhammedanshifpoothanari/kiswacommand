@@ -904,3 +904,4 @@ Daily updates of topics learned and coded.
 * **2022-07-13**: Learned and worked on CSS Flexbox.
 * **2022-07-13**: Learned and worked on Async/Await.
 * **2022-07-13**: Learned and worked on JavaScript Variables.
+* **2022-07-14**: Learned and worked on REST API design.
