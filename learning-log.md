@@ -921,3 +921,4 @@ Daily updates of topics learned and coded.
 * **2022-07-18**: Learned and worked on Express Middleware.
 * **2022-07-18**: Learned and worked on Next.js App Router.
 * **2022-07-18**: Learned and worked on Async/Await.
+* **2022-07-18**: Learned and worked on Express Middleware.
