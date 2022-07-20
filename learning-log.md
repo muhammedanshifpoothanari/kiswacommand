@@ -931,3 +931,4 @@ Daily updates of topics learned and coded.
 * **2022-07-20**: Learned and worked on React Components.
 * **2022-07-20**: Learned and worked on React Effects (useEffect).
 * **2022-07-20**: Learned and worked on JWT Authentication.
+* **2022-07-20**: Learned and worked on Express Middleware.
