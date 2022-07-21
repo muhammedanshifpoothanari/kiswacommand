@@ -938,3 +938,4 @@ Daily updates of topics learned and coded.
 * **2022-07-20**: Learned and worked on MongoDB Connection.
 * **2022-07-20**: Learned and worked on CSS Flexbox.
 * **2022-07-21**: Learned and worked on Promises.
+* **2022-07-21**: Learned and worked on DOM Selectors.
