@@ -940,3 +940,4 @@ Daily updates of topics learned and coded.
 * **2022-07-21**: Learned and worked on Promises.
 * **2022-07-21**: Learned and worked on DOM Selectors.
 * **2022-07-21**: Learned and worked on React Effects (useEffect).
+* **2022-07-21**: Learned and worked on React Components.
