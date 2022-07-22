@@ -950,3 +950,4 @@ Daily updates of topics learned and coded.
 * **2022-07-21**: Learned and worked on ES6 Classes.
 * **2022-07-22**: Learned and worked on HTML structure.
 * **2022-07-22**: Learned and worked on JavaScript Loops.
+* **2022-07-22**: Learned and worked on TypeScript Types.
