@@ -960,3 +960,4 @@ Daily updates of topics learned and coded.
 * **2022-07-24**: Learned and worked on REST API design.
 * **2022-07-24**: Learned and worked on HTML structure.
 * **2022-07-24**: Learned and worked on Docker Containers.
+* **2022-07-24**: Learned and worked on ES6 Classes.
