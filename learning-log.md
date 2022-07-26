@@ -967,3 +967,4 @@ Daily updates of topics learned and coded.
 * **2022-07-26**: Learned and worked on Express routing.
 * **2022-07-26**: Learned and worked on Express routing.
 * **2022-07-26**: Learned and worked on JavaScript Loops.
+* **2022-07-26**: Learned and worked on ES6 Classes.
