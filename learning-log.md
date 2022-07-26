@@ -965,3 +965,4 @@ Daily updates of topics learned and coded.
 * **2022-07-24**: Learned and worked on React State (useState).
 * **2022-07-24**: Learned and worked on JWT Authentication.
 * **2022-07-26**: Learned and worked on Express routing.
+* **2022-07-26**: Learned and worked on Express routing.
