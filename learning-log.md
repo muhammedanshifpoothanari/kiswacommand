@@ -970,3 +970,4 @@ Daily updates of topics learned and coded.
 * **2022-07-26**: Learned and worked on ES6 Classes.
 * **2022-07-26**: Learned and worked on Express Middleware.
 * **2022-07-28**: Learned and worked on DOM Selectors.
+* **2022-07-28**: Learned and worked on Express routing.
