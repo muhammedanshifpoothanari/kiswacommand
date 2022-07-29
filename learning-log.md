@@ -984,3 +984,4 @@ Daily updates of topics learned and coded.
 * **2022-07-29**: Learned and worked on DOM Selectors.
 * **2022-07-29**: Learned and worked on TypeScript Types.
 * **2022-07-29**: Learned and worked on REST API design.
+* **2022-07-29**: Learned and worked on CSS Grid.
