@@ -982,3 +982,4 @@ Daily updates of topics learned and coded.
 * **2022-07-28**: Learned and worked on HTML structure.
 * **2022-07-29**: Learned and worked on CSS Flexbox.
 * **2022-07-29**: Learned and worked on DOM Selectors.
+* **2022-07-29**: Learned and worked on TypeScript Types.
