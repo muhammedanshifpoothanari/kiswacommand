@@ -993,3 +993,4 @@ Daily updates of topics learned and coded.
 * **2022-07-30**: Learned and worked on JavaScript Loops.
 * **2022-07-30**: Learned and worked on DOM Selectors.
 * **2022-07-30**: Learned and worked on React State (useState).
+* **2022-07-30**: Learned and worked on Express Middleware.
