@@ -988,3 +988,4 @@ Daily updates of topics learned and coded.
 * **2022-07-29**: Learned and worked on HTML structure.
 * **2022-07-29**: Learned and worked on CSS Grid.
 * **2022-07-29**: Learned and worked on Fetch API.
+* **2022-07-30**: Learned and worked on React Components.
