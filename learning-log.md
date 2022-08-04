@@ -999,3 +999,4 @@ Daily updates of topics learned and coded.
 * **2022-07-30**: Learned and worked on JWT Authentication.
 * **2022-07-30**: Learned and worked on Express Middleware.
 * **2022-07-30**: Learned and worked on HTML structure.
+* **2022-08-04**: Learned and worked on JWT Authentication.
