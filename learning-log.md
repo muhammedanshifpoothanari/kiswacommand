@@ -1002,3 +1002,4 @@ Daily updates of topics learned and coded.
 * **2022-08-04**: Learned and worked on JWT Authentication.
 * **2022-08-04**: Learned and worked on Docker Containers.
 * **2022-08-04**: Learned and worked on Promises.
+* **2022-08-04**: Learned and worked on TypeScript Types.
