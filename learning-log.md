@@ -1013,3 +1013,4 @@ Daily updates of topics learned and coded.
 * **2022-08-05**: Learned and worked on DOM Selectors.
 * **2022-08-05**: Learned and worked on Express routing.
 * **2022-08-05**: Learned and worked on React Effects (useEffect).
+* **2022-08-05**: Learned and worked on REST API design.
