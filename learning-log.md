@@ -1019,3 +1019,4 @@ Daily updates of topics learned and coded.
 * **2022-08-06**: Learned and worked on React State (useState).
 * **2022-08-06**: Learned and worked on JWT Authentication.
 * **2022-08-06**: Learned and worked on React Components.
+* **2022-08-08**: Learned and worked on Docker Containers.
