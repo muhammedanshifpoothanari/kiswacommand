@@ -1024,3 +1024,4 @@ Daily updates of topics learned and coded.
 * **2022-08-08**: Learned and worked on TypeScript Types.
 * **2022-08-08**: Learned and worked on REST API design.
 * **2022-08-08**: Learned and worked on JavaScript Functions.
+* **2022-08-08**: Learned and worked on Promises.
