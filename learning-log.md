@@ -1028,3 +1028,4 @@ Daily updates of topics learned and coded.
 * **2022-08-08**: Learned and worked on React Props.
 * **2022-08-08**: Learned and worked on React Props.
 * **2022-08-08**: Learned and worked on React State (useState).
+* **2022-08-08**: Learned and worked on TypeScript Types.
