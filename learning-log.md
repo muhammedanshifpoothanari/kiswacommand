@@ -1034,3 +1034,4 @@ Daily updates of topics learned and coded.
 * **2022-08-09**: Learned and worked on Responsive Design.
 * **2022-08-09**: Learned and worked on CSS Flexbox.
 * **2022-08-09**: Learned and worked on Fetch API.
+* **2022-08-09**: Learned and worked on HTML structure.
