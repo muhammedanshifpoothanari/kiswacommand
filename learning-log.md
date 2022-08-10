@@ -1041,3 +1041,4 @@ Daily updates of topics learned and coded.
 * **2022-08-09**: Learned and worked on CSS Flexbox.
 * **2022-08-09**: Learned and worked on JavaScript Variables.
 * **2022-08-09**: Learned and worked on CSS Grid.
+* **2022-08-10**: Learned and worked on JavaScript Loops.
