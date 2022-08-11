@@ -1052,3 +1052,4 @@ Daily updates of topics learned and coded.
 * **2022-08-11**: Learned and worked on Promises.
 * **2022-08-11**: Learned and worked on React Props.
 * **2022-08-11**: Learned and worked on JavaScript Loops.
+* **2022-08-11**: Learned and worked on Next.js App Router.
