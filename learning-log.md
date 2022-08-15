@@ -1066,3 +1066,4 @@ Daily updates of topics learned and coded.
 * **2022-08-12**: Learned and worked on Mongoose Schemas.
 * **2022-08-12**: Learned and worked on Next.js App Router.
 * **2022-08-12**: Learned and worked on Docker Containers.
+* **2022-08-15**: Learned and worked on HTML structure.
