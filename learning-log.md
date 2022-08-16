@@ -1082,3 +1082,4 @@ Daily updates of topics learned and coded.
 * **2022-08-16**: Learned and worked on React Components.
 * **2022-08-16**: Learned and worked on JavaScript Variables.
 * **2022-08-16**: Learned and worked on MongoDB Connection.
+* **2022-08-16**: Learned and worked on React Components.
