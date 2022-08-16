@@ -1085,3 +1085,4 @@ Daily updates of topics learned and coded.
 * **2022-08-16**: Learned and worked on React Components.
 * **2022-08-16**: Learned and worked on REST API design.
 * **2022-08-16**: Learned and worked on Mongoose Schemas.
+* **2022-08-16**: Learned and worked on Next.js App Router.
