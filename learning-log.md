@@ -1087,3 +1087,4 @@ Daily updates of topics learned and coded.
 * **2022-08-16**: Learned and worked on Mongoose Schemas.
 * **2022-08-16**: Learned and worked on Next.js App Router.
 * **2022-08-16**: Learned and worked on React State (useState).
+* **2022-08-16**: Learned and worked on React Components.
