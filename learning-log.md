@@ -1100,3 +1100,4 @@ Daily updates of topics learned and coded.
 * **2022-08-19**: Learned and worked on Docker Containers.
 * **2022-08-19**: Learned and worked on Responsive Design.
 * **2022-08-22**: Learned and worked on CSS Flexbox.
+* **2022-08-22**: Learned and worked on JavaScript Functions.
