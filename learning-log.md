@@ -1119,3 +1119,4 @@ Daily updates of topics learned and coded.
 * **2022-08-24**: Learned and worked on Next.js App Router.
 * **2022-08-24**: Learned and worked on HTML structure.
 * **2022-08-24**: Learned and worked on JavaScript Loops.
+* **2022-08-24**: Learned and worked on Mongoose Schemas.
