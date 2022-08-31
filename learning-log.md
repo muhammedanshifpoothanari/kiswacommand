@@ -1148,3 +1148,4 @@ Daily updates of topics learned and coded.
 * **2022-08-26**: Learned and worked on TypeScript Types.
 * **2022-08-31**: Learned and worked on CSS Grid.
 * **2022-08-31**: Learned and worked on JavaScript Functions.
+* **2022-08-31**: Learned and worked on Mongoose Schemas.
