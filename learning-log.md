@@ -1154,3 +1154,4 @@ Daily updates of topics learned and coded.
 * **2022-09-01**: Learned and worked on JavaScript Functions.
 * **2022-09-01**: Learned and worked on JavaScript Loops.
 * **2022-09-01**: Learned and worked on JavaScript Functions.
+* **2022-09-01**: Learned and worked on Docker Containers.
