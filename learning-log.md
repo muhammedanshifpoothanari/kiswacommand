@@ -1151,3 +1151,4 @@ Daily updates of topics learned and coded.
 * **2022-08-31**: Learned and worked on Mongoose Schemas.
 * **2022-08-31**: Learned and worked on ES6 Classes.
 * **2022-08-31**: Learned and worked on Promises.
+* **2022-09-01**: Learned and worked on JavaScript Functions.
