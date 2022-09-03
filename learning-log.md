@@ -1166,3 +1166,4 @@ Daily updates of topics learned and coded.
 * **2022-09-03**: Learned and worked on JWT Authentication.
 * **2022-09-03**: Learned and worked on Promises.
 * **2022-09-03**: Learned and worked on TypeScript Types.
+* **2022-09-03**: Learned and worked on HTML structure.
