@@ -1174,3 +1174,4 @@ Daily updates of topics learned and coded.
 * **2022-09-03**: Learned and worked on CSS Flexbox.
 * **2022-09-03**: Learned and worked on JWT Authentication.
 * **2022-09-03**: Learned and worked on Docker Containers.
+* **2022-09-03**: Learned and worked on JWT Authentication.
