@@ -1178,3 +1178,4 @@ Daily updates of topics learned and coded.
 * **2022-09-05**: Learned and worked on CSS Grid.
 * **2022-09-05**: Learned and worked on CSS Flexbox.
 * **2022-09-05**: Learned and worked on JavaScript Loops.
+* **2022-09-05**: Learned and worked on JWT Authentication.
