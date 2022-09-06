@@ -1187,3 +1187,4 @@ Daily updates of topics learned and coded.
 * **2022-09-05**: Learned and worked on DOM Selectors.
 * **2022-09-06**: Learned and worked on DOM Selectors.
 * **2022-09-06**: Learned and worked on JavaScript Loops.
+* **2022-09-06**: Learned and worked on TypeScript Types.
