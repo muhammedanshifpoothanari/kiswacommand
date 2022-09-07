@@ -1198,3 +1198,4 @@ Daily updates of topics learned and coded.
 * **2022-09-07**: Learned and worked on JWT Authentication.
 * **2022-09-07**: Learned and worked on Docker Containers.
 * **2022-09-07**: Learned and worked on React Components.
+* **2022-09-07**: Learned and worked on React Props.
