@@ -1199,3 +1199,4 @@ Daily updates of topics learned and coded.
 * **2022-09-07**: Learned and worked on Docker Containers.
 * **2022-09-07**: Learned and worked on React Components.
 * **2022-09-07**: Learned and worked on React Props.
+* **2022-09-07**: Learned and worked on Mongoose Schemas.
