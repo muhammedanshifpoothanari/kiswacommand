@@ -1209,3 +1209,4 @@ Daily updates of topics learned and coded.
 * **2022-09-09**: Learned and worked on Responsive Design.
 * **2022-09-09**: Learned and worked on React Effects (useEffect).
 * **2022-09-09**: Learned and worked on Express routing.
+* **2022-09-09**: Learned and worked on Docker Containers.
