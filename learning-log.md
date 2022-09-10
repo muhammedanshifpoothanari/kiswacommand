@@ -1214,3 +1214,4 @@ Daily updates of topics learned and coded.
 * **2022-09-09**: Learned and worked on JavaScript Loops.
 * **2022-09-09**: Learned and worked on React State (useState).
 * **2022-09-10**: Learned and worked on ES6 Classes.
+* **2022-09-10**: Learned and worked on JavaScript Variables.
