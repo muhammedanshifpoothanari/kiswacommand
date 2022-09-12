@@ -1222,3 +1222,4 @@ Daily updates of topics learned and coded.
 * **2022-09-10**: Learned and worked on MongoDB Connection.
 * **2022-09-10**: Learned and worked on MongoDB Connection.
 * **2022-09-10**: Learned and worked on React Effects (useEffect).
+* **2022-09-12**: Learned and worked on React Props.
