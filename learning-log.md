@@ -1233,3 +1233,4 @@ Daily updates of topics learned and coded.
 * **2022-09-12**: Learned and worked on Mongoose Schemas.
 * **2022-09-12**: Learned and worked on Next.js App Router.
 * **2022-09-12**: Learned and worked on Express Middleware.
+* **2022-09-13**: Learned and worked on React Effects (useEffect).
