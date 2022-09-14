@@ -1244,3 +1244,4 @@ Daily updates of topics learned and coded.
 * **2022-09-14**: Learned and worked on HTML structure.
 * **2022-09-14**: Learned and worked on MongoDB Connection.
 * **2022-09-14**: Learned and worked on React Components.
+* **2022-09-14**: Learned and worked on JavaScript Functions.
