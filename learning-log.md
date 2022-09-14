@@ -1248,3 +1248,4 @@ Daily updates of topics learned and coded.
 * **2022-09-14**: Learned and worked on React State (useState).
 * **2022-09-14**: Learned and worked on Mongoose Schemas.
 * **2022-09-14**: Learned and worked on Express routing.
+* **2022-09-14**: Learned and worked on TypeScript Types.
