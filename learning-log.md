@@ -1256,3 +1256,4 @@ Daily updates of topics learned and coded.
 * **2022-09-15**: Learned and worked on Responsive Design.
 * **2022-09-15**: Learned and worked on TypeScript Types.
 * **2022-09-15**: Learned and worked on JavaScript Loops.
+* **2022-09-16**: Learned and worked on React Effects (useEffect).
