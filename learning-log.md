@@ -1267,3 +1267,4 @@ Daily updates of topics learned and coded.
 * **2022-09-18**: Learned and worked on CSS Grid.
 * **2022-09-18**: Learned and worked on Promises.
 * **2022-09-18**: Learned and worked on Responsive Design.
+* **2022-09-18**: Learned and worked on React Components.
