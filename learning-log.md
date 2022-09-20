@@ -1285,3 +1285,4 @@ Daily updates of topics learned and coded.
 * **2022-09-19**: Learned and worked on React Effects (useEffect).
 * **2022-09-20**: Learned and worked on ES6 Classes.
 * **2022-09-20**: Learned and worked on CSS Grid.
+* **2022-09-20**: Learned and worked on ES6 Classes.
