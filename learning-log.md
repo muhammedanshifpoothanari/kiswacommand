@@ -1296,3 +1296,4 @@ Daily updates of topics learned and coded.
 * **2022-09-21**: Learned and worked on Fetch API.
 * **2022-09-21**: Learned and worked on React Effects (useEffect).
 * **2022-09-21**: Learned and worked on JavaScript Loops.
+* **2022-09-21**: Learned and worked on MongoDB Connection.
