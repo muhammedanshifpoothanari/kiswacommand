@@ -1300,3 +1300,4 @@ Daily updates of topics learned and coded.
 * **2022-09-23**: Learned and worked on React Effects (useEffect).
 * **2022-09-23**: Learned and worked on React State (useState).
 * **2022-09-23**: Learned and worked on Express Middleware.
+* **2022-09-23**: Learned and worked on Mongoose Schemas.
