@@ -1310,3 +1310,4 @@ Daily updates of topics learned and coded.
 * **2022-09-28**: Learned and worked on Express Middleware.
 * **2022-09-28**: Learned and worked on CSS Flexbox.
 * **2022-09-28**: Learned and worked on MongoDB Connection.
+* **2022-09-28**: Learned and worked on JavaScript Variables.
