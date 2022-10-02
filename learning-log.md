@@ -1325,3 +1325,4 @@ Daily updates of topics learned and coded.
 * **2022-09-29**: Learned and worked on React State (useState).
 * **2022-10-02**: Learned and worked on JavaScript Variables.
 * **2022-10-02**: Learned and worked on TypeScript Types.
+* **2022-10-02**: Learned and worked on DOM Selectors.
