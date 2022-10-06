@@ -1349,3 +1349,4 @@ Daily updates of topics learned and coded.
 * **2022-10-05**: Learned and worked on Mongoose Schemas.
 * **2022-10-05**: Learned and worked on Express Middleware.
 * **2022-10-06**: Learned and worked on JavaScript Loops.
+* **2022-10-06**: Learned and worked on JWT Authentication.
