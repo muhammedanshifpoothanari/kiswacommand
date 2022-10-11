@@ -1373,3 +1373,4 @@ Daily updates of topics learned and coded.
 * **2022-10-11**: Learned and worked on JavaScript Functions.
 * **2022-10-11**: Learned and worked on Responsive Design.
 * **2022-10-11**: Learned and worked on JavaScript Loops.
+* **2022-10-11**: Learned and worked on React Effects (useEffect).
