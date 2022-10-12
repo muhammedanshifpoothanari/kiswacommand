@@ -1378,3 +1378,4 @@ Daily updates of topics learned and coded.
 * **2022-10-11**: Learned and worked on React Effects (useEffect).
 * **2022-10-11**: Learned and worked on Docker Containers.
 * **2022-10-11**: Learned and worked on React Components.
+* **2022-10-12**: Learned and worked on Responsive Design.
