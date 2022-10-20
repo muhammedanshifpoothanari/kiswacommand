@@ -1393,3 +1393,4 @@ Daily updates of topics learned and coded.
 * **2022-10-18**: Learned and worked on Express routing.
 * **2022-10-20**: Learned and worked on Fetch API.
 * **2022-10-20**: Learned and worked on TypeScript Types.
+* **2022-10-20**: Learned and worked on JavaScript Loops.
