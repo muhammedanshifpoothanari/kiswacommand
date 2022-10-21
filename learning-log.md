@@ -1411,3 +1411,4 @@ Daily updates of topics learned and coded.
 * **2022-10-21**: Learned and worked on JavaScript Functions.
 * **2022-10-21**: Learned and worked on React State (useState).
 * **2022-10-21**: Learned and worked on Async/Await.
+* **2022-10-21**: Learned and worked on Responsive Design.
