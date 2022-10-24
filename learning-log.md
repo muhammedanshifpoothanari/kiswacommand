@@ -1414,3 +1414,4 @@ Daily updates of topics learned and coded.
 * **2022-10-21**: Learned and worked on Responsive Design.
 * **2022-10-24**: Learned and worked on JavaScript Loops.
 * **2022-10-24**: Learned and worked on React Components.
+* **2022-10-24**: Learned and worked on CSS Grid.
