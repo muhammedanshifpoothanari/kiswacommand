@@ -1421,3 +1421,4 @@ Daily updates of topics learned and coded.
 * **2022-10-24**: Learned and worked on JavaScript Functions.
 * **2022-10-24**: Learned and worked on JavaScript Loops.
 * **2022-10-24**: Learned and worked on Async/Await.
+* **2022-10-24**: Learned and worked on JWT Authentication.
