@@ -1436,3 +1436,4 @@ Daily updates of topics learned and coded.
 * **2022-10-25**: Learned and worked on CSS Flexbox.
 * **2022-10-25**: Learned and worked on Express Middleware.
 * **2022-10-25**: Learned and worked on MongoDB Connection.
+* **2022-10-26**: Learned and worked on REST API design.
