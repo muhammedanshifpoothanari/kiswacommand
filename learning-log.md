@@ -1465,3 +1465,4 @@ Daily updates of topics learned and coded.
 * **2022-10-28**: Learned and worked on CSS Flexbox.
 * **2022-10-28**: Learned and worked on Fetch API.
 * **2022-10-28**: Learned and worked on JWT Authentication.
+* **2022-10-28**: Learned and worked on MongoDB Connection.
