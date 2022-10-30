@@ -1472,3 +1472,4 @@ Daily updates of topics learned and coded.
 * **2022-10-30**: Learned and worked on TypeScript Types.
 * **2022-10-30**: Learned and worked on JavaScript Variables.
 * **2022-10-30**: Learned and worked on Promises.
+* **2022-10-30**: Learned and worked on DOM Selectors.
