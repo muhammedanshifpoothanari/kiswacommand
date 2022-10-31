@@ -1475,3 +1475,4 @@ Daily updates of topics learned and coded.
 * **2022-10-30**: Learned and worked on DOM Selectors.
 * **2022-10-30**: Learned and worked on React Props.
 * **2022-10-30**: Learned and worked on Fetch API.
+* **2022-10-31**: Learned and worked on React State (useState).
