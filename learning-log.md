@@ -1493,3 +1493,4 @@ Daily updates of topics learned and coded.
 * **2022-11-03**: Learned and worked on ES6 Classes.
 * **2022-11-03**: Learned and worked on JavaScript Variables.
 * **2022-11-03**: Learned and worked on Express Middleware.
+* **2022-11-03**: Learned and worked on React Props.
