@@ -1511,3 +1511,4 @@ Daily updates of topics learned and coded.
 * **2022-11-08**: Learned and worked on CSS Grid.
 * **2022-11-08**: Learned and worked on MongoDB Connection.
 * **2022-11-08**: Learned and worked on HTML structure.
+* **2022-11-08**: Learned and worked on ES6 Classes.
