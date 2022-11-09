@@ -1518,3 +1518,4 @@ Daily updates of topics learned and coded.
 * **2022-11-09**: Learned and worked on HTML structure.
 * **2022-11-09**: Learned and worked on React State (useState).
 * **2022-11-09**: Learned and worked on CSS Flexbox.
+* **2022-11-09**: Learned and worked on Next.js App Router.
