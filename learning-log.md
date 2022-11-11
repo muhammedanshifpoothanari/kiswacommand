@@ -1526,3 +1526,4 @@ Daily updates of topics learned and coded.
 * **2022-11-11**: Learned and worked on JavaScript Functions.
 * **2022-11-11**: Learned and worked on React State (useState).
 * **2022-11-11**: Learned and worked on JavaScript Variables.
+* **2022-11-11**: Learned and worked on REST API design.
