@@ -1534,3 +1534,4 @@ Daily updates of topics learned and coded.
 * **2022-11-13**: Learned and worked on JavaScript Loops.
 * **2022-11-13**: Learned and worked on DOM Selectors.
 * **2022-11-13**: Learned and worked on Express routing.
+* **2022-11-13**: Learned and worked on DOM Selectors.
