@@ -1544,3 +1544,4 @@ Daily updates of topics learned and coded.
 * **2022-11-14**: Learned and worked on JavaScript Functions.
 * **2022-11-14**: Learned and worked on Fetch API.
 * **2022-11-14**: Learned and worked on Next.js App Router.
+* **2022-11-14**: Learned and worked on Mongoose Schemas.
