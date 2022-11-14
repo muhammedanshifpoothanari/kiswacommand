@@ -1537,3 +1537,4 @@ Daily updates of topics learned and coded.
 * **2022-11-13**: Learned and worked on DOM Selectors.
 * **2022-11-13**: Learned and worked on Next.js App Router.
 * **2022-11-14**: Learned and worked on Promises.
+* **2022-11-14**: Learned and worked on TypeScript Types.
