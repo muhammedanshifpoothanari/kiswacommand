@@ -1555,3 +1555,4 @@ Daily updates of topics learned and coded.
 * **2022-11-16**: Learned and worked on HTML structure.
 * **2022-11-16**: Learned and worked on React Components.
 * **2022-11-16**: Learned and worked on JavaScript Loops.
+* **2022-11-16**: Learned and worked on Next.js App Router.
