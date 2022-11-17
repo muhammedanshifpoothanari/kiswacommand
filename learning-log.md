@@ -1567,3 +1567,4 @@ Daily updates of topics learned and coded.
 * **2022-11-17**: Learned and worked on ES6 Classes.
 * **2022-11-17**: Learned and worked on Async/Await.
 * **2022-11-17**: Learned and worked on React Components.
+* **2022-11-17**: Learned and worked on Docker Containers.
