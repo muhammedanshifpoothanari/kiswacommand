@@ -1565,3 +1565,4 @@ Daily updates of topics learned and coded.
 * **2022-11-16**: Learned and worked on CSS Flexbox.
 * **2022-11-16**: Learned and worked on Async/Await.
 * **2022-11-17**: Learned and worked on ES6 Classes.
+* **2022-11-17**: Learned and worked on Async/Await.
