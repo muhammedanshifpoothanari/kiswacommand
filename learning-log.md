@@ -1577,3 +1577,4 @@ Daily updates of topics learned and coded.
 * **2022-11-17**: Learned and worked on Promises.
 * **2022-11-18**: Learned and worked on DOM Selectors.
 * **2022-11-18**: Learned and worked on JWT Authentication.
+* **2022-11-18**: Learned and worked on Promises.
