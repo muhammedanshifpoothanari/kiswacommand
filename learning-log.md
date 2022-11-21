@@ -1598,3 +1598,4 @@ Daily updates of topics learned and coded.
 * **2022-11-19**: Learned and worked on React State (useState).
 * **2022-11-21**: Learned and worked on Express Middleware.
 * **2022-11-21**: Learned and worked on Responsive Design.
+* **2022-11-21**: Learned and worked on JavaScript Variables.
