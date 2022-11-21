@@ -1600,3 +1600,4 @@ Daily updates of topics learned and coded.
 * **2022-11-21**: Learned and worked on Responsive Design.
 * **2022-11-21**: Learned and worked on JavaScript Variables.
 * **2022-11-21**: Learned and worked on HTML structure.
+* **2022-11-21**: Learned and worked on Fetch API.
