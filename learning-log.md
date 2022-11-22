@@ -1607,3 +1607,4 @@ Daily updates of topics learned and coded.
 * **2022-11-21**: Learned and worked on Express routing.
 * **2022-11-22**: Learned and worked on Promises.
 * **2022-11-22**: Learned and worked on Docker Containers.
+* **2022-11-22**: Learned and worked on Express Middleware.
