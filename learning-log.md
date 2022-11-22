@@ -1611,3 +1611,4 @@ Daily updates of topics learned and coded.
 * **2022-11-22**: Learned and worked on DOM Selectors.
 * **2022-11-22**: Learned and worked on JavaScript Loops.
 * **2022-11-22**: Learned and worked on React Props.
+* **2022-11-22**: Learned and worked on Promises.
