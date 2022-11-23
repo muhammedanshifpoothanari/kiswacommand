@@ -1615,3 +1615,4 @@ Daily updates of topics learned and coded.
 * **2022-11-22**: Learned and worked on MongoDB Connection.
 * **2022-11-22**: Learned and worked on REST API design.
 * **2022-11-23**: Learned and worked on HTML structure.
+* **2022-11-23**: Learned and worked on Fetch API.
