@@ -1623,3 +1623,4 @@ Daily updates of topics learned and coded.
 * **2022-11-23**: Learned and worked on Next.js App Router.
 * **2022-11-24**: Learned and worked on TypeScript Types.
 * **2022-11-24**: Learned and worked on Express routing.
+* **2022-11-24**: Learned and worked on HTML structure.
