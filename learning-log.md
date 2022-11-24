@@ -1621,3 +1621,4 @@ Daily updates of topics learned and coded.
 * **2022-11-23**: Learned and worked on React Effects (useEffect).
 * **2022-11-23**: Learned and worked on React Components.
 * **2022-11-23**: Learned and worked on Next.js App Router.
+* **2022-11-24**: Learned and worked on TypeScript Types.
