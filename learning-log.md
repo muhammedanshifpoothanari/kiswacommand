@@ -1644,3 +1644,4 @@ Daily updates of topics learned and coded.
 * **2022-11-27**: Learned and worked on Promises.
 * **2022-11-27**: Learned and worked on Express routing.
 * **2022-11-27**: Learned and worked on Fetch API.
+* **2022-11-27**: Learned and worked on Mongoose Schemas.
