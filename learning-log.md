@@ -1649,3 +1649,4 @@ Daily updates of topics learned and coded.
 * **2022-11-27**: Learned and worked on Promises.
 * **2022-11-28**: Learned and worked on TypeScript Types.
 * **2022-11-28**: Learned and worked on JavaScript Functions.
+* **2022-11-28**: Learned and worked on JavaScript Variables.
