@@ -1652,3 +1652,4 @@ Daily updates of topics learned and coded.
 * **2022-11-28**: Learned and worked on JavaScript Variables.
 * **2022-11-28**: Learned and worked on React State (useState).
 * **2022-11-28**: Learned and worked on JWT Authentication.
+* **2022-11-29**: Learned and worked on Responsive Design.
