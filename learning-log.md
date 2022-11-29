@@ -1656,3 +1656,4 @@ Daily updates of topics learned and coded.
 * **2022-11-29**: Learned and worked on React Effects (useEffect).
 * **2022-11-29**: Learned and worked on CSS Grid.
 * **2022-11-29**: Learned and worked on Docker Containers.
+* **2022-11-29**: Learned and worked on Async/Await.
