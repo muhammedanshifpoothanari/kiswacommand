@@ -1678,3 +1678,4 @@ Daily updates of topics learned and coded.
 * **2022-12-06**: Learned and worked on Express routing.
 * **2022-12-06**: Learned and worked on CSS Flexbox.
 * **2022-12-06**: Learned and worked on ES6 Classes.
+* **2022-12-06**: Learned and worked on React Effects (useEffect).
