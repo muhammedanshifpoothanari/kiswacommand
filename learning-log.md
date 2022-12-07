@@ -1683,3 +1683,4 @@ Daily updates of topics learned and coded.
 * **2022-12-07**: Learned and worked on JavaScript Loops.
 * **2022-12-07**: Learned and worked on Responsive Design.
 * **2022-12-07**: Learned and worked on TypeScript Types.
+* **2022-12-07**: Learned and worked on JavaScript Functions.
