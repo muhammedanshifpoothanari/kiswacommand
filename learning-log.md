@@ -1691,3 +1691,4 @@ Daily updates of topics learned and coded.
 * **2022-12-07**: Learned and worked on Async/Await.
 * **2022-12-07**: Learned and worked on Async/Await.
 * **2022-12-07**: Learned and worked on React Props.
+* **2022-12-09**: Learned and worked on JavaScript Functions.
