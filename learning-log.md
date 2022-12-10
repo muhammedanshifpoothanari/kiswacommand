@@ -1700,3 +1700,4 @@ Daily updates of topics learned and coded.
 * **2022-12-10**: Learned and worked on React Components.
 * **2022-12-10**: Learned and worked on Next.js App Router.
 * **2022-12-10**: Learned and worked on Next.js App Router.
+* **2022-12-10**: Learned and worked on React Effects (useEffect).
