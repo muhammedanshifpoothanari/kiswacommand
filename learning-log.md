@@ -1706,3 +1706,4 @@ Daily updates of topics learned and coded.
 * **2022-12-10**: Learned and worked on HTML structure.
 * **2022-12-10**: Learned and worked on Docker Containers.
 * **2022-12-10**: Learned and worked on React State (useState).
+* **2022-12-10**: Learned and worked on React Components.
