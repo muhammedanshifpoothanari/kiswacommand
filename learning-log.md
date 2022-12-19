@@ -1724,3 +1724,4 @@ Daily updates of topics learned and coded.
 * **2022-12-16**: Learned and worked on DOM Selectors.
 * **2022-12-19**: Learned and worked on TypeScript Types.
 * **2022-12-19**: Learned and worked on CSS Grid.
+* **2022-12-19**: Learned and worked on Async/Await.
