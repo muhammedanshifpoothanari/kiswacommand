@@ -1736,3 +1736,4 @@ Daily updates of topics learned and coded.
 * **2022-12-21**: Learned and worked on REST API design.
 * **2022-12-21**: Learned and worked on JavaScript Loops.
 * **2022-12-21**: Learned and worked on Mongoose Schemas.
+* **2022-12-21**: Learned and worked on Next.js App Router.
