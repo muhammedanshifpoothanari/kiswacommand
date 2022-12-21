@@ -1729,3 +1729,4 @@ Daily updates of topics learned and coded.
 * **2022-12-19**: Learned and worked on JWT Authentication.
 * **2022-12-19**: Learned and worked on Promises.
 * **2022-12-19**: Learned and worked on Responsive Design.
+* **2022-12-21**: Learned and worked on Mongoose Schemas.
