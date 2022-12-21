@@ -1738,3 +1738,4 @@ Daily updates of topics learned and coded.
 * **2022-12-21**: Learned and worked on Mongoose Schemas.
 * **2022-12-21**: Learned and worked on Next.js App Router.
 * **2022-12-21**: Learned and worked on ES6 Classes.
+* **2022-12-21**: Learned and worked on JavaScript Functions.
