@@ -1731,3 +1731,4 @@ Daily updates of topics learned and coded.
 * **2022-12-19**: Learned and worked on Responsive Design.
 * **2022-12-21**: Learned and worked on Mongoose Schemas.
 * **2022-12-21**: Learned and worked on JavaScript Functions.
+* **2022-12-21**: Learned and worked on CSS Grid.
