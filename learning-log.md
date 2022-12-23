@@ -1748,3 +1748,4 @@ Daily updates of topics learned and coded.
 * **2022-12-23**: Learned and worked on CSS Grid.
 * **2022-12-23**: Learned and worked on TypeScript Types.
 * **2022-12-23**: Learned and worked on HTML structure.
+* **2022-12-23**: Learned and worked on TypeScript Types.
