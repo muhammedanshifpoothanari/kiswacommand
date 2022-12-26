@@ -1752,3 +1752,4 @@ Daily updates of topics learned and coded.
 * **2022-12-26**: Learned and worked on Express Middleware.
 * **2022-12-26**: Learned and worked on Express routing.
 * **2022-12-26**: Learned and worked on TypeScript Types.
+* **2022-12-26**: Learned and worked on MongoDB Connection.
