@@ -1757,3 +1757,4 @@ Daily updates of topics learned and coded.
 * **2022-12-26**: Learned and worked on Mongoose Schemas.
 * **2022-12-26**: Learned and worked on CSS Flexbox.
 * **2022-12-30**: Learned and worked on JWT Authentication.
+* **2022-12-30**: Learned and worked on CSS Grid.
