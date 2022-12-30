@@ -1760,3 +1760,4 @@ Daily updates of topics learned and coded.
 * **2022-12-30**: Learned and worked on CSS Grid.
 * **2022-12-30**: Learned and worked on JavaScript Functions.
 * **2022-12-30**: Learned and worked on Fetch API.
+* **2022-12-30**: Learned and worked on JavaScript Variables.
