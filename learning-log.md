@@ -1768,3 +1768,4 @@ Daily updates of topics learned and coded.
 * **2022-12-31**: Learned and worked on HTML structure.
 * **2022-12-31**: Learned and worked on REST API design.
 * **2022-12-31**: Learned and worked on React Effects (useEffect).
+* **2022-12-31**: Learned and worked on TypeScript Types.
