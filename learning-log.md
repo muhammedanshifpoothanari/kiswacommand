@@ -1772,3 +1772,4 @@ Daily updates of topics learned and coded.
 * **2022-12-31**: Learned and worked on React Components.
 * **2022-12-31**: Learned and worked on JavaScript Loops.
 * **2022-12-31**: Learned and worked on CSS Grid.
+* **2023-01-03**: Learned and worked on Async/Await.
