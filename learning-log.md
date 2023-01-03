@@ -1776,3 +1776,4 @@ Daily updates of topics learned and coded.
 * **2023-01-03**: Learned and worked on HTML structure.
 * **2023-01-03**: Learned and worked on React Effects (useEffect).
 * **2023-01-03**: Learned and worked on REST API design.
+* **2023-01-03**: Learned and worked on CSS Flexbox.
