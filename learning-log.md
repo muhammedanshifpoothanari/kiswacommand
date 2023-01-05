@@ -1785,3 +1785,4 @@ Daily updates of topics learned and coded.
 * **2023-01-04**: Learned and worked on ES6 Classes.
 * **2023-01-05**: Learned and worked on React State (useState).
 * **2023-01-05**: Learned and worked on TypeScript Types.
+* **2023-01-05**: Learned and worked on CSS Grid.
