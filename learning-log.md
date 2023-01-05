@@ -1792,3 +1792,4 @@ Daily updates of topics learned and coded.
 * **2023-01-05**: Learned and worked on React State (useState).
 * **2023-01-05**: Learned and worked on CSS Grid.
 * **2023-01-05**: Learned and worked on Mongoose Schemas.
+* **2023-01-05**: Learned and worked on Next.js App Router.
