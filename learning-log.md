@@ -1795,3 +1795,4 @@ Daily updates of topics learned and coded.
 * **2023-01-05**: Learned and worked on Next.js App Router.
 * **2023-01-05**: Learned and worked on React Effects (useEffect).
 * **2023-01-09**: Learned and worked on CSS Grid.
+* **2023-01-09**: Learned and worked on Docker Containers.
