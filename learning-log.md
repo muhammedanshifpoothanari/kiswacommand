@@ -1800,3 +1800,4 @@ Daily updates of topics learned and coded.
 * **2023-01-09**: Learned and worked on CSS Flexbox.
 * **2023-01-09**: Learned and worked on React Props.
 * **2023-01-09**: Learned and worked on MongoDB Connection.
+* **2023-01-09**: Learned and worked on Express Middleware.
