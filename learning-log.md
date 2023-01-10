@@ -1809,3 +1809,4 @@ Daily updates of topics learned and coded.
 * **2023-01-10**: Learned and worked on Docker Containers.
 * **2023-01-10**: Learned and worked on JavaScript Variables.
 * **2023-01-10**: Learned and worked on React Effects (useEffect).
+* **2023-01-10**: Learned and worked on REST API design.
