@@ -1806,3 +1806,4 @@ Daily updates of topics learned and coded.
 * **2023-01-10**: Learned and worked on React Components.
 * **2023-01-10**: Learned and worked on React Components.
 * **2023-01-10**: Learned and worked on JWT Authentication.
+* **2023-01-10**: Learned and worked on Docker Containers.
