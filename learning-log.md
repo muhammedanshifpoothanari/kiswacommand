@@ -1803,3 +1803,4 @@ Daily updates of topics learned and coded.
 * **2023-01-09**: Learned and worked on Express Middleware.
 * **2023-01-10**: Learned and worked on Promises.
 * **2023-01-10**: Learned and worked on React Effects (useEffect).
+* **2023-01-10**: Learned and worked on React Components.
