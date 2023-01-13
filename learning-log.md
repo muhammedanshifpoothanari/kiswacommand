@@ -1817,3 +1817,4 @@ Daily updates of topics learned and coded.
 * **2023-01-12**: Learned and worked on Promises.
 * **2023-01-12**: Learned and worked on JavaScript Loops.
 * **2023-01-13**: Learned and worked on React Props.
+* **2023-01-13**: Learned and worked on JWT Authentication.
