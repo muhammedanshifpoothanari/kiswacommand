@@ -1826,3 +1826,4 @@ Daily updates of topics learned and coded.
 * **2023-01-13**: Learned and worked on TypeScript Types.
 * **2023-01-14**: Learned and worked on JavaScript Functions.
 * **2023-01-14**: Learned and worked on JavaScript Loops.
+* **2023-01-14**: Learned and worked on Mongoose Schemas.
