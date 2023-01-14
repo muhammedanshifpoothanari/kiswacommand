@@ -1828,3 +1828,4 @@ Daily updates of topics learned and coded.
 * **2023-01-14**: Learned and worked on JavaScript Loops.
 * **2023-01-14**: Learned and worked on Mongoose Schemas.
 * **2023-01-14**: Learned and worked on DOM Selectors.
+* **2023-01-14**: Learned and worked on React Components.
