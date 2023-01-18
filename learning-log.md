@@ -1850,3 +1850,4 @@ Daily updates of topics learned and coded.
 * **2023-01-18**: Learned and worked on DOM Selectors.
 * **2023-01-18**: Learned and worked on React Props.
 * **2023-01-18**: Learned and worked on DOM Selectors.
+* **2023-01-18**: Learned and worked on JavaScript Variables.
