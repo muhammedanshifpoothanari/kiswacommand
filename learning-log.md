@@ -1846,3 +1846,4 @@ Daily updates of topics learned and coded.
 * **2023-01-17**: Learned and worked on Express routing.
 * **2023-01-17**: Learned and worked on Express routing.
 * **2023-01-18**: Learned and worked on CSS Grid.
+* **2023-01-18**: Learned and worked on JavaScript Functions.
