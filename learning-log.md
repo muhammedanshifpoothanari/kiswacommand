@@ -1856,3 +1856,4 @@ Daily updates of topics learned and coded.
 * **2023-01-18**: Learned and worked on REST API design.
 * **2023-01-18**: Learned and worked on JWT Authentication.
 * **2023-01-19**: Learned and worked on MongoDB Connection.
+* **2023-01-19**: Learned and worked on ES6 Classes.
