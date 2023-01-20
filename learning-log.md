@@ -1870,3 +1870,4 @@ Daily updates of topics learned and coded.
 * **2023-01-20**: Learned and worked on HTML structure.
 * **2023-01-20**: Learned and worked on React Effects (useEffect).
 * **2023-01-20**: Learned and worked on React Effects (useEffect).
+* **2023-01-20**: Learned and worked on Async/Await.
