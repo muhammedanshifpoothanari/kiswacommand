@@ -1867,3 +1867,4 @@ Daily updates of topics learned and coded.
 * **2023-01-19**: Learned and worked on JavaScript Functions.
 * **2023-01-20**: Learned and worked on HTML structure.
 * **2023-01-20**: Learned and worked on React Components.
+* **2023-01-20**: Learned and worked on HTML structure.
