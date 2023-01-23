@@ -1877,3 +1877,4 @@ Daily updates of topics learned and coded.
 * **2023-01-20**: Learned and worked on React State (useState).
 * **2023-01-23**: Learned and worked on JavaScript Functions.
 * **2023-01-23**: Learned and worked on Promises.
+* **2023-01-23**: Learned and worked on Express routing.
