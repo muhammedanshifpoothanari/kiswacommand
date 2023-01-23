@@ -1880,3 +1880,4 @@ Daily updates of topics learned and coded.
 * **2023-01-23**: Learned and worked on Express routing.
 * **2023-01-23**: Learned and worked on JavaScript Variables.
 * **2023-01-23**: Learned and worked on React Effects (useEffect).
+* **2023-01-23**: Learned and worked on DOM Selectors.
