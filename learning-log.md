@@ -1886,3 +1886,4 @@ Daily updates of topics learned and coded.
 * **2023-01-23**: Learned and worked on MongoDB Connection.
 * **2023-01-23**: Learned and worked on CSS Flexbox.
 * **2023-01-24**: Learned and worked on DOM Selectors.
+* **2023-01-24**: Learned and worked on HTML structure.
