@@ -1891,3 +1891,4 @@ Daily updates of topics learned and coded.
 * **2023-01-24**: Learned and worked on Fetch API.
 * **2023-01-24**: Learned and worked on MongoDB Connection.
 * **2023-01-24**: Learned and worked on JWT Authentication.
+* **2023-01-25**: Learned and worked on JavaScript Functions.
