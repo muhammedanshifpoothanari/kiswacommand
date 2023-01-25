@@ -1895,3 +1895,4 @@ Daily updates of topics learned and coded.
 * **2023-01-25**: Learned and worked on Express Middleware.
 * **2023-01-25**: Learned and worked on Promises.
 * **2023-01-25**: Learned and worked on Mongoose Schemas.
+* **2023-01-25**: Learned and worked on Express routing.
