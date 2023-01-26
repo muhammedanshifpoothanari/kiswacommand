@@ -1904,3 +1904,4 @@ Daily updates of topics learned and coded.
 * **2023-01-26**: Learned and worked on Async/Await.
 * **2023-01-26**: Learned and worked on Responsive Design.
 * **2023-01-26**: Learned and worked on Responsive Design.
+* **2023-01-26**: Learned and worked on Async/Await.
