@@ -1900,3 +1900,4 @@ Daily updates of topics learned and coded.
 * **2023-01-25**: Learned and worked on Mongoose Schemas.
 * **2023-01-25**: Learned and worked on React Components.
 * **2023-01-25**: Learned and worked on JavaScript Functions.
+* **2023-01-26**: Learned and worked on CSS Flexbox.
