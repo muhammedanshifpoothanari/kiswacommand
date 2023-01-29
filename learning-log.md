@@ -1909,3 +1909,4 @@ Daily updates of topics learned and coded.
 * **2023-01-29**: Learned and worked on React State (useState).
 * **2023-01-29**: Learned and worked on Promises.
 * **2023-01-29**: Learned and worked on JWT Authentication.
+* **2023-01-29**: Learned and worked on React Effects (useEffect).
