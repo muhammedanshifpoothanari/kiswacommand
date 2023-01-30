@@ -1918,3 +1918,4 @@ Daily updates of topics learned and coded.
 * **2023-01-30**: Learned and worked on JavaScript Variables.
 * **2023-01-30**: Learned and worked on JWT Authentication.
 * **2023-01-30**: Learned and worked on DOM Selectors.
+* **2023-01-30**: Learned and worked on JWT Authentication.
