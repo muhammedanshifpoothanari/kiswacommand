@@ -1912,3 +1912,4 @@ Daily updates of topics learned and coded.
 * **2023-01-29**: Learned and worked on React Effects (useEffect).
 * **2023-01-30**: Learned and worked on React Effects (useEffect).
 * **2023-01-30**: Learned and worked on MongoDB Connection.
+* **2023-01-30**: Learned and worked on Next.js App Router.
