@@ -1937,3 +1937,4 @@ Daily updates of topics learned and coded.
 * **2023-02-03**: Learned and worked on JWT Authentication.
 * **2023-02-03**: Learned and worked on React Components.
 * **2023-02-03**: Learned and worked on React Props.
+* **2023-02-03**: Learned and worked on HTML structure.
