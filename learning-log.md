@@ -1934,3 +1934,4 @@ Daily updates of topics learned and coded.
 * **2023-02-02**: Learned and worked on CSS Flexbox.
 * **2023-02-02**: Learned and worked on MongoDB Connection.
 * **2023-02-03**: Learned and worked on React State (useState).
+* **2023-02-03**: Learned and worked on JWT Authentication.
