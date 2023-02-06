@@ -1946,3 +1946,4 @@ Daily updates of topics learned and coded.
 * **2023-02-06**: Learned and worked on Responsive Design.
 * **2023-02-06**: Learned and worked on DOM Selectors.
 * **2023-02-06**: Learned and worked on TypeScript Types.
+* **2023-02-06**: Learned and worked on Async/Await.
