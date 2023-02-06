@@ -1940,3 +1940,4 @@ Daily updates of topics learned and coded.
 * **2023-02-03**: Learned and worked on HTML structure.
 * **2023-02-03**: Learned and worked on Responsive Design.
 * **2023-02-03**: Learned and worked on Promises.
+* **2023-02-06**: Learned and worked on CSS Flexbox.
