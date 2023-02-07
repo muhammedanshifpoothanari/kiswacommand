@@ -1950,3 +1950,4 @@ Daily updates of topics learned and coded.
 * **2023-02-07**: Learned and worked on React Props.
 * **2023-02-07**: Learned and worked on JavaScript Loops.
 * **2023-02-07**: Learned and worked on MongoDB Connection.
+* **2023-02-07**: Learned and worked on HTML structure.
