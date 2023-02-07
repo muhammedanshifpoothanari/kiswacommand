@@ -1953,3 +1953,4 @@ Daily updates of topics learned and coded.
 * **2023-02-07**: Learned and worked on HTML structure.
 * **2023-02-07**: Learned and worked on Docker Containers.
 * **2023-02-07**: Learned and worked on MongoDB Connection.
+* **2023-02-07**: Learned and worked on DOM Selectors.
