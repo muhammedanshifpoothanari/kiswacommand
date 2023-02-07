@@ -1947,3 +1947,4 @@ Daily updates of topics learned and coded.
 * **2023-02-06**: Learned and worked on DOM Selectors.
 * **2023-02-06**: Learned and worked on TypeScript Types.
 * **2023-02-06**: Learned and worked on Async/Await.
+* **2023-02-07**: Learned and worked on React Props.
