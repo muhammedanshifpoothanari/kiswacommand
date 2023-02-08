@@ -1955,3 +1955,4 @@ Daily updates of topics learned and coded.
 * **2023-02-07**: Learned and worked on MongoDB Connection.
 * **2023-02-07**: Learned and worked on DOM Selectors.
 * **2023-02-08**: Learned and worked on Mongoose Schemas.
+* **2023-02-08**: Learned and worked on React State (useState).
