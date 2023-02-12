@@ -1975,3 +1975,4 @@ Daily updates of topics learned and coded.
 * **2023-02-10**: Learned and worked on Express routing.
 * **2023-02-10**: Learned and worked on JavaScript Functions.
 * **2023-02-10**: Learned and worked on REST API design.
+* **2023-02-12**: Learned and worked on Next.js App Router.
