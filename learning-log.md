@@ -1988,3 +1988,4 @@ Daily updates of topics learned and coded.
 * **2023-02-13**: Learned and worked on HTML structure.
 * **2023-02-13**: Learned and worked on Fetch API.
 * **2023-02-13**: Learned and worked on Promises.
+* **2023-02-13**: Learned and worked on Docker Containers.
