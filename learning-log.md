@@ -1982,3 +1982,4 @@ Daily updates of topics learned and coded.
 * **2023-02-12**: Learned and worked on React Props.
 * **2023-02-12**: Learned and worked on Responsive Design.
 * **2023-02-13**: Learned and worked on JWT Authentication.
+* **2023-02-13**: Learned and worked on Responsive Design.
