@@ -1999,3 +1999,4 @@ Daily updates of topics learned and coded.
 * **2023-02-14**: Learned and worked on Promises.
 * **2023-02-14**: Learned and worked on JWT Authentication.
 * **2023-02-14**: Learned and worked on Fetch API.
+* **2023-02-14**: Learned and worked on Express routing.
