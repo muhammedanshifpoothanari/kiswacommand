@@ -2001,3 +2001,4 @@ Daily updates of topics learned and coded.
 * **2023-02-14**: Learned and worked on Fetch API.
 * **2023-02-14**: Learned and worked on Express routing.
 * **2023-02-16**: Learned and worked on Fetch API.
+* **2023-02-16**: Learned and worked on Mongoose Schemas.
