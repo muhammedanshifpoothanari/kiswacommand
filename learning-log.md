@@ -2010,3 +2010,4 @@ Daily updates of topics learned and coded.
 * **2023-02-16**: Learned and worked on JWT Authentication.
 * **2023-02-16**: Learned and worked on JavaScript Loops.
 * **2023-02-16**: Learned and worked on Async/Await.
+* **2023-02-16**: Learned and worked on MongoDB Connection.
