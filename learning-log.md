@@ -2005,3 +2005,4 @@ Daily updates of topics learned and coded.
 * **2023-02-16**: Learned and worked on JWT Authentication.
 * **2023-02-16**: Learned and worked on MongoDB Connection.
 * **2023-02-16**: Learned and worked on DOM Selectors.
+* **2023-02-16**: Learned and worked on React Props.
