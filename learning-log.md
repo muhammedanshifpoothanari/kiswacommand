@@ -2020,3 +2020,4 @@ Daily updates of topics learned and coded.
 * **2023-02-21**: Learned and worked on DOM Selectors.
 * **2023-02-21**: Learned and worked on Fetch API.
 * **2023-02-21**: Learned and worked on Express routing.
+* **2023-02-21**: Learned and worked on React State (useState).
