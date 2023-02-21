@@ -2013,3 +2013,4 @@ Daily updates of topics learned and coded.
 * **2023-02-16**: Learned and worked on MongoDB Connection.
 * **2023-02-21**: Learned and worked on React Props.
 * **2023-02-21**: Learned and worked on React Components.
+* **2023-02-21**: Learned and worked on Express Middleware.
