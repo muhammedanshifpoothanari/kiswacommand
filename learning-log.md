@@ -2025,3 +2025,4 @@ Daily updates of topics learned and coded.
 * **2023-02-22**: Learned and worked on Express routing.
 * **2023-02-22**: Learned and worked on JavaScript Variables.
 * **2023-02-22**: Learned and worked on CSS Flexbox.
+* **2023-02-22**: Learned and worked on Async/Await.
