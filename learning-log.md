@@ -2022,3 +2022,4 @@ Daily updates of topics learned and coded.
 * **2023-02-21**: Learned and worked on Express routing.
 * **2023-02-21**: Learned and worked on React State (useState).
 * **2023-02-22**: Learned and worked on Responsive Design.
+* **2023-02-22**: Learned and worked on Express routing.
