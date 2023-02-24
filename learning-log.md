@@ -2037,3 +2037,4 @@ Daily updates of topics learned and coded.
 * **2023-02-24**: Learned and worked on Next.js App Router.
 * **2023-02-24**: Learned and worked on ES6 Classes.
 * **2023-02-24**: Learned and worked on Next.js App Router.
+* **2023-02-24**: Learned and worked on CSS Grid.
