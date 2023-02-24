@@ -2039,3 +2039,4 @@ Daily updates of topics learned and coded.
 * **2023-02-24**: Learned and worked on Next.js App Router.
 * **2023-02-24**: Learned and worked on CSS Grid.
 * **2023-02-24**: Learned and worked on JWT Authentication.
+* **2023-02-24**: Learned and worked on React Components.
