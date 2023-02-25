@@ -2045,3 +2045,4 @@ Daily updates of topics learned and coded.
 * **2023-02-25**: Learned and worked on Docker Containers.
 * **2023-02-25**: Learned and worked on Docker Containers.
 * **2023-02-25**: Learned and worked on Async/Await.
+* **2023-02-25**: Learned and worked on TypeScript Types.
