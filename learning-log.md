@@ -2049,3 +2049,4 @@ Daily updates of topics learned and coded.
 * **2023-02-27**: Learned and worked on JavaScript Functions.
 * **2023-02-27**: Learned and worked on Express Middleware.
 * **2023-02-27**: Learned and worked on Async/Await.
+* **2023-02-27**: Learned and worked on Responsive Design.
