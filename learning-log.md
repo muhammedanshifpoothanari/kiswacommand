@@ -2053,3 +2053,4 @@ Daily updates of topics learned and coded.
 * **2023-02-27**: Learned and worked on CSS Grid.
 * **2023-02-27**: Learned and worked on CSS Grid.
 * **2023-02-27**: Learned and worked on CSS Grid.
+* **2023-02-27**: Learned and worked on Express Middleware.
