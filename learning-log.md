@@ -2056,3 +2056,4 @@ Daily updates of topics learned and coded.
 * **2023-02-27**: Learned and worked on Express Middleware.
 * **2023-02-27**: Learned and worked on DOM Selectors.
 * **2023-02-27**: Learned and worked on DOM Selectors.
+* **2023-02-28**: Learned and worked on JavaScript Functions.
