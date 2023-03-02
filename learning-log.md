@@ -2070,3 +2070,4 @@ Daily updates of topics learned and coded.
 * **2023-03-02**: Learned and worked on Fetch API.
 * **2023-03-02**: Learned and worked on JavaScript Variables.
 * **2023-03-02**: Learned and worked on Express Middleware.
+* **2023-03-02**: Learned and worked on React Effects (useEffect).
