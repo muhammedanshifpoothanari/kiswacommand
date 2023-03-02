@@ -2067,3 +2067,4 @@ Daily updates of topics learned and coded.
 * **2023-02-28**: Learned and worked on JavaScript Loops.
 * **2023-02-28**: Learned and worked on CSS Flexbox.
 * **2023-03-02**: Learned and worked on Next.js App Router.
+* **2023-03-02**: Learned and worked on Fetch API.
