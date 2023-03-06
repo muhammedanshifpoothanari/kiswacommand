@@ -2078,3 +2078,4 @@ Daily updates of topics learned and coded.
 * **2023-03-06**: Learned and worked on Responsive Design.
 * **2023-03-06**: Learned and worked on JavaScript Variables.
 * **2023-03-06**: Learned and worked on React Components.
+* **2023-03-06**: Learned and worked on JavaScript Functions.
