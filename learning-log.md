@@ -2080,3 +2080,4 @@ Daily updates of topics learned and coded.
 * **2023-03-06**: Learned and worked on React Components.
 * **2023-03-06**: Learned and worked on JavaScript Functions.
 * **2023-03-06**: Learned and worked on JavaScript Loops.
+* **2023-03-06**: Learned and worked on React Effects (useEffect).
