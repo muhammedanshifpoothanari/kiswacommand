@@ -2073,3 +2073,4 @@ Daily updates of topics learned and coded.
 * **2023-03-02**: Learned and worked on React Effects (useEffect).
 * **2023-03-02**: Learned and worked on Async/Await.
 * **2023-03-06**: Learned and worked on Promises.
+* **2023-03-06**: Learned and worked on REST API design.
