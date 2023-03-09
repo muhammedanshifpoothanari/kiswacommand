@@ -2082,3 +2082,4 @@ Daily updates of topics learned and coded.
 * **2023-03-06**: Learned and worked on JavaScript Loops.
 * **2023-03-06**: Learned and worked on React Effects (useEffect).
 * **2023-03-06**: Learned and worked on Mongoose Schemas.
+* **2023-03-09**: Learned and worked on Responsive Design.
