@@ -2106,3 +2106,4 @@ Daily updates of topics learned and coded.
 * **2023-03-14**: Learned and worked on CSS Flexbox.
 * **2023-03-14**: Learned and worked on Responsive Design.
 * **2023-03-14**: Learned and worked on CSS Grid.
+* **2023-03-14**: Learned and worked on HTML structure.
