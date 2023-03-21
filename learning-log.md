@@ -2134,3 +2134,4 @@ Daily updates of topics learned and coded.
 * **2023-03-21**: Learned and worked on CSS Grid.
 * **2023-03-21**: Learned and worked on Promises.
 * **2023-03-21**: Learned and worked on Promises.
+* **2023-03-21**: Learned and worked on TypeScript Types.
