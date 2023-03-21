@@ -2131,3 +2131,4 @@ Daily updates of topics learned and coded.
 * **2023-03-20**: Learned and worked on Async/Await.
 * **2023-03-21**: Learned and worked on Express routing.
 * **2023-03-21**: Learned and worked on HTML structure.
+* **2023-03-21**: Learned and worked on CSS Grid.
