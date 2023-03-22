@@ -2139,3 +2139,4 @@ Daily updates of topics learned and coded.
 * **2023-03-22**: Learned and worked on ES6 Classes.
 * **2023-03-22**: Learned and worked on Docker Containers.
 * **2023-03-22**: Learned and worked on JavaScript Functions.
+* **2023-03-22**: Learned and worked on Express routing.
