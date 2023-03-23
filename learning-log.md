@@ -2147,3 +2147,4 @@ Daily updates of topics learned and coded.
 * **2023-03-23**: Learned and worked on DOM Selectors.
 * **2023-03-23**: Learned and worked on Express Middleware.
 * **2023-03-23**: Learned and worked on React Props.
+* **2023-03-23**: Learned and worked on MongoDB Connection.
