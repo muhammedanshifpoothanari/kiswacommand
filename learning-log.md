@@ -2144,3 +2144,4 @@ Daily updates of topics learned and coded.
 * **2023-03-22**: Learned and worked on Mongoose Schemas.
 * **2023-03-22**: Learned and worked on Responsive Design.
 * **2023-03-22**: Learned and worked on React State (useState).
+* **2023-03-23**: Learned and worked on DOM Selectors.
