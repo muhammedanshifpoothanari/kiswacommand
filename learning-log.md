@@ -2156,3 +2156,4 @@ Daily updates of topics learned and coded.
 * **2023-03-24**: Learned and worked on Docker Containers.
 * **2023-03-24**: Learned and worked on Mongoose Schemas.
 * **2023-03-24**: Learned and worked on JavaScript Functions.
+* **2023-03-24**: Learned and worked on MongoDB Connection.
