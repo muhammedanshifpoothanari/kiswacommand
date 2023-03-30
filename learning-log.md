@@ -2162,3 +2162,4 @@ Daily updates of topics learned and coded.
 * **2023-03-30**: Learned and worked on React State (useState).
 * **2023-03-30**: Learned and worked on Next.js App Router.
 * **2023-03-30**: Learned and worked on Docker Containers.
+* **2023-03-30**: Learned and worked on ES6 Classes.
