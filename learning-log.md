@@ -2165,3 +2165,4 @@ Daily updates of topics learned and coded.
 * **2023-03-30**: Learned and worked on ES6 Classes.
 * **2023-03-30**: Learned and worked on Express routing.
 * **2023-03-30**: Learned and worked on React Props.
+* **2023-03-30**: Learned and worked on React Effects (useEffect).
