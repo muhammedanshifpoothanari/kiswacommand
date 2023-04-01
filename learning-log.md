@@ -2169,3 +2169,4 @@ Daily updates of topics learned and coded.
 * **2023-03-30**: Learned and worked on JWT Authentication.
 * **2023-04-01**: Learned and worked on JWT Authentication.
 * **2023-04-01**: Learned and worked on Fetch API.
+* **2023-04-01**: Learned and worked on JWT Authentication.
