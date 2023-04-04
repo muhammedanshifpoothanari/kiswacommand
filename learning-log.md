@@ -2178,3 +2178,4 @@ Daily updates of topics learned and coded.
 * **2023-04-04**: Learned and worked on Docker Containers.
 * **2023-04-04**: Learned and worked on HTML structure.
 * **2023-04-04**: Learned and worked on CSS Flexbox.
+* **2023-04-04**: Learned and worked on CSS Flexbox.
