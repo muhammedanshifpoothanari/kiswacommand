@@ -2180,3 +2180,4 @@ Daily updates of topics learned and coded.
 * **2023-04-04**: Learned and worked on CSS Flexbox.
 * **2023-04-04**: Learned and worked on CSS Flexbox.
 * **2023-04-04**: Learned and worked on Express Middleware.
+* **2023-04-04**: Learned and worked on Mongoose Schemas.
