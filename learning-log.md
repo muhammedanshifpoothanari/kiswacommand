@@ -2183,3 +2183,4 @@ Daily updates of topics learned and coded.
 * **2023-04-04**: Learned and worked on Mongoose Schemas.
 * **2023-04-04**: Learned and worked on Promises.
 * **2023-04-04**: Learned and worked on CSS Flexbox.
+* **2023-04-04**: Learned and worked on DOM Selectors.
