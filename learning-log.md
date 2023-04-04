@@ -2176,3 +2176,4 @@ Daily updates of topics learned and coded.
 * **2023-04-01**: Learned and worked on Express Middleware.
 * **2023-04-01**: Learned and worked on React Props.
 * **2023-04-04**: Learned and worked on Docker Containers.
+* **2023-04-04**: Learned and worked on HTML structure.
