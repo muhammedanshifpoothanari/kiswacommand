@@ -2186,3 +2186,4 @@ Daily updates of topics learned and coded.
 * **2023-04-04**: Learned and worked on DOM Selectors.
 * **2023-04-04**: Learned and worked on DOM Selectors.
 * **2023-04-06**: Learned and worked on Fetch API.
+* **2023-04-06**: Learned and worked on HTML structure.
