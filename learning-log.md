@@ -2202,3 +2202,4 @@ Daily updates of topics learned and coded.
 * **2023-04-07**: Learned and worked on React Props.
 * **2023-04-07**: Learned and worked on Express Middleware.
 * **2023-04-07**: Learned and worked on HTML structure.
+* **2023-04-07**: Learned and worked on HTML structure.
