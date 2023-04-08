@@ -2207,3 +2207,4 @@ Daily updates of topics learned and coded.
 * **2023-04-08**: Learned and worked on React Components.
 * **2023-04-08**: Learned and worked on JWT Authentication.
 * **2023-04-08**: Learned and worked on HTML structure.
+* **2023-04-08**: Learned and worked on HTML structure.
