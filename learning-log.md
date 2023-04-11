@@ -2226,3 +2226,4 @@ Daily updates of topics learned and coded.
 * **2023-04-11**: Learned and worked on CSS Grid.
 * **2023-04-11**: Learned and worked on Mongoose Schemas.
 * **2023-04-11**: Learned and worked on JavaScript Variables.
+* **2023-04-11**: Learned and worked on Docker Containers.
