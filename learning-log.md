@@ -2237,3 +2237,4 @@ Daily updates of topics learned and coded.
 * **2023-04-13**: Learned and worked on JavaScript Functions.
 * **2023-04-13**: Learned and worked on Mongoose Schemas.
 * **2023-04-13**: Learned and worked on React Props.
+* **2023-04-13**: Learned and worked on Responsive Design.
