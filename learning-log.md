@@ -2239,3 +2239,4 @@ Daily updates of topics learned and coded.
 * **2023-04-13**: Learned and worked on React Props.
 * **2023-04-13**: Learned and worked on Responsive Design.
 * **2023-04-14**: Learned and worked on React Effects (useEffect).
+* **2023-04-14**: Learned and worked on JavaScript Loops.
