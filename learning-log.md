@@ -2242,3 +2242,4 @@ Daily updates of topics learned and coded.
 * **2023-04-14**: Learned and worked on JavaScript Loops.
 * **2023-04-14**: Learned and worked on Fetch API.
 * **2023-04-14**: Learned and worked on TypeScript Types.
+* **2023-04-14**: Learned and worked on REST API design.
