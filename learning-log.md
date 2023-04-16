@@ -2250,3 +2250,4 @@ Daily updates of topics learned and coded.
 * **2023-04-16**: Learned and worked on Next.js App Router.
 * **2023-04-16**: Learned and worked on REST API design.
 * **2023-04-16**: Learned and worked on React Effects (useEffect).
+* **2023-04-16**: Learned and worked on DOM Selectors.
