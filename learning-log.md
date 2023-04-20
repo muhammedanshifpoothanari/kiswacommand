@@ -2270,3 +2270,4 @@ Daily updates of topics learned and coded.
 * **2023-04-20**: Learned and worked on Express routing.
 * **2023-04-20**: Learned and worked on TypeScript Types.
 * **2023-04-20**: Learned and worked on Express Middleware.
+* **2023-04-20**: Learned and worked on Express routing.
