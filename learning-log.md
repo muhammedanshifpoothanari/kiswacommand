@@ -2278,3 +2278,4 @@ Daily updates of topics learned and coded.
 * **2023-04-20**: Learned and worked on React Props.
 * **2023-04-20**: Learned and worked on JWT Authentication.
 * **2023-04-21**: Learned and worked on JWT Authentication.
+* **2023-04-21**: Learned and worked on Express routing.
