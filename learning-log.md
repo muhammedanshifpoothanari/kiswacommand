@@ -2285,3 +2285,4 @@ Daily updates of topics learned and coded.
 * **2023-04-21**: Learned and worked on React Components.
 * **2023-04-22**: Learned and worked on DOM Selectors.
 * **2023-04-22**: Learned and worked on DOM Selectors.
+* **2023-04-22**: Learned and worked on Express Middleware.
