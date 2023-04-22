@@ -2287,3 +2287,4 @@ Daily updates of topics learned and coded.
 * **2023-04-22**: Learned and worked on DOM Selectors.
 * **2023-04-22**: Learned and worked on Express Middleware.
 * **2023-04-22**: Learned and worked on Responsive Design.
+* **2023-04-22**: Learned and worked on CSS Grid.
