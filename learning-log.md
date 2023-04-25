@@ -2296,3 +2296,4 @@ Daily updates of topics learned and coded.
 * **2023-04-25**: Learned and worked on TypeScript Types.
 * **2023-04-25**: Learned and worked on HTML structure.
 * **2023-04-25**: Learned and worked on JavaScript Loops.
+* **2023-04-25**: Learned and worked on TypeScript Types.
