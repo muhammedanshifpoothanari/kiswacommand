@@ -2293,3 +2293,4 @@ Daily updates of topics learned and coded.
 * **2023-04-25**: Learned and worked on Express routing.
 * **2023-04-25**: Learned and worked on DOM Selectors.
 * **2023-04-25**: Learned and worked on MongoDB Connection.
+* **2023-04-25**: Learned and worked on TypeScript Types.
