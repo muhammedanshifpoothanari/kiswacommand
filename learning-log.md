@@ -2299,3 +2299,4 @@ Daily updates of topics learned and coded.
 * **2023-04-25**: Learned and worked on TypeScript Types.
 * **2023-04-26**: Learned and worked on React Effects (useEffect).
 * **2023-04-26**: Learned and worked on HTML structure.
+* **2023-04-26**: Learned and worked on React Effects (useEffect).
