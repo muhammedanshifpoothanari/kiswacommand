@@ -2318,3 +2318,4 @@ Daily updates of topics learned and coded.
 * **2023-04-28**: Learned and worked on Promises.
 * **2023-04-28**: Learned and worked on Express routing.
 * **2023-04-28**: Learned and worked on Next.js App Router.
+* **2023-04-28**: Learned and worked on HTML structure.
