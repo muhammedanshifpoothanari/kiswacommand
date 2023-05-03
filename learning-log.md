@@ -2327,3 +2327,4 @@ Daily updates of topics learned and coded.
 * **2023-05-01**: Learned and worked on React Components.
 * **2023-05-01**: Learned and worked on DOM Selectors.
 * **2023-05-03**: Learned and worked on React State (useState).
+* **2023-05-03**: Learned and worked on Express routing.
