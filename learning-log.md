@@ -2331,3 +2331,4 @@ Daily updates of topics learned and coded.
 * **2023-05-03**: Learned and worked on REST API design.
 * **2023-05-03**: Learned and worked on HTML structure.
 * **2023-05-03**: Learned and worked on Responsive Design.
+* **2023-05-05**: Learned and worked on Docker Containers.
