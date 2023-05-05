@@ -2336,3 +2336,4 @@ Daily updates of topics learned and coded.
 * **2023-05-05**: Learned and worked on JavaScript Functions.
 * **2023-05-05**: Learned and worked on Next.js App Router.
 * **2023-05-05**: Learned and worked on Next.js App Router.
+* **2023-05-05**: Learned and worked on TypeScript Types.
