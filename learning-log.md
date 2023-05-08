@@ -2347,3 +2347,4 @@ Daily updates of topics learned and coded.
 * **2023-05-08**: Learned and worked on Mongoose Schemas.
 * **2023-05-08**: Learned and worked on ES6 Classes.
 * **2023-05-08**: Learned and worked on Docker Containers.
+* **2023-05-08**: Learned and worked on Express Middleware.
