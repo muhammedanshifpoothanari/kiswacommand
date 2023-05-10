@@ -2360,3 +2360,4 @@ Daily updates of topics learned and coded.
 * **2023-05-10**: Learned and worked on CSS Grid.
 * **2023-05-10**: Learned and worked on ES6 Classes.
 * **2023-05-10**: Learned and worked on DOM Selectors.
+* **2023-05-10**: Learned and worked on JWT Authentication.
