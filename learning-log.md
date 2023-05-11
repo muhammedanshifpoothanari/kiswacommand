@@ -2366,3 +2366,4 @@ Daily updates of topics learned and coded.
 * **2023-05-10**: Learned and worked on Next.js App Router.
 * **2023-05-10**: Learned and worked on MongoDB Connection.
 * **2023-05-10**: Learned and worked on Fetch API.
+* **2023-05-11**: Learned and worked on TypeScript Types.
