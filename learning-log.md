@@ -2379,3 +2379,4 @@ Daily updates of topics learned and coded.
 * **2023-05-12**: Learned and worked on REST API design.
 * **2023-05-12**: Learned and worked on REST API design.
 * **2023-05-12**: Learned and worked on Express routing.
+* **2023-05-12**: Learned and worked on CSS Flexbox.
