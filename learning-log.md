@@ -2387,3 +2387,4 @@ Daily updates of topics learned and coded.
 * **2023-05-13**: Learned and worked on React State (useState).
 * **2023-05-13**: Learned and worked on HTML structure.
 * **2023-05-13**: Learned and worked on CSS Grid.
+* **2023-05-13**: Learned and worked on DOM Selectors.
