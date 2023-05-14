@@ -2392,3 +2392,4 @@ Daily updates of topics learned and coded.
 * **2023-05-13**: Learned and worked on CSS Flexbox.
 * **2023-05-13**: Learned and worked on JavaScript Variables.
 * **2023-05-13**: Learned and worked on MongoDB Connection.
+* **2023-05-14**: Learned and worked on REST API design.
