@@ -2404,3 +2404,4 @@ Daily updates of topics learned and coded.
 * **2023-05-15**: Learned and worked on React Props.
 * **2023-05-15**: Learned and worked on Docker Containers.
 * **2023-05-15**: Learned and worked on Promises.
+* **2023-05-15**: Learned and worked on REST API design.
