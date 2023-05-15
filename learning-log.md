@@ -2402,3 +2402,4 @@ Daily updates of topics learned and coded.
 * **2023-05-15**: Learned and worked on TypeScript Types.
 * **2023-05-15**: Learned and worked on TypeScript Types.
 * **2023-05-15**: Learned and worked on React Props.
+* **2023-05-15**: Learned and worked on Docker Containers.
