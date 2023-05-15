@@ -2407,3 +2407,4 @@ Daily updates of topics learned and coded.
 * **2023-05-15**: Learned and worked on REST API design.
 * **2023-05-15**: Learned and worked on Mongoose Schemas.
 * **2023-05-15**: Learned and worked on MongoDB Connection.
+* **2023-05-15**: Learned and worked on Async/Await.
