@@ -2412,3 +2412,4 @@ Daily updates of topics learned and coded.
 * **2023-05-16**: Learned and worked on Mongoose Schemas.
 * **2023-05-16**: Learned and worked on Async/Await.
 * **2023-05-16**: Learned and worked on React State (useState).
+* **2023-05-16**: Learned and worked on Express Middleware.
