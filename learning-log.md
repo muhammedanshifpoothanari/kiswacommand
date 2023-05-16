@@ -2415,3 +2415,4 @@ Daily updates of topics learned and coded.
 * **2023-05-16**: Learned and worked on Express Middleware.
 * **2023-05-16**: Learned and worked on Fetch API.
 * **2023-05-16**: Learned and worked on React Props.
+* **2023-05-16**: Learned and worked on CSS Grid.
