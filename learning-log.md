@@ -2424,3 +2424,4 @@ Daily updates of topics learned and coded.
 * **2023-05-17**: Learned and worked on React State (useState).
 * **2023-05-17**: Learned and worked on TypeScript Types.
 * **2023-05-17**: Learned and worked on REST API design.
+* **2023-05-18**: Learned and worked on DOM Selectors.
