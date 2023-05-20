@@ -2431,3 +2431,4 @@ Daily updates of topics learned and coded.
 * **2023-05-18**: Learned and worked on Promises.
 * **2023-05-18**: Learned and worked on Next.js App Router.
 * **2023-05-20**: Learned and worked on Responsive Design.
+* **2023-05-20**: Learned and worked on JavaScript Functions.
