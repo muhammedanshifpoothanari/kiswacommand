@@ -2441,3 +2441,4 @@ Daily updates of topics learned and coded.
 * **2023-05-20**: Learned and worked on React Effects (useEffect).
 * **2023-05-21**: Learned and worked on HTML structure.
 * **2023-05-21**: Learned and worked on Responsive Design.
+* **2023-05-21**: Learned and worked on React State (useState).
