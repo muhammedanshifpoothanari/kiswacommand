@@ -2439,3 +2439,4 @@ Daily updates of topics learned and coded.
 * **2023-05-20**: Learned and worked on Express routing.
 * **2023-05-20**: Learned and worked on Next.js App Router.
 * **2023-05-20**: Learned and worked on React Effects (useEffect).
+* **2023-05-21**: Learned and worked on HTML structure.
