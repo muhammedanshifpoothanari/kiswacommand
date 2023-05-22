@@ -2452,3 +2452,4 @@ Daily updates of topics learned and coded.
 * **2023-05-21**: Learned and worked on React State (useState).
 * **2023-05-22**: Learned and worked on TypeScript Types.
 * **2023-05-22**: Learned and worked on Fetch API.
+* **2023-05-22**: Learned and worked on Express Middleware.
