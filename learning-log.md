@@ -2455,3 +2455,4 @@ Daily updates of topics learned and coded.
 * **2023-05-22**: Learned and worked on Express Middleware.
 * **2023-05-22**: Learned and worked on REST API design.
 * **2023-05-22**: Learned and worked on Responsive Design.
+* **2023-05-22**: Learned and worked on REST API design.
