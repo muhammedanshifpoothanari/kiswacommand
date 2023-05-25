@@ -2460,3 +2460,4 @@ Daily updates of topics learned and coded.
 * **2023-05-22**: Learned and worked on Fetch API.
 * **2023-05-25**: Learned and worked on HTML structure.
 * **2023-05-25**: Learned and worked on CSS Flexbox.
+* **2023-05-25**: Learned and worked on React Components.
