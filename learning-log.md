@@ -2486,3 +2486,4 @@ Daily updates of topics learned and coded.
 * **2023-05-29**: Learned and worked on Next.js App Router.
 * **2023-05-29**: Learned and worked on Fetch API.
 * **2023-05-29**: Learned and worked on CSS Grid.
+* **2023-05-29**: Learned and worked on TypeScript Types.
