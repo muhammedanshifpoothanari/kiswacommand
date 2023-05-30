@@ -2498,3 +2498,4 @@ Daily updates of topics learned and coded.
 * **2023-05-30**: Learned and worked on Responsive Design.
 * **2023-05-30**: Learned and worked on Express routing.
 * **2023-05-30**: Learned and worked on Docker Containers.
+* **2023-05-30**: Learned and worked on JavaScript Loops.
