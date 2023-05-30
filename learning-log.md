@@ -2500,3 +2500,4 @@ Daily updates of topics learned and coded.
 * **2023-05-30**: Learned and worked on Docker Containers.
 * **2023-05-30**: Learned and worked on JavaScript Loops.
 * **2023-05-30**: Learned and worked on CSS Flexbox.
+* **2023-05-30**: Learned and worked on JWT Authentication.
