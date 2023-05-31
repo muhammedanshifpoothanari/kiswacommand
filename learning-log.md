@@ -2502,3 +2502,4 @@ Daily updates of topics learned and coded.
 * **2023-05-30**: Learned and worked on CSS Flexbox.
 * **2023-05-30**: Learned and worked on JWT Authentication.
 * **2023-05-30**: Learned and worked on JavaScript Loops.
+* **2023-05-31**: Learned and worked on REST API design.
