@@ -2513,3 +2513,4 @@ Daily updates of topics learned and coded.
 * **2023-06-01**: Learned and worked on TypeScript Types.
 * **2023-06-01**: Learned and worked on MongoDB Connection.
 * **2023-06-02**: Learned and worked on JavaScript Functions.
+* **2023-06-02**: Learned and worked on JWT Authentication.
