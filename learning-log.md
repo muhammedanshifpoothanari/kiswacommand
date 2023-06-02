@@ -2515,3 +2515,4 @@ Daily updates of topics learned and coded.
 * **2023-06-02**: Learned and worked on JavaScript Functions.
 * **2023-06-02**: Learned and worked on JWT Authentication.
 * **2023-06-02**: Learned and worked on Async/Await.
+* **2023-06-02**: Learned and worked on Docker Containers.
