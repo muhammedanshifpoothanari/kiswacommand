@@ -2523,3 +2523,4 @@ Daily updates of topics learned and coded.
 * **2023-06-05**: Learned and worked on DOM Selectors.
 * **2023-06-05**: Learned and worked on HTML structure.
 * **2023-06-05**: Learned and worked on HTML structure.
+* **2023-06-05**: Learned and worked on CSS Grid.
