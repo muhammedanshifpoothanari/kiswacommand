@@ -2539,3 +2539,4 @@ Daily updates of topics learned and coded.
 * **2023-06-06**: Learned and worked on JavaScript Loops.
 * **2023-06-06**: Learned and worked on Express routing.
 * **2023-06-06**: Learned and worked on Mongoose Schemas.
+* **2023-06-06**: Learned and worked on Promises.
