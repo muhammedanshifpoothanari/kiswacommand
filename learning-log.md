@@ -2537,3 +2537,4 @@ Daily updates of topics learned and coded.
 * **2023-06-06**: Learned and worked on Fetch API.
 * **2023-06-06**: Learned and worked on MongoDB Connection.
 * **2023-06-06**: Learned and worked on JavaScript Loops.
+* **2023-06-06**: Learned and worked on Express routing.
