@@ -2534,3 +2534,4 @@ Daily updates of topics learned and coded.
 * **2023-06-06**: Learned and worked on JavaScript Functions.
 * **2023-06-06**: Learned and worked on JWT Authentication.
 * **2023-06-06**: Learned and worked on TypeScript Types.
+* **2023-06-06**: Learned and worked on Fetch API.
