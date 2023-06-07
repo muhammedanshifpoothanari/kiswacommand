@@ -2542,3 +2542,4 @@ Daily updates of topics learned and coded.
 * **2023-06-06**: Learned and worked on Promises.
 * **2023-06-07**: Learned and worked on MongoDB Connection.
 * **2023-06-07**: Learned and worked on REST API design.
+* **2023-06-07**: Learned and worked on Next.js App Router.
