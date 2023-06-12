@@ -2567,3 +2567,4 @@ Daily updates of topics learned and coded.
 * **2023-06-11**: Learned and worked on REST API design.
 * **2023-06-11**: Learned and worked on CSS Grid.
 * **2023-06-12**: Learned and worked on JWT Authentication.
+* **2023-06-12**: Learned and worked on Mongoose Schemas.
