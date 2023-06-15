@@ -2577,3 +2577,4 @@ Daily updates of topics learned and coded.
 * **2023-06-14**: Learned and worked on React Props.
 * **2023-06-14**: Learned and worked on MongoDB Connection.
 * **2023-06-14**: Learned and worked on Async/Await.
+* **2023-06-15**: Learned and worked on TypeScript Types.
