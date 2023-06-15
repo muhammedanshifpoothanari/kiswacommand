@@ -2579,3 +2579,4 @@ Daily updates of topics learned and coded.
 * **2023-06-14**: Learned and worked on Async/Await.
 * **2023-06-15**: Learned and worked on TypeScript Types.
 * **2023-06-15**: Learned and worked on React Components.
+* **2023-06-15**: Learned and worked on Responsive Design.
