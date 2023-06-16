@@ -2584,3 +2584,4 @@ Daily updates of topics learned and coded.
 * **2023-06-15**: Learned and worked on Mongoose Schemas.
 * **2023-06-16**: Learned and worked on React Props.
 * **2023-06-16**: Learned and worked on Next.js App Router.
+* **2023-06-16**: Learned and worked on Express Middleware.
