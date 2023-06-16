@@ -2586,3 +2586,4 @@ Daily updates of topics learned and coded.
 * **2023-06-16**: Learned and worked on Next.js App Router.
 * **2023-06-16**: Learned and worked on Express Middleware.
 * **2023-06-16**: Learned and worked on CSS Flexbox.
+* **2023-06-16**: Learned and worked on JavaScript Functions.
