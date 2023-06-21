@@ -2601,3 +2601,4 @@ Daily updates of topics learned and coded.
 * **2023-06-21**: Learned and worked on Async/Await.
 * **2023-06-21**: Learned and worked on JavaScript Functions.
 * **2023-06-21**: Learned and worked on JavaScript Variables.
+* **2023-06-21**: Learned and worked on Async/Await.
