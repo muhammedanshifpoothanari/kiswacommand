@@ -2605,3 +2605,4 @@ Daily updates of topics learned and coded.
 * **2023-06-22**: Learned and worked on React Effects (useEffect).
 * **2023-06-22**: Learned and worked on CSS Grid.
 * **2023-06-22**: Learned and worked on CSS Flexbox.
+* **2023-06-22**: Learned and worked on Async/Await.
