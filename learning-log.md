@@ -2609,3 +2609,4 @@ Daily updates of topics learned and coded.
 * **2023-06-22**: Learned and worked on JWT Authentication.
 * **2023-06-22**: Learned and worked on DOM Selectors.
 * **2023-06-23**: Learned and worked on Next.js App Router.
+* **2023-06-23**: Learned and worked on Docker Containers.
