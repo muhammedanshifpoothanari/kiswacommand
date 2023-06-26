@@ -2621,3 +2621,4 @@ Daily updates of topics learned and coded.
 * **2023-06-23**: Learned and worked on React Props.
 * **2023-06-23**: Learned and worked on Promises.
 * **2023-06-26**: Learned and worked on HTML structure.
+* **2023-06-26**: Learned and worked on Express routing.
