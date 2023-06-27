@@ -2633,3 +2633,4 @@ Daily updates of topics learned and coded.
 * **2023-06-26**: Learned and worked on Docker Containers.
 * **2023-06-26**: Learned and worked on ES6 Classes.
 * **2023-06-27**: Learned and worked on React Components.
+* **2023-06-27**: Learned and worked on JavaScript Variables.
