@@ -2639,3 +2639,4 @@ Daily updates of topics learned and coded.
 * **2023-06-27**: Learned and worked on Express Middleware.
 * **2023-06-28**: Learned and worked on React Effects (useEffect).
 * **2023-06-28**: Learned and worked on DOM Selectors.
+* **2023-06-28**: Learned and worked on JavaScript Variables.
