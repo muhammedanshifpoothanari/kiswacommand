@@ -2667,3 +2667,4 @@ Daily updates of topics learned and coded.
 * **2023-07-03**: Learned and worked on CSS Flexbox.
 * **2023-07-03**: Learned and worked on JavaScript Variables.
 * **2023-07-03**: Learned and worked on Promises.
+* **2023-07-03**: Learned and worked on Next.js App Router.
