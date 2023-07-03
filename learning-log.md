@@ -2664,3 +2664,4 @@ Daily updates of topics learned and coded.
 * **2023-06-30**: Learned and worked on TypeScript Types.
 * **2023-07-03**: Learned and worked on React Effects (useEffect).
 * **2023-07-03**: Learned and worked on ES6 Classes.
+* **2023-07-03**: Learned and worked on CSS Flexbox.
