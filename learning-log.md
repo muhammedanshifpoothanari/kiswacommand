@@ -2677,3 +2677,4 @@ Daily updates of topics learned and coded.
 * **2023-07-04**: Learned and worked on React State (useState).
 * **2023-07-04**: Learned and worked on Express Middleware.
 * **2023-07-04**: Learned and worked on Next.js App Router.
+* **2023-07-04**: Learned and worked on JavaScript Loops.
