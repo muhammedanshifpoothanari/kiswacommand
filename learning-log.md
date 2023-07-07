@@ -2694,3 +2694,4 @@ Daily updates of topics learned and coded.
 * **2023-07-07**: Learned and worked on Responsive Design.
 * **2023-07-07**: Learned and worked on Next.js App Router.
 * **2023-07-07**: Learned and worked on Mongoose Schemas.
+* **2023-07-07**: Learned and worked on React State (useState).
