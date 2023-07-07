@@ -2697,3 +2697,4 @@ Daily updates of topics learned and coded.
 * **2023-07-07**: Learned and worked on React State (useState).
 * **2023-07-07**: Learned and worked on JavaScript Functions.
 * **2023-07-07**: Learned and worked on TypeScript Types.
+* **2023-07-07**: Learned and worked on Async/Await.
