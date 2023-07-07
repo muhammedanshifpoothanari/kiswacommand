@@ -2699,3 +2699,4 @@ Daily updates of topics learned and coded.
 * **2023-07-07**: Learned and worked on TypeScript Types.
 * **2023-07-07**: Learned and worked on Async/Await.
 * **2023-07-07**: Learned and worked on Express routing.
+* **2023-07-07**: Learned and worked on JavaScript Loops.
