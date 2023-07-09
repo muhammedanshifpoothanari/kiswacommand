@@ -2707,3 +2707,4 @@ Daily updates of topics learned and coded.
 * **2023-07-09**: Learned and worked on React Components.
 * **2023-07-09**: Learned and worked on Responsive Design.
 * **2023-07-09**: Learned and worked on JavaScript Loops.
+* **2023-07-09**: Learned and worked on CSS Flexbox.
