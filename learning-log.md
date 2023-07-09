@@ -2702,3 +2702,4 @@ Daily updates of topics learned and coded.
 * **2023-07-07**: Learned and worked on JavaScript Loops.
 * **2023-07-07**: Learned and worked on JavaScript Variables.
 * **2023-07-09**: Learned and worked on HTML structure.
+* **2023-07-09**: Learned and worked on Async/Await.
