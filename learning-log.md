@@ -2714,3 +2714,4 @@ Daily updates of topics learned and coded.
 * **2023-07-10**: Learned and worked on REST API design.
 * **2023-07-10**: Learned and worked on Promises.
 * **2023-07-10**: Learned and worked on React Props.
+* **2023-07-14**: Learned and worked on Express Middleware.
