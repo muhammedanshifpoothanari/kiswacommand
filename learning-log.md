@@ -2720,3 +2720,4 @@ Daily updates of topics learned and coded.
 * **2023-07-14**: Learned and worked on React Effects (useEffect).
 * **2023-07-14**: Learned and worked on REST API design.
 * **2023-07-17**: Learned and worked on ES6 Classes.
+* **2023-07-17**: Learned and worked on ES6 Classes.
