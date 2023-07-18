@@ -2734,3 +2734,4 @@ Daily updates of topics learned and coded.
 * **2023-07-18**: Learned and worked on JavaScript Functions.
 * **2023-07-18**: Learned and worked on React Props.
 * **2023-07-18**: Learned and worked on HTML structure.
+* **2023-07-18**: Learned and worked on CSS Grid.
