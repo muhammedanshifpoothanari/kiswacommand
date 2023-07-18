@@ -2736,3 +2736,4 @@ Daily updates of topics learned and coded.
 * **2023-07-18**: Learned and worked on HTML structure.
 * **2023-07-18**: Learned and worked on CSS Grid.
 * **2023-07-18**: Learned and worked on DOM Selectors.
+* **2023-07-18**: Learned and worked on React Effects (useEffect).
