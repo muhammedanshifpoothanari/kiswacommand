@@ -2729,3 +2729,4 @@ Daily updates of topics learned and coded.
 * **2023-07-17**: Learned and worked on React Props.
 * **2023-07-17**: Learned and worked on Express Middleware.
 * **2023-07-18**: Learned and worked on JWT Authentication.
+* **2023-07-18**: Learned and worked on Fetch API.
