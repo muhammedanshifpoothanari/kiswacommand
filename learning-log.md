@@ -2749,3 +2749,4 @@ Daily updates of topics learned and coded.
 * **2023-07-20**: Learned and worked on MongoDB Connection.
 * **2023-07-20**: Learned and worked on Mongoose Schemas.
 * **2023-07-20**: Learned and worked on HTML structure.
+* **2023-07-20**: Learned and worked on Express Middleware.
