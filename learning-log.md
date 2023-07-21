@@ -2755,3 +2755,4 @@ Daily updates of topics learned and coded.
 * **2023-07-21**: Learned and worked on Docker Containers.
 * **2023-07-21**: Learned and worked on Responsive Design.
 * **2023-07-21**: Learned and worked on Docker Containers.
+* **2023-07-21**: Learned and worked on Fetch API.
