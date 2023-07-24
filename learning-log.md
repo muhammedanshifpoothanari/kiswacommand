@@ -2757,3 +2757,4 @@ Daily updates of topics learned and coded.
 * **2023-07-21**: Learned and worked on Docker Containers.
 * **2023-07-21**: Learned and worked on Fetch API.
 * **2023-07-24**: Learned and worked on Mongoose Schemas.
+* **2023-07-24**: Learned and worked on MongoDB Connection.
