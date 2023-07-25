@@ -2764,3 +2764,4 @@ Daily updates of topics learned and coded.
 * **2023-07-24**: Learned and worked on Fetch API.
 * **2023-07-24**: Learned and worked on React Props.
 * **2023-07-25**: Learned and worked on Promises.
+* **2023-07-25**: Learned and worked on ES6 Classes.
