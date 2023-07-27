@@ -2769,3 +2769,4 @@ Daily updates of topics learned and coded.
 * **2023-07-25**: Learned and worked on MongoDB Connection.
 * **2023-07-25**: Learned and worked on MongoDB Connection.
 * **2023-07-25**: Learned and worked on Async/Await.
+* **2023-07-27**: Learned and worked on REST API design.
