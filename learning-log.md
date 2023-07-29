@@ -2778,3 +2778,4 @@ Daily updates of topics learned and coded.
 * **2023-07-27**: Learned and worked on Mongoose Schemas.
 * **2023-07-27**: Learned and worked on React Components.
 * **2023-07-27**: Learned and worked on HTML structure.
+* **2023-07-29**: Learned and worked on React Components.
