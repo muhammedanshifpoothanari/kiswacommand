@@ -2792,3 +2792,4 @@ Daily updates of topics learned and coded.
 * **2023-08-03**: Learned and worked on Async/Await.
 * **2023-08-03**: Learned and worked on Promises.
 * **2023-08-03**: Learned and worked on TypeScript Types.
+* **2023-08-03**: Learned and worked on DOM Selectors.
