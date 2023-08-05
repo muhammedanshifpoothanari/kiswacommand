@@ -2795,3 +2795,4 @@ Daily updates of topics learned and coded.
 * **2023-08-03**: Learned and worked on DOM Selectors.
 * **2023-08-03**: Learned and worked on Async/Await.
 * **2023-08-05**: Learned and worked on Express Middleware.
+* **2023-08-05**: Learned and worked on JavaScript Variables.
