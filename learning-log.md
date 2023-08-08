@@ -2799,3 +2799,4 @@ Daily updates of topics learned and coded.
 * **2023-08-05**: Learned and worked on React Effects (useEffect).
 * **2023-08-05**: Learned and worked on React Components.
 * **2023-08-05**: Learned and worked on Fetch API.
+* **2023-08-08**: Learned and worked on Async/Await.
