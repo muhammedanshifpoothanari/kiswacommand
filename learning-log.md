@@ -2811,3 +2811,4 @@ Daily updates of topics learned and coded.
 * **2023-08-08**: Learned and worked on JWT Authentication.
 * **2023-08-08**: Learned and worked on JavaScript Loops.
 * **2023-08-08**: Learned and worked on Async/Await.
+* **2023-08-09**: Learned and worked on JavaScript Functions.
