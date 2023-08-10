@@ -2819,3 +2819,4 @@ Daily updates of topics learned and coded.
 * **2023-08-09**: Learned and worked on JavaScript Functions.
 * **2023-08-09**: Learned and worked on CSS Grid.
 * **2023-08-09**: Learned and worked on React Props.
+* **2023-08-10**: Learned and worked on Next.js App Router.
