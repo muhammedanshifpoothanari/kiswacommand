@@ -2822,3 +2822,4 @@ Daily updates of topics learned and coded.
 * **2023-08-10**: Learned and worked on Next.js App Router.
 * **2023-08-10**: Learned and worked on Express Middleware.
 * **2023-08-10**: Learned and worked on HTML structure.
+* **2023-08-10**: Learned and worked on JavaScript Variables.
