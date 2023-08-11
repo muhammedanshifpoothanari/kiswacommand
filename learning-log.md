@@ -2835,3 +2835,4 @@ Daily updates of topics learned and coded.
 * **2023-08-11**: Learned and worked on Promises.
 * **2023-08-11**: Learned and worked on CSS Grid.
 * **2023-08-11**: Learned and worked on CSS Flexbox.
+* **2023-08-11**: Learned and worked on JavaScript Functions.
