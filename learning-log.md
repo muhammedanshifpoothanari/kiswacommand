@@ -2842,3 +2842,4 @@ Daily updates of topics learned and coded.
 * **2023-08-11**: Learned and worked on Async/Await.
 * **2023-08-11**: Learned and worked on JavaScript Variables.
 * **2023-08-11**: Learned and worked on Async/Await.
+* **2023-08-14**: Learned and worked on CSS Flexbox.
