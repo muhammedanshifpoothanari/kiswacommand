@@ -2845,3 +2845,4 @@ Daily updates of topics learned and coded.
 * **2023-08-14**: Learned and worked on CSS Flexbox.
 * **2023-08-14**: Learned and worked on CSS Flexbox.
 * **2023-08-14**: Learned and worked on Mongoose Schemas.
+* **2023-08-14**: Learned and worked on ES6 Classes.
