@@ -2856,3 +2856,4 @@ Daily updates of topics learned and coded.
 * **2023-08-15**: Learned and worked on ES6 Classes.
 * **2023-08-15**: Learned and worked on React State (useState).
 * **2023-08-15**: Learned and worked on Promises.
+* **2023-08-16**: Learned and worked on CSS Flexbox.
