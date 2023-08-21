@@ -2881,3 +2881,4 @@ Daily updates of topics learned and coded.
 * **2023-08-21**: Learned and worked on REST API design.
 * **2023-08-21**: Learned and worked on JavaScript Loops.
 * **2023-08-21**: Learned and worked on REST API design.
+* **2023-08-21**: Learned and worked on JWT Authentication.
