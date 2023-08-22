@@ -2885,3 +2885,4 @@ Daily updates of topics learned and coded.
 * **2023-08-21**: Learned and worked on Express routing.
 * **2023-08-22**: Learned and worked on Express Middleware.
 * **2023-08-22**: Learned and worked on React Effects (useEffect).
+* **2023-08-22**: Learned and worked on JavaScript Functions.
