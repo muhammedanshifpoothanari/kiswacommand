@@ -2887,3 +2887,4 @@ Daily updates of topics learned and coded.
 * **2023-08-22**: Learned and worked on React Effects (useEffect).
 * **2023-08-22**: Learned and worked on JavaScript Functions.
 * **2023-08-22**: Learned and worked on JavaScript Functions.
+* **2023-08-22**: Learned and worked on ES6 Classes.
