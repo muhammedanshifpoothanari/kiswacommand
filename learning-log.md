@@ -2883,3 +2883,4 @@ Daily updates of topics learned and coded.
 * **2023-08-21**: Learned and worked on REST API design.
 * **2023-08-21**: Learned and worked on JWT Authentication.
 * **2023-08-21**: Learned and worked on Express routing.
+* **2023-08-22**: Learned and worked on Express Middleware.
