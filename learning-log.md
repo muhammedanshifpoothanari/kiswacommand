@@ -2917,3 +2917,4 @@ Daily updates of topics learned and coded.
 * **2023-08-25**: Learned and worked on React Props.
 * **2023-08-25**: Learned and worked on Express Middleware.
 * **2023-08-25**: Learned and worked on ES6 Classes.
+* **2023-08-25**: Learned and worked on TypeScript Types.
