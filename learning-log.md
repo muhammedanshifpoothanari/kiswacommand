@@ -2912,3 +2912,4 @@ Daily updates of topics learned and coded.
 * **2023-08-24**: Learned and worked on Promises.
 * **2023-08-24**: Learned and worked on Next.js App Router.
 * **2023-08-24**: Learned and worked on DOM Selectors.
+* **2023-08-25**: Learned and worked on React Props.
