@@ -2936,3 +2936,4 @@ Daily updates of topics learned and coded.
 * **2023-08-29**: Learned and worked on Express Middleware.
 * **2023-08-30**: Learned and worked on Mongoose Schemas.
 * **2023-08-30**: Learned and worked on Next.js App Router.
+* **2023-08-30**: Learned and worked on Express Middleware.
