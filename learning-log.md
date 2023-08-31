@@ -2943,3 +2943,4 @@ Daily updates of topics learned and coded.
 * **2023-08-31**: Learned and worked on React Effects (useEffect).
 * **2023-08-31**: Learned and worked on Express Middleware.
 * **2023-08-31**: Learned and worked on Express Middleware.
+* **2023-08-31**: Learned and worked on DOM Selectors.
