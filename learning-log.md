@@ -2951,3 +2951,4 @@ Daily updates of topics learned and coded.
 * **2023-09-01**: Learned and worked on Express routing.
 * **2023-09-01**: Learned and worked on MongoDB Connection.
 * **2023-09-01**: Learned and worked on React Props.
+* **2023-09-01**: Learned and worked on CSS Grid.
