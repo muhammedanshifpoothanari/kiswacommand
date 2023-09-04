@@ -2966,3 +2966,4 @@ Daily updates of topics learned and coded.
 * **2023-09-04**: Learned and worked on JWT Authentication.
 * **2023-09-04**: Learned and worked on Express routing.
 * **2023-09-04**: Learned and worked on Next.js App Router.
+* **2023-09-04**: Learned and worked on React Props.
