@@ -2974,3 +2974,4 @@ Daily updates of topics learned and coded.
 * **2023-09-05**: Learned and worked on React State (useState).
 * **2023-09-05**: Learned and worked on Docker Containers.
 * **2023-09-05**: Learned and worked on JavaScript Variables.
+* **2023-09-05**: Learned and worked on React Effects (useEffect).
