@@ -2982,3 +2982,4 @@ Daily updates of topics learned and coded.
 * **2023-09-06**: Learned and worked on React Components.
 * **2023-09-06**: Learned and worked on React Props.
 * **2023-09-06**: Learned and worked on Express Middleware.
+* **2023-09-06**: Learned and worked on CSS Grid.
