@@ -2978,3 +2978,4 @@ Daily updates of topics learned and coded.
 * **2023-09-05**: Learned and worked on HTML structure.
 * **2023-09-06**: Learned and worked on React State (useState).
 * **2023-09-06**: Learned and worked on Express Middleware.
+* **2023-09-06**: Learned and worked on TypeScript Types.
