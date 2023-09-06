@@ -2984,3 +2984,4 @@ Daily updates of topics learned and coded.
 * **2023-09-06**: Learned and worked on Express Middleware.
 * **2023-09-06**: Learned and worked on CSS Grid.
 * **2023-09-06**: Learned and worked on ES6 Classes.
+* **2023-09-06**: Learned and worked on HTML structure.
