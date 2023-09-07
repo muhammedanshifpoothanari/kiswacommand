@@ -2989,3 +2989,4 @@ Daily updates of topics learned and coded.
 * **2023-09-07**: Learned and worked on React Props.
 * **2023-09-07**: Learned and worked on Responsive Design.
 * **2023-09-07**: Learned and worked on MongoDB Connection.
+* **2023-09-07**: Learned and worked on Promises.
