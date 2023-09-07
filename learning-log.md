@@ -2986,3 +2986,4 @@ Daily updates of topics learned and coded.
 * **2023-09-06**: Learned and worked on ES6 Classes.
 * **2023-09-06**: Learned and worked on HTML structure.
 * **2023-09-06**: Learned and worked on React State (useState).
+* **2023-09-07**: Learned and worked on React Props.
