@@ -2996,3 +2996,4 @@ Daily updates of topics learned and coded.
 * **2023-09-07**: Learned and worked on React Effects (useEffect).
 * **2023-09-07**: Learned and worked on REST API design.
 * **2023-09-07**: Learned and worked on Express routing.
+* **2023-09-07**: Learned and worked on React Props.
