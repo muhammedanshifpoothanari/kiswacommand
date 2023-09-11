@@ -3014,3 +3014,4 @@ Daily updates of topics learned and coded.
 * **2023-09-11**: Learned and worked on Fetch API.
 * **2023-09-11**: Learned and worked on Mongoose Schemas.
 * **2023-09-11**: Learned and worked on React Props.
+* **2023-09-11**: Learned and worked on Mongoose Schemas.
