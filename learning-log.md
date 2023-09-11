@@ -3012,3 +3012,4 @@ Daily updates of topics learned and coded.
 * **2023-09-11**: Learned and worked on DOM Selectors.
 * **2023-09-11**: Learned and worked on Next.js App Router.
 * **2023-09-11**: Learned and worked on Fetch API.
+* **2023-09-11**: Learned and worked on Mongoose Schemas.
