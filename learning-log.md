@@ -3036,3 +3036,4 @@ Daily updates of topics learned and coded.
 * **2023-09-13**: Learned and worked on TypeScript Types.
 * **2023-09-13**: Learned and worked on JavaScript Loops.
 * **2023-09-13**: Learned and worked on MongoDB Connection.
+* **2023-09-13**: Learned and worked on DOM Selectors.
