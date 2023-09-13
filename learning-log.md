@@ -3033,3 +3033,4 @@ Daily updates of topics learned and coded.
 * **2023-09-12**: Learned and worked on Mongoose Schemas.
 * **2023-09-13**: Learned and worked on Docker Containers.
 * **2023-09-13**: Learned and worked on JavaScript Loops.
+* **2023-09-13**: Learned and worked on TypeScript Types.
