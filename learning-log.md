@@ -3045,3 +3045,4 @@ Daily updates of topics learned and coded.
 * **2023-09-14**: Learned and worked on DOM Selectors.
 * **2023-09-14**: Learned and worked on React State (useState).
 * **2023-09-14**: Learned and worked on Fetch API.
+* **2023-09-14**: Learned and worked on REST API design.
