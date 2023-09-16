@@ -3057,3 +3057,4 @@ Daily updates of topics learned and coded.
 * **2023-09-15**: Learned and worked on Mongoose Schemas.
 * **2023-09-16**: Learned and worked on Express Middleware.
 * **2023-09-16**: Learned and worked on Fetch API.
+* **2023-09-16**: Learned and worked on TypeScript Types.
