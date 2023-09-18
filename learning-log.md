@@ -3069,3 +3069,4 @@ Daily updates of topics learned and coded.
 * **2023-09-18**: Learned and worked on REST API design.
 * **2023-09-18**: Learned and worked on REST API design.
 * **2023-09-18**: Learned and worked on JavaScript Functions.
+* **2023-09-18**: Learned and worked on Mongoose Schemas.
