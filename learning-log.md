@@ -3066,3 +3066,4 @@ Daily updates of topics learned and coded.
 * **2023-09-16**: Learned and worked on Express Middleware.
 * **2023-09-18**: Learned and worked on Mongoose Schemas.
 * **2023-09-18**: Learned and worked on HTML structure.
+* **2023-09-18**: Learned and worked on REST API design.
