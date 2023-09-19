@@ -3075,3 +3075,4 @@ Daily updates of topics learned and coded.
 * **2023-09-18**: Learned and worked on CSS Flexbox.
 * **2023-09-18**: Learned and worked on REST API design.
 * **2023-09-19**: Learned and worked on Next.js App Router.
+* **2023-09-19**: Learned and worked on Docker Containers.
