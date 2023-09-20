@@ -3080,3 +3080,4 @@ Daily updates of topics learned and coded.
 * **2023-09-19**: Learned and worked on Next.js App Router.
 * **2023-09-19**: Learned and worked on Mongoose Schemas.
 * **2023-09-20**: Learned and worked on DOM Selectors.
+* **2023-09-20**: Learned and worked on Docker Containers.
