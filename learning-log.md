@@ -3088,3 +3088,4 @@ Daily updates of topics learned and coded.
 * **2023-09-20**: Learned and worked on React Effects (useEffect).
 * **2023-09-20**: Learned and worked on React Props.
 * **2023-09-22**: Learned and worked on Docker Containers.
+* **2023-09-22**: Learned and worked on React State (useState).
