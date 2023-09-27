@@ -3119,3 +3119,4 @@ Daily updates of topics learned and coded.
 * **2023-09-26**: Learned and worked on CSS Grid.
 * **2023-09-27**: Learned and worked on CSS Flexbox.
 * **2023-09-27**: Learned and worked on React Props.
+* **2023-09-27**: Learned and worked on CSS Flexbox.
