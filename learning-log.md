@@ -3153,3 +3153,4 @@ Daily updates of topics learned and coded.
 * **2023-10-02**: Learned and worked on JavaScript Variables.
 * **2023-10-03**: Learned and worked on JavaScript Loops.
 * **2023-10-03**: Learned and worked on REST API design.
+* **2023-10-03**: Learned and worked on React Props.
