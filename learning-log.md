@@ -3160,3 +3160,4 @@ Daily updates of topics learned and coded.
 * **2023-10-03**: Learned and worked on DOM Selectors.
 * **2023-10-03**: Learned and worked on Docker Containers.
 * **2023-10-03**: Learned and worked on HTML structure.
+* **2023-10-04**: Learned and worked on React Components.
