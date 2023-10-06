@@ -3169,3 +3169,4 @@ Daily updates of topics learned and coded.
 * **2023-10-06**: Learned and worked on Express Middleware.
 * **2023-10-06**: Learned and worked on React State (useState).
 * **2023-10-06**: Learned and worked on JavaScript Functions.
+* **2023-10-06**: Learned and worked on React Props.
