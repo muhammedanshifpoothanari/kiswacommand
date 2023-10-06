@@ -3166,3 +3166,4 @@ Daily updates of topics learned and coded.
 * **2023-10-04**: Learned and worked on JavaScript Variables.
 * **2023-10-04**: Learned and worked on Responsive Design.
 * **2023-10-04**: Learned and worked on Mongoose Schemas.
+* **2023-10-06**: Learned and worked on Express Middleware.
