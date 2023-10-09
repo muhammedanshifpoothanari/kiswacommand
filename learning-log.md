@@ -3173,3 +3173,4 @@ Daily updates of topics learned and coded.
 * **2023-10-06**: Learned and worked on REST API design.
 * **2023-10-06**: Learned and worked on HTML structure.
 * **2023-10-06**: Learned and worked on Fetch API.
+* **2023-10-09**: Learned and worked on TypeScript Types.
