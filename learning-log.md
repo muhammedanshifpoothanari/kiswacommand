@@ -3177,3 +3177,4 @@ Daily updates of topics learned and coded.
 * **2023-10-09**: Learned and worked on DOM Selectors.
 * **2023-10-09**: Learned and worked on Express Middleware.
 * **2023-10-09**: Learned and worked on JavaScript Functions.
+* **2023-10-09**: Learned and worked on Fetch API.
