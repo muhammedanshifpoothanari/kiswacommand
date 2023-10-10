@@ -3182,3 +3182,4 @@ Daily updates of topics learned and coded.
 * **2023-10-09**: Learned and worked on Fetch API.
 * **2023-10-09**: Learned and worked on React State (useState).
 * **2023-10-10**: Learned and worked on CSS Grid.
+* **2023-10-10**: Learned and worked on JavaScript Functions.
