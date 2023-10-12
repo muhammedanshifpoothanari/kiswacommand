@@ -3189,3 +3189,4 @@ Daily updates of topics learned and coded.
 * **2023-10-10**: Learned and worked on Responsive Design.
 * **2023-10-12**: Learned and worked on JavaScript Loops.
 * **2023-10-12**: Learned and worked on MongoDB Connection.
+* **2023-10-12**: Learned and worked on HTML structure.
