@@ -3192,3 +3192,4 @@ Daily updates of topics learned and coded.
 * **2023-10-12**: Learned and worked on HTML structure.
 * **2023-10-12**: Learned and worked on React Components.
 * **2023-10-12**: Learned and worked on Express Middleware.
+* **2023-10-12**: Learned and worked on React Effects (useEffect).
