@@ -3198,3 +3198,4 @@ Daily updates of topics learned and coded.
 * **2023-10-12**: Learned and worked on Promises.
 * **2023-10-13**: Learned and worked on Docker Containers.
 * **2023-10-13**: Learned and worked on Fetch API.
+* **2023-10-13**: Learned and worked on HTML structure.
