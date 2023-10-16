@@ -3209,3 +3209,4 @@ Daily updates of topics learned and coded.
 * **2023-10-13**: Learned and worked on MongoDB Connection.
 * **2023-10-16**: Learned and worked on REST API design.
 * **2023-10-16**: Learned and worked on Responsive Design.
+* **2023-10-16**: Learned and worked on Fetch API.
