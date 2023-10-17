@@ -3220,3 +3220,4 @@ Daily updates of topics learned and coded.
 * **2023-10-17**: Learned and worked on JavaScript Variables.
 * **2023-10-17**: Learned and worked on TypeScript Types.
 * **2023-10-17**: Learned and worked on DOM Selectors.
+* **2023-10-17**: Learned and worked on TypeScript Types.
