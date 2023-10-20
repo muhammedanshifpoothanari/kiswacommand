@@ -3234,3 +3234,4 @@ Daily updates of topics learned and coded.
 * **2023-10-20**: Learned and worked on HTML structure.
 * **2023-10-20**: Learned and worked on JavaScript Functions.
 * **2023-10-20**: Learned and worked on CSS Grid.
+* **2023-10-20**: Learned and worked on React State (useState).
