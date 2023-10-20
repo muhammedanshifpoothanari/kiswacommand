@@ -3227,3 +3227,4 @@ Daily updates of topics learned and coded.
 * **2023-10-19**: Learned and worked on MongoDB Connection.
 * **2023-10-19**: Learned and worked on ES6 Classes.
 * **2023-10-19**: Learned and worked on CSS Flexbox.
+* **2023-10-20**: Learned and worked on React Effects (useEffect).
