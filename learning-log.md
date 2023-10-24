@@ -3241,3 +3241,4 @@ Daily updates of topics learned and coded.
 * **2023-10-20**: Learned and worked on Mongoose Schemas.
 * **2023-10-24**: Learned and worked on TypeScript Types.
 * **2023-10-24**: Learned and worked on Promises.
+* **2023-10-24**: Learned and worked on JavaScript Variables.
