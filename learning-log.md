@@ -3248,3 +3248,4 @@ Daily updates of topics learned and coded.
 * **2023-10-25**: Learned and worked on JavaScript Loops.
 * **2023-10-25**: Learned and worked on CSS Grid.
 * **2023-10-25**: Learned and worked on Docker Containers.
+* **2023-10-25**: Learned and worked on Async/Await.
