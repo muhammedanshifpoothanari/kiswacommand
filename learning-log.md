@@ -3258,3 +3258,4 @@ Daily updates of topics learned and coded.
 * **2023-10-26**: Learned and worked on Express Middleware.
 * **2023-10-26**: Learned and worked on Mongoose Schemas.
 * **2023-10-28**: Learned and worked on React Effects (useEffect).
+* **2023-10-28**: Learned and worked on Docker Containers.
