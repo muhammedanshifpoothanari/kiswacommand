@@ -3264,3 +3264,4 @@ Daily updates of topics learned and coded.
 * **2023-10-28**: Learned and worked on MongoDB Connection.
 * **2023-10-28**: Learned and worked on JavaScript Variables.
 * **2023-10-31**: Learned and worked on Fetch API.
+* **2023-10-31**: Learned and worked on Async/Await.
