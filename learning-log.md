@@ -3268,3 +3268,4 @@ Daily updates of topics learned and coded.
 * **2023-10-31**: Learned and worked on HTML structure.
 * **2023-10-31**: Learned and worked on JWT Authentication.
 * **2023-10-31**: Learned and worked on ES6 Classes.
+* **2023-10-31**: Learned and worked on CSS Flexbox.
