@@ -3284,3 +3284,4 @@ Daily updates of topics learned and coded.
 * **2023-11-03**: Learned and worked on React Components.
 * **2023-11-03**: Learned and worked on Promises.
 * **2023-11-03**: Learned and worked on Mongoose Schemas.
+* **2023-11-03**: Learned and worked on CSS Flexbox.
