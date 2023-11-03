@@ -3282,3 +3282,4 @@ Daily updates of topics learned and coded.
 * **2023-11-03**: Learned and worked on Async/Await.
 * **2023-11-03**: Learned and worked on Express Middleware.
 * **2023-11-03**: Learned and worked on React Components.
+* **2023-11-03**: Learned and worked on Promises.
