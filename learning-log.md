@@ -3286,3 +3286,4 @@ Daily updates of topics learned and coded.
 * **2023-11-03**: Learned and worked on Mongoose Schemas.
 * **2023-11-03**: Learned and worked on CSS Flexbox.
 * **2023-11-08**: Learned and worked on React Effects (useEffect).
+* **2023-11-08**: Learned and worked on DOM Selectors.
