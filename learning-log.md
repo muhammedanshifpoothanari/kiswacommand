@@ -3291,3 +3291,4 @@ Daily updates of topics learned and coded.
 * **2023-11-08**: Learned and worked on CSS Grid.
 * **2023-11-08**: Learned and worked on Async/Await.
 * **2023-11-08**: Learned and worked on ES6 Classes.
+* **2023-11-08**: Learned and worked on Promises.
