@@ -3300,3 +3300,4 @@ Daily updates of topics learned and coded.
 * **2023-11-09**: Learned and worked on CSS Flexbox.
 * **2023-11-09**: Learned and worked on React Props.
 * **2023-11-09**: Learned and worked on HTML structure.
+* **2023-11-10**: Learned and worked on Docker Containers.
