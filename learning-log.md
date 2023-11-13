@@ -3305,3 +3305,4 @@ Daily updates of topics learned and coded.
 * **2023-11-10**: Learned and worked on ES6 Classes.
 * **2023-11-10**: Learned and worked on React Props.
 * **2023-11-10**: Learned and worked on REST API design.
+* **2023-11-13**: Learned and worked on HTML structure.
