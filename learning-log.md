@@ -3320,3 +3320,4 @@ Daily updates of topics learned and coded.
 * **2023-11-14**: Learned and worked on JWT Authentication.
 * **2023-11-14**: Learned and worked on React Components.
 * **2023-11-14**: Learned and worked on REST API design.
+* **2023-11-14**: Learned and worked on JavaScript Functions.
