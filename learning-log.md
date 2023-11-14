@@ -3323,3 +3323,4 @@ Daily updates of topics learned and coded.
 * **2023-11-14**: Learned and worked on JavaScript Functions.
 * **2023-11-14**: Learned and worked on Express Middleware.
 * **2023-11-14**: Learned and worked on CSS Grid.
+* **2023-11-14**: Learned and worked on JWT Authentication.
