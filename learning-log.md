@@ -3318,3 +3318,4 @@ Daily updates of topics learned and coded.
 * **2023-11-14**: Learned and worked on HTML structure.
 * **2023-11-14**: Learned and worked on DOM Selectors.
 * **2023-11-14**: Learned and worked on JWT Authentication.
+* **2023-11-14**: Learned and worked on React Components.
