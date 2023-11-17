@@ -3332,3 +3332,4 @@ Daily updates of topics learned and coded.
 * **2023-11-17**: Learned and worked on JavaScript Loops.
 * **2023-11-17**: Learned and worked on React State (useState).
 * **2023-11-17**: Learned and worked on Async/Await.
+* **2023-11-17**: Learned and worked on Next.js App Router.
