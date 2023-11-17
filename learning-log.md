@@ -3327,3 +3327,4 @@ Daily updates of topics learned and coded.
 * **2023-11-14**: Learned and worked on Docker Containers.
 * **2023-11-14**: Learned and worked on Express Middleware.
 * **2023-11-17**: Learned and worked on MongoDB Connection.
+* **2023-11-17**: Learned and worked on Next.js App Router.
