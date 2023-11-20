@@ -3337,3 +3337,4 @@ Daily updates of topics learned and coded.
 * **2023-11-17**: Learned and worked on JWT Authentication.
 * **2023-11-20**: Learned and worked on Promises.
 * **2023-11-20**: Learned and worked on Mongoose Schemas.
+* **2023-11-20**: Learned and worked on CSS Grid.
