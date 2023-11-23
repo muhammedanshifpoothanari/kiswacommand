@@ -3346,3 +3346,4 @@ Daily updates of topics learned and coded.
 * **2023-11-20**: Learned and worked on React Props.
 * **2023-11-20**: Learned and worked on React Props.
 * **2023-11-20**: Learned and worked on Next.js App Router.
+* **2023-11-23**: Learned and worked on CSS Grid.
