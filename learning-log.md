@@ -3356,3 +3356,4 @@ Daily updates of topics learned and coded.
 * **2023-11-25**: Learned and worked on Docker Containers.
 * **2023-11-25**: Learned and worked on Fetch API.
 * **2023-11-25**: Learned and worked on JavaScript Functions.
+* **2023-11-25**: Learned and worked on JavaScript Functions.
