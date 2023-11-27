@@ -3361,3 +3361,4 @@ Daily updates of topics learned and coded.
 * **2023-11-25**: Learned and worked on Fetch API.
 * **2023-11-25**: Learned and worked on Mongoose Schemas.
 * **2023-11-27**: Learned and worked on Responsive Design.
+* **2023-11-27**: Learned and worked on JavaScript Functions.
