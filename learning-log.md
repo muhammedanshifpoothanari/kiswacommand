@@ -3363,3 +3363,4 @@ Daily updates of topics learned and coded.
 * **2023-11-27**: Learned and worked on Responsive Design.
 * **2023-11-27**: Learned and worked on JavaScript Functions.
 * **2023-11-27**: Learned and worked on Next.js App Router.
+* **2023-11-27**: Learned and worked on Fetch API.
