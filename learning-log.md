@@ -3370,3 +3370,4 @@ Daily updates of topics learned and coded.
 * **2023-11-27**: Learned and worked on DOM Selectors.
 * **2023-11-27**: Learned and worked on Promises.
 * **2023-11-29**: Learned and worked on React Effects (useEffect).
+* **2023-11-29**: Learned and worked on Mongoose Schemas.
