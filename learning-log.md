@@ -3372,3 +3372,4 @@ Daily updates of topics learned and coded.
 * **2023-11-29**: Learned and worked on React Effects (useEffect).
 * **2023-11-29**: Learned and worked on Mongoose Schemas.
 * **2023-11-29**: Learned and worked on React State (useState).
+* **2023-11-29**: Learned and worked on JavaScript Variables.
