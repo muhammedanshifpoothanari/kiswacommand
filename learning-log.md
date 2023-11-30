@@ -3378,3 +3378,4 @@ Daily updates of topics learned and coded.
 * **2023-11-29**: Learned and worked on REST API design.
 * **2023-11-30**: Learned and worked on REST API design.
 * **2023-11-30**: Learned and worked on JavaScript Loops.
+* **2023-11-30**: Learned and worked on TypeScript Types.
