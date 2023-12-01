@@ -3382,3 +3382,4 @@ Daily updates of topics learned and coded.
 * **2023-11-30**: Learned and worked on HTML structure.
 * **2023-11-30**: Learned and worked on DOM Selectors.
 * **2023-11-30**: Learned and worked on DOM Selectors.
+* **2023-12-01**: Learned and worked on React Effects (useEffect).
