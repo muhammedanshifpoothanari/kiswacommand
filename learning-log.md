@@ -3396,3 +3396,4 @@ Daily updates of topics learned and coded.
 * **2023-12-04**: Learned and worked on Responsive Design.
 * **2023-12-06**: Learned and worked on Responsive Design.
 * **2023-12-06**: Learned and worked on Express Middleware.
+* **2023-12-06**: Learned and worked on Next.js App Router.
