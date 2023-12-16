@@ -3443,3 +3443,4 @@ Daily updates of topics learned and coded.
 * **2023-12-16**: Learned and worked on Docker Containers.
 * **2023-12-16**: Learned and worked on Mongoose Schemas.
 * **2023-12-16**: Learned and worked on JWT Authentication.
+* **2023-12-16**: Learned and worked on CSS Grid.
