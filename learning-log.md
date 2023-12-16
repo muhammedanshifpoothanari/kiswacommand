@@ -3437,3 +3437,4 @@ Daily updates of topics learned and coded.
 * **2023-12-16**: Learned and worked on JavaScript Loops.
 * **2023-12-16**: Learned and worked on Docker Containers.
 * **2023-12-16**: Learned and worked on HTML structure.
+* **2023-12-16**: Learned and worked on JavaScript Functions.
