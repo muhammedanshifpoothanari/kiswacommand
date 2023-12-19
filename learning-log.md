@@ -3447,3 +3447,4 @@ Daily updates of topics learned and coded.
 * **2023-12-19**: Learned and worked on Mongoose Schemas.
 * **2023-12-19**: Learned and worked on TypeScript Types.
 * **2023-12-19**: Learned and worked on React State (useState).
+* **2023-12-19**: Learned and worked on JWT Authentication.
