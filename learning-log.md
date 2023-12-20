@@ -3452,3 +3452,4 @@ Daily updates of topics learned and coded.
 * **2023-12-19**: Learned and worked on Express routing.
 * **2023-12-19**: Learned and worked on React State (useState).
 * **2023-12-20**: Learned and worked on HTML structure.
+* **2023-12-20**: Learned and worked on Async/Await.
