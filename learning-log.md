@@ -3455,3 +3455,4 @@ Daily updates of topics learned and coded.
 * **2023-12-20**: Learned and worked on Async/Await.
 * **2023-12-20**: Learned and worked on DOM Selectors.
 * **2023-12-20**: Learned and worked on JavaScript Variables.
+* **2023-12-20**: Learned and worked on REST API design.
