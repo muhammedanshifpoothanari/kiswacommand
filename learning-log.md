@@ -3461,3 +3461,4 @@ Daily updates of topics learned and coded.
 * **2023-12-21**: Learned and worked on Express routing.
 * **2023-12-21**: Learned and worked on JavaScript Functions.
 * **2023-12-21**: Learned and worked on DOM Selectors.
+* **2023-12-21**: Learned and worked on CSS Flexbox.
