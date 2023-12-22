@@ -3467,3 +3467,4 @@ Daily updates of topics learned and coded.
 * **2023-12-22**: Learned and worked on Mongoose Schemas.
 * **2023-12-22**: Learned and worked on TypeScript Types.
 * **2023-12-22**: Learned and worked on CSS Flexbox.
+* **2023-12-22**: Learned and worked on JavaScript Loops.
