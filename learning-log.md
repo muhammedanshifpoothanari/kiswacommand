@@ -3472,3 +3472,4 @@ Daily updates of topics learned and coded.
 * **2023-12-22**: Learned and worked on JavaScript Loops.
 * **2023-12-25**: Learned and worked on JavaScript Variables.
 * **2023-12-25**: Learned and worked on TypeScript Types.
+* **2023-12-25**: Learned and worked on Express Middleware.
