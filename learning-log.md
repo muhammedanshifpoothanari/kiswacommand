@@ -3482,3 +3482,4 @@ Daily updates of topics learned and coded.
 * **2023-12-26**: Learned and worked on DOM Selectors.
 * **2023-12-26**: Learned and worked on CSS Flexbox.
 * **2023-12-26**: Learned and worked on Fetch API.
+* **2023-12-26**: Learned and worked on JavaScript Loops.
