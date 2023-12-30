@@ -3493,3 +3493,4 @@ Daily updates of topics learned and coded.
 * **2023-12-30**: Learned and worked on React Components.
 * **2023-12-30**: Learned and worked on React Components.
 * **2023-12-30**: Learned and worked on TypeScript Types.
+* **2023-12-30**: Learned and worked on DOM Selectors.
