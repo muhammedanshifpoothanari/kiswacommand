@@ -3505,3 +3505,4 @@ Daily updates of topics learned and coded.
 * **2023-12-31**: Learned and worked on CSS Grid.
 * **2023-12-31**: Learned and worked on Async/Await.
 * **2023-12-31**: Learned and worked on Express routing.
+* **2023-12-31**: Learned and worked on DOM Selectors.
