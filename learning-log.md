@@ -3496,3 +3496,4 @@ Daily updates of topics learned and coded.
 * **2023-12-30**: Learned and worked on DOM Selectors.
 * **2023-12-30**: Learned and worked on Express Middleware.
 * **2023-12-30**: Learned and worked on Promises.
+* **2023-12-31**: Learned and worked on JavaScript Loops.
