@@ -3500,3 +3500,4 @@ Daily updates of topics learned and coded.
 * **2023-12-31**: Learned and worked on Promises.
 * **2023-12-31**: Learned and worked on Docker Containers.
 * **2023-12-31**: Learned and worked on REST API design.
+* **2023-12-31**: Learned and worked on Responsive Design.
