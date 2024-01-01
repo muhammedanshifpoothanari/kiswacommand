@@ -3508,3 +3508,4 @@ Daily updates of topics learned and coded.
 * **2023-12-31**: Learned and worked on DOM Selectors.
 * **2024-01-01**: Learned and worked on Async/Await.
 * **2024-01-01**: Learned and worked on HTML structure.
+* **2024-01-01**: Learned and worked on DOM Selectors.
