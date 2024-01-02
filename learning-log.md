@@ -3512,3 +3512,4 @@ Daily updates of topics learned and coded.
 * **2024-01-01**: Learned and worked on Docker Containers.
 * **2024-01-01**: Learned and worked on Fetch API.
 * **2024-01-02**: Learned and worked on JavaScript Functions.
+* **2024-01-02**: Learned and worked on Express Middleware.
