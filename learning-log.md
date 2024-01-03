@@ -3518,3 +3518,4 @@ Daily updates of topics learned and coded.
 * **2024-01-02**: Learned and worked on React Props.
 * **2024-01-03**: Learned and worked on JavaScript Functions.
 * **2024-01-03**: Learned and worked on Promises.
+* **2024-01-03**: Learned and worked on Mongoose Schemas.
