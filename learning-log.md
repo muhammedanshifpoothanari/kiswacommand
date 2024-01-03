@@ -3520,3 +3520,4 @@ Daily updates of topics learned and coded.
 * **2024-01-03**: Learned and worked on Promises.
 * **2024-01-03**: Learned and worked on Mongoose Schemas.
 * **2024-01-03**: Learned and worked on REST API design.
+* **2024-01-03**: Learned and worked on Mongoose Schemas.
