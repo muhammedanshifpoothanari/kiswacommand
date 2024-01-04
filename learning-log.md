@@ -3526,3 +3526,4 @@ Daily updates of topics learned and coded.
 * **2024-01-03**: Learned and worked on Fetch API.
 * **2024-01-03**: Learned and worked on Mongoose Schemas.
 * **2024-01-03**: Learned and worked on Promises.
+* **2024-01-04**: Learned and worked on Express Middleware.
