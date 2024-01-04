@@ -3529,3 +3529,4 @@ Daily updates of topics learned and coded.
 * **2024-01-04**: Learned and worked on Express Middleware.
 * **2024-01-04**: Learned and worked on HTML structure.
 * **2024-01-04**: Learned and worked on React Components.
+* **2024-01-04**: Learned and worked on JavaScript Functions.
