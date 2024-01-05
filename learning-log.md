@@ -3538,3 +3538,4 @@ Daily updates of topics learned and coded.
 * **2024-01-05**: Learned and worked on Express Middleware.
 * **2024-01-05**: Learned and worked on JavaScript Variables.
 * **2024-01-05**: Learned and worked on Express Middleware.
+* **2024-01-05**: Learned and worked on React Effects (useEffect).
