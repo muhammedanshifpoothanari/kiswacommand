@@ -3543,3 +3543,4 @@ Daily updates of topics learned and coded.
 * **2024-01-05**: Learned and worked on MongoDB Connection.
 * **2024-01-05**: Learned and worked on JavaScript Loops.
 * **2024-01-05**: Learned and worked on React State (useState).
+* **2024-01-08**: Learned and worked on TypeScript Types.
