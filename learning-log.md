@@ -3565,3 +3565,4 @@ Daily updates of topics learned and coded.
 * **2024-01-09**: Learned and worked on REST API design.
 * **2024-01-09**: Learned and worked on JavaScript Loops.
 * **2024-01-09**: Learned and worked on MongoDB Connection.
+* **2024-01-09**: Learned and worked on React Props.
