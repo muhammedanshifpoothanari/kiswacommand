@@ -3556,3 +3556,4 @@ Daily updates of topics learned and coded.
 * **2024-01-08**: Learned and worked on JavaScript Variables.
 * **2024-01-08**: Learned and worked on JavaScript Loops.
 * **2024-01-09**: Learned and worked on Mongoose Schemas.
+* **2024-01-09**: Learned and worked on CSS Flexbox.
