@@ -3576,3 +3576,4 @@ Daily updates of topics learned and coded.
 * **2024-01-10**: Learned and worked on React Props.
 * **2024-01-11**: Learned and worked on React State (useState).
 * **2024-01-11**: Learned and worked on CSS Flexbox.
+* **2024-01-11**: Learned and worked on Express routing.
