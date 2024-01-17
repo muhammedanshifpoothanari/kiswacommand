@@ -3618,3 +3618,4 @@ Daily updates of topics learned and coded.
 * **2024-01-17**: Learned and worked on Express routing.
 * **2024-01-17**: Learned and worked on Async/Await.
 * **2024-01-17**: Learned and worked on Express routing.
+* **2024-01-17**: Learned and worked on Next.js App Router.
