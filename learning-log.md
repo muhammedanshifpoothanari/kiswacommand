@@ -3629,3 +3629,4 @@ Daily updates of topics learned and coded.
 * **2024-01-18**: Learned and worked on React Components.
 * **2024-01-18**: Learned and worked on Responsive Design.
 * **2024-01-18**: Learned and worked on DOM Selectors.
+* **2024-01-18**: Learned and worked on Promises.
