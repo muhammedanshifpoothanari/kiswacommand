@@ -3627,3 +3627,4 @@ Daily updates of topics learned and coded.
 * **2024-01-18**: Learned and worked on Fetch API.
 * **2024-01-18**: Learned and worked on JavaScript Variables.
 * **2024-01-18**: Learned and worked on React Components.
+* **2024-01-18**: Learned and worked on Responsive Design.
