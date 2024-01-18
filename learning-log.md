@@ -3621,3 +3621,4 @@ Daily updates of topics learned and coded.
 * **2024-01-17**: Learned and worked on Next.js App Router.
 * **2024-01-18**: Learned and worked on CSS Flexbox.
 * **2024-01-18**: Learned and worked on REST API design.
+* **2024-01-18**: Learned and worked on JavaScript Functions.
