@@ -3630,3 +3630,4 @@ Daily updates of topics learned and coded.
 * **2024-01-18**: Learned and worked on Responsive Design.
 * **2024-01-18**: Learned and worked on DOM Selectors.
 * **2024-01-18**: Learned and worked on Promises.
+* **2024-01-21**: Learned and worked on React State (useState).
