@@ -3644,3 +3644,4 @@ Daily updates of topics learned and coded.
 * **2024-01-22**: Learned and worked on Next.js App Router.
 * **2024-01-22**: Learned and worked on Mongoose Schemas.
 * **2024-01-23**: Learned and worked on CSS Grid.
+* **2024-01-23**: Learned and worked on Mongoose Schemas.
