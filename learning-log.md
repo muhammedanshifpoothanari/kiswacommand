@@ -3651,3 +3651,4 @@ Daily updates of topics learned and coded.
 * **2024-01-23**: Learned and worked on Express routing.
 * **2024-01-23**: Learned and worked on Async/Await.
 * **2024-01-25**: Learned and worked on HTML structure.
+* **2024-01-25**: Learned and worked on React Components.
