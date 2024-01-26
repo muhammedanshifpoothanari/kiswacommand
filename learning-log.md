@@ -3655,3 +3655,4 @@ Daily updates of topics learned and coded.
 * **2024-01-25**: Learned and worked on JavaScript Variables.
 * **2024-01-25**: Learned and worked on Promises.
 * **2024-01-25**: Learned and worked on CSS Flexbox.
+* **2024-01-26**: Learned and worked on TypeScript Types.
