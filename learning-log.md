@@ -3663,3 +3663,4 @@ Daily updates of topics learned and coded.
 * **2024-01-29**: Learned and worked on JavaScript Functions.
 * **2024-01-29**: Learned and worked on Next.js App Router.
 * **2024-01-29**: Learned and worked on Responsive Design.
+* **2024-01-29**: Learned and worked on Next.js App Router.
