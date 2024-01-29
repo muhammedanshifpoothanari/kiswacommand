@@ -3661,3 +3661,4 @@ Daily updates of topics learned and coded.
 * **2024-01-26**: Learned and worked on JavaScript Variables.
 * **2024-01-26**: Learned and worked on TypeScript Types.
 * **2024-01-29**: Learned and worked on JavaScript Functions.
+* **2024-01-29**: Learned and worked on Next.js App Router.
