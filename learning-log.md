@@ -3668,3 +3668,4 @@ Daily updates of topics learned and coded.
 * **2024-01-29**: Learned and worked on ES6 Classes.
 * **2024-01-29**: Learned and worked on Async/Await.
 * **2024-01-31**: Learned and worked on Promises.
+* **2024-01-31**: Learned and worked on JavaScript Loops.
