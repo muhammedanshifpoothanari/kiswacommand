@@ -3675,3 +3675,4 @@ Daily updates of topics learned and coded.
 * **2024-02-01**: Learned and worked on DOM Selectors.
 * **2024-02-01**: Learned and worked on React State (useState).
 * **2024-02-01**: Learned and worked on Fetch API.
+* **2024-02-01**: Learned and worked on Fetch API.
