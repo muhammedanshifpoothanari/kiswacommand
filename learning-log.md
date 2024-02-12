@@ -3703,3 +3703,4 @@ Daily updates of topics learned and coded.
 * **2024-02-12**: Learned and worked on DOM Selectors.
 * **2024-02-12**: Learned and worked on JavaScript Variables.
 * **2024-02-12**: Learned and worked on React Components.
+* **2024-02-12**: Learned and worked on ES6 Classes.
