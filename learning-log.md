@@ -3701,3 +3701,4 @@ Daily updates of topics learned and coded.
 * **2024-02-07**: Learned and worked on Promises.
 * **2024-02-07**: Learned and worked on HTML structure.
 * **2024-02-12**: Learned and worked on DOM Selectors.
+* **2024-02-12**: Learned and worked on JavaScript Variables.
