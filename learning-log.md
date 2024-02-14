@@ -3723,3 +3723,4 @@ Daily updates of topics learned and coded.
 * **2024-02-14**: Learned and worked on JavaScript Variables.
 * **2024-02-14**: Learned and worked on React Effects (useEffect).
 * **2024-02-14**: Learned and worked on Promises.
+* **2024-02-14**: Learned and worked on ES6 Classes.
