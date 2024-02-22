@@ -3734,3 +3734,4 @@ Daily updates of topics learned and coded.
 * **2024-02-22**: Learned and worked on Responsive Design.
 * **2024-02-22**: Learned and worked on Responsive Design.
 * **2024-02-22**: Learned and worked on DOM Selectors.
+* **2024-02-22**: Learned and worked on Express routing.
