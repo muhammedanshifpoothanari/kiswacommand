@@ -3740,3 +3740,4 @@ Daily updates of topics learned and coded.
 * **2024-02-23**: Learned and worked on React Props.
 * **2024-02-23**: Learned and worked on Responsive Design.
 * **2024-02-23**: Learned and worked on MongoDB Connection.
+* **2024-02-23**: Learned and worked on Next.js App Router.
