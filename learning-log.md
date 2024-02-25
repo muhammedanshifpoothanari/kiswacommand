@@ -3752,3 +3752,4 @@ Daily updates of topics learned and coded.
 * **2024-02-25**: Learned and worked on Express routing.
 * **2024-02-25**: Learned and worked on Mongoose Schemas.
 * **2024-02-25**: Learned and worked on CSS Grid.
+* **2024-02-25**: Learned and worked on DOM Selectors.
