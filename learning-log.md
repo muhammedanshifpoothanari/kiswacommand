@@ -3756,3 +3756,4 @@ Daily updates of topics learned and coded.
 * **2024-02-28**: Learned and worked on React Props.
 * **2024-02-28**: Learned and worked on Mongoose Schemas.
 * **2024-02-28**: Learned and worked on HTML structure.
+* **2024-02-28**: Learned and worked on React Components.
