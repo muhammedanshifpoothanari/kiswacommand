@@ -3771,3 +3771,4 @@ Daily updates of topics learned and coded.
 * **2024-02-29**: Learned and worked on JWT Authentication.
 * **2024-02-29**: Learned and worked on ES6 Classes.
 * **2024-02-29**: Learned and worked on REST API design.
+* **2024-02-29**: Learned and worked on CSS Flexbox.
