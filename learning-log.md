@@ -3776,3 +3776,4 @@ Daily updates of topics learned and coded.
 * **2024-03-01**: Learned and worked on React State (useState).
 * **2024-03-01**: Learned and worked on MongoDB Connection.
 * **2024-03-01**: Learned and worked on React Effects (useEffect).
+* **2024-03-01**: Learned and worked on JavaScript Functions.
