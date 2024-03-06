@@ -3788,3 +3788,4 @@ Daily updates of topics learned and coded.
 * **2024-03-06**: Learned and worked on JavaScript Loops.
 * **2024-03-06**: Learned and worked on Async/Await.
 * **2024-03-06**: Learned and worked on DOM Selectors.
+* **2024-03-06**: Learned and worked on Mongoose Schemas.
