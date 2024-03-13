@@ -3812,3 +3812,4 @@ Daily updates of topics learned and coded.
 * **2024-03-10**: Learned and worked on REST API design.
 * **2024-03-10**: Learned and worked on MongoDB Connection.
 * **2024-03-13**: Learned and worked on Docker Containers.
+* **2024-03-13**: Learned and worked on ES6 Classes.
