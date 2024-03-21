@@ -3836,3 +3836,4 @@ Daily updates of topics learned and coded.
 * **2024-03-21**: Learned and worked on ES6 Classes.
 * **2024-03-21**: Learned and worked on Docker Containers.
 * **2024-03-21**: Learned and worked on React State (useState).
+* **2024-03-21**: Learned and worked on DOM Selectors.
