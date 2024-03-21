@@ -3833,3 +3833,4 @@ Daily updates of topics learned and coded.
 * **2024-03-18**: Learned and worked on React Effects (useEffect).
 * **2024-03-18**: Learned and worked on JavaScript Functions.
 * **2024-03-18**: Learned and worked on Async/Await.
+* **2024-03-21**: Learned and worked on ES6 Classes.
