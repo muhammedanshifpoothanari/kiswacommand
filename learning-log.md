@@ -3835,3 +3835,4 @@ Daily updates of topics learned and coded.
 * **2024-03-18**: Learned and worked on Async/Await.
 * **2024-03-21**: Learned and worked on ES6 Classes.
 * **2024-03-21**: Learned and worked on Docker Containers.
+* **2024-03-21**: Learned and worked on React State (useState).
