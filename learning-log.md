@@ -3859,3 +3859,4 @@ Daily updates of topics learned and coded.
 * **2024-03-23**: Learned and worked on React Effects (useEffect).
 * **2024-03-23**: Learned and worked on Responsive Design.
 * **2024-03-26**: Learned and worked on React State (useState).
+* **2024-03-26**: Learned and worked on Express Middleware.
