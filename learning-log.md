@@ -3877,3 +3877,4 @@ Daily updates of topics learned and coded.
 * **2024-03-28**: Learned and worked on Docker Containers.
 * **2024-03-28**: Learned and worked on React Components.
 * **2024-03-28**: Learned and worked on Promises.
+* **2024-03-28**: Learned and worked on Express Middleware.
