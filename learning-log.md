@@ -3897,3 +3897,4 @@ Daily updates of topics learned and coded.
 * **2024-04-03**: Learned and worked on React State (useState).
 * **2024-04-03**: Learned and worked on Async/Await.
 * **2024-04-03**: Learned and worked on React State (useState).
+* **2024-04-03**: Learned and worked on HTML structure.
