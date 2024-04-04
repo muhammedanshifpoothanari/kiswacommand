@@ -3902,3 +3902,4 @@ Daily updates of topics learned and coded.
 * **2024-04-03**: Learned and worked on React Props.
 * **2024-04-03**: Learned and worked on HTML structure.
 * **2024-04-04**: Learned and worked on JavaScript Variables.
+* **2024-04-04**: Learned and worked on CSS Grid.
