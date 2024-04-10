@@ -3913,3 +3913,4 @@ Daily updates of topics learned and coded.
 * **2024-04-10**: Learned and worked on ES6 Classes.
 * **2024-04-10**: Learned and worked on JavaScript Variables.
 * **2024-04-10**: Learned and worked on React Components.
+* **2024-04-10**: Learned and worked on Promises.
