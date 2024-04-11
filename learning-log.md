@@ -3919,3 +3919,4 @@ Daily updates of topics learned and coded.
 * **2024-04-11**: Learned and worked on CSS Flexbox.
 * **2024-04-11**: Learned and worked on Promises.
 * **2024-04-11**: Learned and worked on React Props.
+* **2024-04-11**: Learned and worked on Express routing.
