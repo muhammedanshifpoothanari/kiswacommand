@@ -3936,3 +3936,4 @@ Daily updates of topics learned and coded.
 * **2024-04-19**: Learned and worked on HTML structure.
 * **2024-04-19**: Learned and worked on React Components.
 * **2024-04-19**: Learned and worked on Fetch API.
+* **2024-04-19**: Learned and worked on Express routing.
