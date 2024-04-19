@@ -3927,3 +3927,4 @@ Daily updates of topics learned and coded.
 * **2024-04-17**: Learned and worked on JWT Authentication.
 * **2024-04-17**: Learned and worked on React Components.
 * **2024-04-17**: Learned and worked on Express Middleware.
+* **2024-04-19**: Learned and worked on React State (useState).
