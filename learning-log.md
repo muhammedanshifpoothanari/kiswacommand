@@ -3930,3 +3930,4 @@ Daily updates of topics learned and coded.
 * **2024-04-19**: Learned and worked on React State (useState).
 * **2024-04-19**: Learned and worked on HTML structure.
 * **2024-04-19**: Learned and worked on CSS Flexbox.
+* **2024-04-19**: Learned and worked on MongoDB Connection.
