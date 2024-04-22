@@ -3948,3 +3948,4 @@ Daily updates of topics learned and coded.
 * **2024-04-22**: Learned and worked on MongoDB Connection.
 * **2024-04-22**: Learned and worked on CSS Grid.
 * **2024-04-22**: Learned and worked on Responsive Design.
+* **2024-04-22**: Learned and worked on React Props.
