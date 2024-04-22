@@ -3940,3 +3940,4 @@ Daily updates of topics learned and coded.
 * **2024-04-19**: Learned and worked on ES6 Classes.
 * **2024-04-22**: Learned and worked on HTML structure.
 * **2024-04-22**: Learned and worked on JWT Authentication.
+* **2024-04-22**: Learned and worked on CSS Flexbox.
