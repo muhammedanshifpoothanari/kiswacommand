@@ -3960,3 +3960,4 @@ Daily updates of topics learned and coded.
 * **2024-04-24**: Learned and worked on Fetch API.
 * **2024-04-24**: Learned and worked on HTML structure.
 * **2024-04-24**: Learned and worked on TypeScript Types.
+* **2024-04-24**: Learned and worked on Mongoose Schemas.
