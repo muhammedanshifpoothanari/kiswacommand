@@ -3974,3 +3974,4 @@ Daily updates of topics learned and coded.
 * **2024-04-25**: Learned and worked on ES6 Classes.
 * **2024-04-25**: Learned and worked on React Props.
 * **2024-04-25**: Learned and worked on Responsive Design.
+* **2024-04-25**: Learned and worked on React Props.
