@@ -3966,3 +3966,4 @@ Daily updates of topics learned and coded.
 * **2024-04-24**: Learned and worked on ES6 Classes.
 * **2024-04-24**: Learned and worked on CSS Flexbox.
 * **2024-04-24**: Learned and worked on Express Middleware.
+* **2024-04-25**: Learned and worked on Fetch API.
