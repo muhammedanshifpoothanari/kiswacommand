@@ -4002,3 +4002,4 @@ Daily updates of topics learned and coded.
 * **2024-04-29**: Learned and worked on CSS Flexbox.
 * **2024-04-30**: Learned and worked on MongoDB Connection.
 * **2024-04-30**: Learned and worked on JavaScript Variables.
+* **2024-04-30**: Learned and worked on React Components.
