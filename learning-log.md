@@ -4013,3 +4013,4 @@ Daily updates of topics learned and coded.
 * **2024-05-02**: Learned and worked on React Props.
 * **2024-05-02**: Learned and worked on Mongoose Schemas.
 * **2024-05-02**: Learned and worked on React Props.
+* **2024-05-02**: Learned and worked on REST API design.
