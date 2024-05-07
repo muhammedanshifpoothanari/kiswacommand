@@ -4027,3 +4027,4 @@ Daily updates of topics learned and coded.
 * **2024-05-04**: Learned and worked on TypeScript Types.
 * **2024-05-04**: Learned and worked on CSS Grid.
 * **2024-05-04**: Learned and worked on JavaScript Variables.
+* **2024-05-07**: Learned and worked on React Components.
