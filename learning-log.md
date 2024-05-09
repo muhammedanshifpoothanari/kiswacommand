@@ -4038,3 +4038,4 @@ Daily updates of topics learned and coded.
 * **2024-05-09**: Learned and worked on MongoDB Connection.
 * **2024-05-09**: Learned and worked on React Props.
 * **2024-05-09**: Learned and worked on CSS Flexbox.
+* **2024-05-09**: Learned and worked on Docker Containers.
