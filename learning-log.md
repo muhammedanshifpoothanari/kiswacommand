@@ -4043,3 +4043,4 @@ Daily updates of topics learned and coded.
 * **2024-05-09**: Learned and worked on Next.js App Router.
 * **2024-05-09**: Learned and worked on Fetch API.
 * **2024-05-10**: Learned and worked on React Props.
+* **2024-05-10**: Learned and worked on DOM Selectors.
