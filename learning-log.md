@@ -4071,3 +4071,4 @@ Daily updates of topics learned and coded.
 * **2024-05-15**: Learned and worked on CSS Grid.
 * **2024-05-15**: Learned and worked on Express routing.
 * **2024-05-15**: Learned and worked on CSS Grid.
+* **2024-05-15**: Learned and worked on Fetch API.
