@@ -4063,3 +4063,4 @@ Daily updates of topics learned and coded.
 * **2024-05-14**: Learned and worked on React Effects (useEffect).
 * **2024-05-14**: Learned and worked on DOM Selectors.
 * **2024-05-15**: Learned and worked on TypeScript Types.
+* **2024-05-15**: Learned and worked on Async/Await.
