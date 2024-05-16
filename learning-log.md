@@ -4079,3 +4079,4 @@ Daily updates of topics learned and coded.
 * **2024-05-16**: Learned and worked on MongoDB Connection.
 * **2024-05-16**: Learned and worked on Next.js App Router.
 * **2024-05-16**: Learned and worked on Next.js App Router.
+* **2024-05-16**: Learned and worked on Responsive Design.
