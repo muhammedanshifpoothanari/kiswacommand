@@ -4083,3 +4083,4 @@ Daily updates of topics learned and coded.
 * **2024-05-16**: Learned and worked on TypeScript Types.
 * **2024-05-16**: Learned and worked on JavaScript Loops.
 * **2024-05-16**: Learned and worked on CSS Grid.
+* **2024-05-16**: Learned and worked on Async/Await.
