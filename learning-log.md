@@ -4076,3 +4076,4 @@ Daily updates of topics learned and coded.
 * **2024-05-15**: Learned and worked on Promises.
 * **2024-05-16**: Learned and worked on Express routing.
 * **2024-05-16**: Learned and worked on TypeScript Types.
+* **2024-05-16**: Learned and worked on MongoDB Connection.
