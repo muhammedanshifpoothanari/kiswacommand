@@ -4122,3 +4122,4 @@ Daily updates of topics learned and coded.
 * **2024-05-24**: Learned and worked on Express Middleware.
 * **2024-05-24**: Learned and worked on ES6 Classes.
 * **2024-05-24**: Learned and worked on DOM Selectors.
+* **2024-05-24**: Learned and worked on DOM Selectors.
