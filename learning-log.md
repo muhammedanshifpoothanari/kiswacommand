@@ -4128,3 +4128,4 @@ Daily updates of topics learned and coded.
 * **2024-05-28**: Learned and worked on REST API design.
 * **2024-05-28**: Learned and worked on CSS Flexbox.
 * **2024-05-28**: Learned and worked on Responsive Design.
+* **2024-05-28**: Learned and worked on JavaScript Functions.
