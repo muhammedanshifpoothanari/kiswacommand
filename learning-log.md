@@ -4146,3 +4146,4 @@ Daily updates of topics learned and coded.
 * **2024-05-31**: Learned and worked on JavaScript Variables.
 * **2024-05-31**: Learned and worked on Express routing.
 * **2024-05-31**: Learned and worked on React State (useState).
+* **2024-05-31**: Learned and worked on React Props.
