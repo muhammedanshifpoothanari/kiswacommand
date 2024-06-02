@@ -4159,3 +4159,4 @@ Daily updates of topics learned and coded.
 * **2024-06-02**: Learned and worked on JavaScript Variables.
 * **2024-06-02**: Learned and worked on JWT Authentication.
 * **2024-06-02**: Learned and worked on REST API design.
+* **2024-06-02**: Learned and worked on Async/Await.
