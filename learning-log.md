@@ -4174,3 +4174,4 @@ Daily updates of topics learned and coded.
 * **2024-06-03**: Learned and worked on Promises.
 * **2024-06-04**: Learned and worked on Express Middleware.
 * **2024-06-04**: Learned and worked on TypeScript Types.
+* **2024-06-04**: Learned and worked on Responsive Design.
