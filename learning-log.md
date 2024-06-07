@@ -4189,3 +4189,4 @@ Daily updates of topics learned and coded.
 * **2024-06-06**: Learned and worked on JavaScript Loops.
 * **2024-06-07**: Learned and worked on JavaScript Variables.
 * **2024-06-07**: Learned and worked on REST API design.
+* **2024-06-07**: Learned and worked on Express routing.
