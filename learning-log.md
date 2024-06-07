@@ -4192,3 +4192,4 @@ Daily updates of topics learned and coded.
 * **2024-06-07**: Learned and worked on Express routing.
 * **2024-06-07**: Learned and worked on CSS Flexbox.
 * **2024-06-07**: Learned and worked on Mongoose Schemas.
+* **2024-06-07**: Learned and worked on Promises.
