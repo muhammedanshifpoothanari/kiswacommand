@@ -4207,3 +4207,4 @@ Daily updates of topics learned and coded.
 * **2024-06-14**: Learned and worked on HTML structure.
 * **2024-06-19**: Learned and worked on Responsive Design.
 * **2024-06-19**: Learned and worked on Mongoose Schemas.
+* **2024-06-19**: Learned and worked on ES6 Classes.
