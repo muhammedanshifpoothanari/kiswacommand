@@ -4217,3 +4217,4 @@ Daily updates of topics learned and coded.
 * **2024-06-19**: Learned and worked on MongoDB Connection.
 * **2024-06-19**: Learned and worked on Docker Containers.
 * **2024-06-19**: Learned and worked on React State (useState).
+* **2024-06-20**: Learned and worked on TypeScript Types.
