@@ -4230,3 +4230,4 @@ Daily updates of topics learned and coded.
 * **2024-06-20**: Learned and worked on React Props.
 * **2024-06-24**: Learned and worked on React Components.
 * **2024-06-24**: Learned and worked on Async/Await.
+* **2024-06-24**: Learned and worked on CSS Flexbox.
