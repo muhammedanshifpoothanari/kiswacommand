@@ -4228,3 +4228,4 @@ Daily updates of topics learned and coded.
 * **2024-06-20**: Learned and worked on ES6 Classes.
 * **2024-06-20**: Learned and worked on JWT Authentication.
 * **2024-06-20**: Learned and worked on React Props.
+* **2024-06-24**: Learned and worked on React Components.
