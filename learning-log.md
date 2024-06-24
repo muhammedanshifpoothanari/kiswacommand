@@ -4234,3 +4234,4 @@ Daily updates of topics learned and coded.
 * **2024-06-24**: Learned and worked on HTML structure.
 * **2024-06-24**: Learned and worked on REST API design.
 * **2024-06-24**: Learned and worked on Express Middleware.
+* **2024-06-24**: Learned and worked on Promises.
