@@ -4236,3 +4236,4 @@ Daily updates of topics learned and coded.
 * **2024-06-24**: Learned and worked on Express Middleware.
 * **2024-06-24**: Learned and worked on Promises.
 * **2024-06-25**: Learned and worked on JavaScript Functions.
+* **2024-06-25**: Learned and worked on JavaScript Loops.
