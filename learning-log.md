@@ -4243,3 +4243,4 @@ Daily updates of topics learned and coded.
 * **2024-06-25**: Learned and worked on CSS Grid.
 * **2024-06-26**: Learned and worked on React Effects (useEffect).
 * **2024-06-26**: Learned and worked on CSS Grid.
+* **2024-06-26**: Learned and worked on CSS Flexbox.
