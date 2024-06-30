@@ -4257,3 +4257,4 @@ Daily updates of topics learned and coded.
 * **2024-06-30**: Learned and worked on React State (useState).
 * **2024-06-30**: Learned and worked on HTML structure.
 * **2024-06-30**: Learned and worked on Responsive Design.
+* **2024-06-30**: Learned and worked on REST API design.
