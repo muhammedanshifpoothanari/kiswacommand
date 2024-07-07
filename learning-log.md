@@ -4270,3 +4270,4 @@ Daily updates of topics learned and coded.
 * **2024-07-07**: Learned and worked on Express Middleware.
 * **2024-07-07**: Learned and worked on Mongoose Schemas.
 * **2024-07-07**: Learned and worked on Mongoose Schemas.
+* **2024-07-07**: Learned and worked on REST API design.
