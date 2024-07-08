@@ -4277,3 +4277,4 @@ Daily updates of topics learned and coded.
 * **2024-07-08**: Learned and worked on Async/Await.
 * **2024-07-08**: Learned and worked on Async/Await.
 * **2024-07-08**: Learned and worked on Express Middleware.
+* **2024-07-08**: Learned and worked on React Props.
