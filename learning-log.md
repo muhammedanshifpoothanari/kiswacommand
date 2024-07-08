@@ -4281,3 +4281,4 @@ Daily updates of topics learned and coded.
 * **2024-07-08**: Learned and worked on JavaScript Functions.
 * **2024-07-08**: Learned and worked on React Props.
 * **2024-07-08**: Learned and worked on Express Middleware.
+* **2024-07-08**: Learned and worked on HTML structure.
