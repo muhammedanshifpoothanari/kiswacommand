@@ -4293,3 +4293,4 @@ Daily updates of topics learned and coded.
 * **2024-07-10**: Learned and worked on React State (useState).
 * **2024-07-10**: Learned and worked on Docker Containers.
 * **2024-07-10**: Learned and worked on React Components.
+* **2024-07-10**: Learned and worked on REST API design.
