@@ -4286,3 +4286,4 @@ Daily updates of topics learned and coded.
 * **2024-07-08**: Learned and worked on React Props.
 * **2024-07-10**: Learned and worked on Promises.
 * **2024-07-10**: Learned and worked on CSS Flexbox.
+* **2024-07-10**: Learned and worked on Mongoose Schemas.
