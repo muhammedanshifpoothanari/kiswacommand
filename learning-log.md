@@ -4316,3 +4316,4 @@ Daily updates of topics learned and coded.
 * **2024-07-12**: Learned and worked on HTML structure.
 * **2024-07-12**: Learned and worked on CSS Flexbox.
 * **2024-07-12**: Learned and worked on MongoDB Connection.
+* **2024-07-12**: Learned and worked on DOM Selectors.
