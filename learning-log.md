@@ -4326,3 +4326,4 @@ Daily updates of topics learned and coded.
 * **2024-07-14**: Learned and worked on React Props.
 * **2024-07-14**: Learned and worked on React Components.
 * **2024-07-14**: Learned and worked on React Components.
+* **2024-07-14**: Learned and worked on JWT Authentication.
