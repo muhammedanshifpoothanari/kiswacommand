@@ -4319,3 +4319,4 @@ Daily updates of topics learned and coded.
 * **2024-07-12**: Learned and worked on DOM Selectors.
 * **2024-07-12**: Learned and worked on Next.js App Router.
 * **2024-07-14**: Learned and worked on CSS Flexbox.
+* **2024-07-14**: Learned and worked on JavaScript Loops.
