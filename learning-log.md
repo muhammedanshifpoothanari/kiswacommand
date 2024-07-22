@@ -4367,3 +4367,4 @@ Daily updates of topics learned and coded.
 * **2024-07-22**: Learned and worked on Next.js App Router.
 * **2024-07-22**: Learned and worked on CSS Flexbox.
 * **2024-07-22**: Learned and worked on TypeScript Types.
+* **2024-07-22**: Learned and worked on Docker Containers.
