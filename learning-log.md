@@ -4365,3 +4365,4 @@ Daily updates of topics learned and coded.
 * **2024-07-19**: Learned and worked on Express Middleware.
 * **2024-07-19**: Learned and worked on Responsive Design.
 * **2024-07-22**: Learned and worked on Next.js App Router.
+* **2024-07-22**: Learned and worked on CSS Flexbox.
