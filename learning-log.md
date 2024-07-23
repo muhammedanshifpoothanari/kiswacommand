@@ -4377,3 +4377,4 @@ Daily updates of topics learned and coded.
 * **2024-07-23**: Learned and worked on JavaScript Variables.
 * **2024-07-23**: Learned and worked on Promises.
 * **2024-07-23**: Learned and worked on REST API design.
+* **2024-07-23**: Learned and worked on Mongoose Schemas.
