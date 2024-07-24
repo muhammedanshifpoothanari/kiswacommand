@@ -4389,3 +4389,4 @@ Daily updates of topics learned and coded.
 * **2024-07-24**: Learned and worked on Mongoose Schemas.
 * **2024-07-24**: Learned and worked on CSS Grid.
 * **2024-07-24**: Learned and worked on JWT Authentication.
+* **2024-07-24**: Learned and worked on React Props.
