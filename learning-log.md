@@ -4386,3 +4386,4 @@ Daily updates of topics learned and coded.
 * **2024-07-23**: Learned and worked on Responsive Design.
 * **2024-07-23**: Learned and worked on CSS Flexbox.
 * **2024-07-24**: Learned and worked on Docker Containers.
+* **2024-07-24**: Learned and worked on Mongoose Schemas.
