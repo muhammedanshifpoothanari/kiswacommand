@@ -4400,3 +4400,4 @@ Daily updates of topics learned and coded.
 * **2024-07-29**: Learned and worked on HTML structure.
 * **2024-07-29**: Learned and worked on Express routing.
 * **2024-07-29**: Learned and worked on React State (useState).
+* **2024-07-29**: Learned and worked on Mongoose Schemas.
