@@ -4408,3 +4408,4 @@ Daily updates of topics learned and coded.
 * **2024-07-29**: Learned and worked on Responsive Design.
 * **2024-07-29**: Learned and worked on JavaScript Variables.
 * **2024-07-29**: Learned and worked on Async/Await.
+* **2024-07-30**: Learned and worked on CSS Flexbox.
