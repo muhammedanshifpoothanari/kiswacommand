@@ -4437,3 +4437,4 @@ Daily updates of topics learned and coded.
 * **2024-08-09**: Learned and worked on ES6 Classes.
 * **2024-08-09**: Learned and worked on MongoDB Connection.
 * **2024-08-10**: Learned and worked on DOM Selectors.
+* **2024-08-10**: Learned and worked on REST API design.
