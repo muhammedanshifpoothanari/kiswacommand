@@ -4448,3 +4448,4 @@ Daily updates of topics learned and coded.
 * **2024-08-13**: Learned and worked on Async/Await.
 * **2024-08-13**: Learned and worked on HTML structure.
 * **2024-08-13**: Learned and worked on JWT Authentication.
+* **2024-08-13**: Learned and worked on React Props.
