@@ -4447,3 +4447,4 @@ Daily updates of topics learned and coded.
 * **2024-08-10**: Learned and worked on Fetch API.
 * **2024-08-13**: Learned and worked on Async/Await.
 * **2024-08-13**: Learned and worked on HTML structure.
+* **2024-08-13**: Learned and worked on JWT Authentication.
