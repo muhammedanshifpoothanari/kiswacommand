@@ -4445,3 +4445,4 @@ Daily updates of topics learned and coded.
 * **2024-08-10**: Learned and worked on JWT Authentication.
 * **2024-08-10**: Learned and worked on JavaScript Functions.
 * **2024-08-10**: Learned and worked on Fetch API.
+* **2024-08-13**: Learned and worked on Async/Await.
