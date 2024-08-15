@@ -4457,3 +4457,4 @@ Daily updates of topics learned and coded.
 * **2024-08-15**: Learned and worked on React Components.
 * **2024-08-15**: Learned and worked on React Effects (useEffect).
 * **2024-08-15**: Learned and worked on Fetch API.
+* **2024-08-15**: Learned and worked on REST API design.
