@@ -4465,3 +4465,4 @@ Daily updates of topics learned and coded.
 * **2024-08-16**: Learned and worked on Mongoose Schemas.
 * **2024-08-16**: Learned and worked on HTML structure.
 * **2024-08-16**: Learned and worked on ES6 Classes.
+* **2024-08-18**: Learned and worked on Docker Containers.
