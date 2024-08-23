@@ -4483,3 +4483,4 @@ Daily updates of topics learned and coded.
 * **2024-08-23**: Learned and worked on CSS Flexbox.
 * **2024-08-23**: Learned and worked on Mongoose Schemas.
 * **2024-08-23**: Learned and worked on React Effects (useEffect).
+* **2024-08-23**: Learned and worked on Fetch API.
