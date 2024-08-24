@@ -4488,3 +4488,4 @@ Daily updates of topics learned and coded.
 * **2024-08-23**: Learned and worked on Express routing.
 * **2024-08-24**: Learned and worked on Express routing.
 * **2024-08-24**: Learned and worked on Fetch API.
+* **2024-08-24**: Learned and worked on Express Middleware.
