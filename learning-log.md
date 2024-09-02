@@ -4510,3 +4510,4 @@ Daily updates of topics learned and coded.
 * **2024-09-02**: Learned and worked on Express Middleware.
 * **2024-09-02**: Learned and worked on HTML structure.
 * **2024-09-02**: Learned and worked on Mongoose Schemas.
+* **2024-09-02**: Learned and worked on ES6 Classes.
