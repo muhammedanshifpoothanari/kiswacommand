@@ -4518,3 +4518,4 @@ Daily updates of topics learned and coded.
 * **2024-09-03**: Learned and worked on JavaScript Functions.
 * **2024-09-03**: Learned and worked on React State (useState).
 * **2024-09-03**: Learned and worked on DOM Selectors.
+* **2024-09-03**: Learned and worked on Async/Await.
