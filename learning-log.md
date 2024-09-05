@@ -4529,3 +4529,4 @@ Daily updates of topics learned and coded.
 * **2024-09-05**: Learned and worked on ES6 Classes.
 * **2024-09-05**: Learned and worked on Docker Containers.
 * **2024-09-05**: Learned and worked on Express routing.
+* **2024-09-05**: Learned and worked on React Effects (useEffect).
