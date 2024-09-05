@@ -4527,3 +4527,4 @@ Daily updates of topics learned and coded.
 * **2024-09-05**: Learned and worked on Express Middleware.
 * **2024-09-05**: Learned and worked on JWT Authentication.
 * **2024-09-05**: Learned and worked on ES6 Classes.
+* **2024-09-05**: Learned and worked on Docker Containers.
