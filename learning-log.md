@@ -4520,3 +4520,4 @@ Daily updates of topics learned and coded.
 * **2024-09-03**: Learned and worked on DOM Selectors.
 * **2024-09-03**: Learned and worked on Async/Await.
 * **2024-09-03**: Learned and worked on Responsive Design.
+* **2024-09-05**: Learned and worked on React Effects (useEffect).
