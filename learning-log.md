@@ -4524,3 +4524,4 @@ Daily updates of topics learned and coded.
 * **2024-09-05**: Learned and worked on CSS Flexbox.
 * **2024-09-05**: Learned and worked on Mongoose Schemas.
 * **2024-09-05**: Learned and worked on TypeScript Types.
+* **2024-09-05**: Learned and worked on Express Middleware.
