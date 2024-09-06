@@ -4536,3 +4536,4 @@ Daily updates of topics learned and coded.
 * **2024-09-06**: Learned and worked on Promises.
 * **2024-09-06**: Learned and worked on Next.js App Router.
 * **2024-09-06**: Learned and worked on Responsive Design.
+* **2024-09-06**: Learned and worked on REST API design.
