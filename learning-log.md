@@ -4590,3 +4590,4 @@ Daily updates of topics learned and coded.
 * **2024-09-17**: Learned and worked on React Effects (useEffect).
 * **2024-09-17**: Learned and worked on React State (useState).
 * **2024-09-17**: Learned and worked on HTML structure.
+* **2024-09-17**: Learned and worked on JWT Authentication.
