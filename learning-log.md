@@ -4596,3 +4596,4 @@ Daily updates of topics learned and coded.
 * **2024-09-17**: Learned and worked on Express Middleware.
 * **2024-09-18**: Learned and worked on Mongoose Schemas.
 * **2024-09-18**: Learned and worked on React Components.
+* **2024-09-18**: Learned and worked on Async/Await.
