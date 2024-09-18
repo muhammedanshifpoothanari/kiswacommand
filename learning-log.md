@@ -4599,3 +4599,4 @@ Daily updates of topics learned and coded.
 * **2024-09-18**: Learned and worked on Async/Await.
 * **2024-09-18**: Learned and worked on CSS Grid.
 * **2024-09-18**: Learned and worked on HTML structure.
+* **2024-09-18**: Learned and worked on React State (useState).
