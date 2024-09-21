@@ -4621,3 +4621,4 @@ Daily updates of topics learned and coded.
 * **2024-09-20**: Learned and worked on Mongoose Schemas.
 * **2024-09-20**: Learned and worked on HTML structure.
 * **2024-09-20**: Learned and worked on TypeScript Types.
+* **2024-09-21**: Learned and worked on Express routing.
