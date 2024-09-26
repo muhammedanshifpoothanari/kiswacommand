@@ -4636,3 +4636,4 @@ Daily updates of topics learned and coded.
 * **2024-09-26**: Learned and worked on Promises.
 * **2024-09-26**: Learned and worked on JavaScript Variables.
 * **2024-09-26**: Learned and worked on Fetch API.
+* **2024-09-26**: Learned and worked on React State (useState).
