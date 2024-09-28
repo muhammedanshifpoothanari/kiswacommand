@@ -4645,3 +4645,4 @@ Daily updates of topics learned and coded.
 * **2024-09-26**: Learned and worked on CSS Grid.
 * **2024-09-26**: Learned and worked on Responsive Design.
 * **2024-09-28**: Learned and worked on React Effects (useEffect).
+* **2024-09-28**: Learned and worked on DOM Selectors.
