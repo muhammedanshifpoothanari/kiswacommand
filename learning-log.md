@@ -4647,3 +4647,4 @@ Daily updates of topics learned and coded.
 * **2024-09-28**: Learned and worked on React Effects (useEffect).
 * **2024-09-28**: Learned and worked on DOM Selectors.
 * **2024-09-28**: Learned and worked on Docker Containers.
+* **2024-09-28**: Learned and worked on MongoDB Connection.
