@@ -4651,3 +4651,4 @@ Daily updates of topics learned and coded.
 * **2024-09-28**: Learned and worked on React Props.
 * **2024-09-28**: Learned and worked on Express routing.
 * **2024-09-30**: Learned and worked on React Effects (useEffect).
+* **2024-09-30**: Learned and worked on Express Middleware.
