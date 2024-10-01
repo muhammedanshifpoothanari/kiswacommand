@@ -4665,3 +4665,4 @@ Daily updates of topics learned and coded.
 * **2024-10-01**: Learned and worked on Responsive Design.
 * **2024-10-01**: Learned and worked on JWT Authentication.
 * **2024-10-01**: Learned and worked on React Props.
+* **2024-10-01**: Learned and worked on JavaScript Loops.
