@@ -4696,3 +4696,4 @@ Daily updates of topics learned and coded.
 * **2024-10-07**: Learned and worked on DOM Selectors.
 * **2024-10-07**: Learned and worked on REST API design.
 * **2024-10-07**: Learned and worked on HTML structure.
+* **2024-10-07**: Learned and worked on Mongoose Schemas.
