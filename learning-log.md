@@ -4694,3 +4694,4 @@ Daily updates of topics learned and coded.
 * **2024-10-07**: Learned and worked on CSS Grid.
 * **2024-10-07**: Learned and worked on ES6 Classes.
 * **2024-10-07**: Learned and worked on DOM Selectors.
+* **2024-10-07**: Learned and worked on REST API design.
