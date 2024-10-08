@@ -4704,3 +4704,4 @@ Daily updates of topics learned and coded.
 * **2024-10-08**: Learned and worked on Async/Await.
 * **2024-10-08**: Learned and worked on Promises.
 * **2024-10-08**: Learned and worked on Mongoose Schemas.
+* **2024-10-08**: Learned and worked on HTML structure.
