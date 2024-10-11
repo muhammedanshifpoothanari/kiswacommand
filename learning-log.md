@@ -4718,3 +4718,4 @@ Daily updates of topics learned and coded.
 * **2024-10-09**: Learned and worked on ES6 Classes.
 * **2024-10-11**: Learned and worked on Express routing.
 * **2024-10-11**: Learned and worked on Async/Await.
+* **2024-10-11**: Learned and worked on React Props.
