@@ -4720,3 +4720,4 @@ Daily updates of topics learned and coded.
 * **2024-10-11**: Learned and worked on Async/Await.
 * **2024-10-11**: Learned and worked on React Props.
 * **2024-10-11**: Learned and worked on React State (useState).
+* **2024-10-11**: Learned and worked on JavaScript Functions.
