@@ -4764,3 +4764,4 @@ Daily updates of topics learned and coded.
 * **2024-10-18**: Learned and worked on Express Middleware.
 * **2024-10-18**: Learned and worked on React Effects (useEffect).
 * **2024-10-18**: Learned and worked on TypeScript Types.
+* **2024-10-18**: Learned and worked on Express routing.
