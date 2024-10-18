@@ -4762,3 +4762,4 @@ Daily updates of topics learned and coded.
 * **2024-10-18**: Learned and worked on REST API design.
 * **2024-10-18**: Learned and worked on JavaScript Functions.
 * **2024-10-18**: Learned and worked on Express Middleware.
+* **2024-10-18**: Learned and worked on React Effects (useEffect).
