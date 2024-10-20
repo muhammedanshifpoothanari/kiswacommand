@@ -4770,3 +4770,4 @@ Daily updates of topics learned and coded.
 * **2024-10-20**: Learned and worked on CSS Flexbox.
 * **2024-10-20**: Learned and worked on HTML structure.
 * **2024-10-20**: Learned and worked on Next.js App Router.
+* **2024-10-20**: Learned and worked on Mongoose Schemas.
