@@ -4778,3 +4778,4 @@ Daily updates of topics learned and coded.
 * **2024-10-20**: Learned and worked on Responsive Design.
 * **2024-10-20**: Learned and worked on Express routing.
 * **2024-10-22**: Learned and worked on MongoDB Connection.
+* **2024-10-22**: Learned and worked on Promises.
