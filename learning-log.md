@@ -4796,3 +4796,4 @@ Daily updates of topics learned and coded.
 * **2024-10-23**: Learned and worked on REST API design.
 * **2024-10-23**: Learned and worked on CSS Grid.
 * **2024-10-23**: Learned and worked on MongoDB Connection.
+* **2024-10-24**: Learned and worked on Next.js App Router.
