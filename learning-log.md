@@ -4816,3 +4816,4 @@ Daily updates of topics learned and coded.
 * **2024-10-25**: Learned and worked on Express routing.
 * **2024-10-25**: Learned and worked on MongoDB Connection.
 * **2024-10-25**: Learned and worked on Express Middleware.
+* **2024-10-25**: Learned and worked on Fetch API.
