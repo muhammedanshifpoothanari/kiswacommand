@@ -4823,3 +4823,4 @@ Daily updates of topics learned and coded.
 * **2024-10-29**: Learned and worked on JavaScript Functions.
 * **2024-10-29**: Learned and worked on HTML structure.
 * **2024-10-29**: Learned and worked on Express Middleware.
+* **2024-10-29**: Learned and worked on Mongoose Schemas.
