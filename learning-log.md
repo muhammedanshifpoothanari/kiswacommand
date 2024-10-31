@@ -4828,3 +4828,4 @@ Daily updates of topics learned and coded.
 * **2024-10-29**: Learned and worked on Docker Containers.
 * **2024-10-29**: Learned and worked on React Props.
 * **2024-10-29**: Learned and worked on REST API design.
+* **2024-10-31**: Learned and worked on Async/Await.
