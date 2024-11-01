@@ -4843,3 +4843,4 @@ Daily updates of topics learned and coded.
 * **2024-11-01**: Learned and worked on DOM Selectors.
 * **2024-11-01**: Learned and worked on DOM Selectors.
 * **2024-11-01**: Learned and worked on Mongoose Schemas.
+* **2024-11-01**: Learned and worked on Fetch API.
