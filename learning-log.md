@@ -4846,3 +4846,4 @@ Daily updates of topics learned and coded.
 * **2024-11-01**: Learned and worked on Fetch API.
 * **2024-11-01**: Learned and worked on HTML structure.
 * **2024-11-01**: Learned and worked on Promises.
+* **2024-11-01**: Learned and worked on ES6 Classes.
