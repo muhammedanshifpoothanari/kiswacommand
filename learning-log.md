@@ -4853,3 +4853,4 @@ Daily updates of topics learned and coded.
 * **2024-11-04**: Learned and worked on React Props.
 * **2024-11-04**: Learned and worked on DOM Selectors.
 * **2024-11-04**: Learned and worked on Responsive Design.
+* **2024-11-04**: Learned and worked on Mongoose Schemas.
