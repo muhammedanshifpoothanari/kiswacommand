@@ -4850,3 +4850,4 @@ Daily updates of topics learned and coded.
 * **2024-11-01**: Learned and worked on JWT Authentication.
 * **2024-11-01**: Learned and worked on React State (useState).
 * **2024-11-01**: Learned and worked on MongoDB Connection.
+* **2024-11-04**: Learned and worked on React Props.
