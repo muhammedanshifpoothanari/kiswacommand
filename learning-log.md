@@ -4870,3 +4870,4 @@ Daily updates of topics learned and coded.
 * **2024-11-06**: Learned and worked on React State (useState).
 * **2024-11-06**: Learned and worked on REST API design.
 * **2024-11-06**: Learned and worked on Fetch API.
+* **2024-11-06**: Learned and worked on Promises.
