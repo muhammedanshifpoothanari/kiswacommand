@@ -4874,3 +4874,4 @@ Daily updates of topics learned and coded.
 * **2024-11-06**: Learned and worked on React Components.
 * **2024-11-07**: Learned and worked on Async/Await.
 * **2024-11-07**: Learned and worked on Fetch API.
+* **2024-11-07**: Learned and worked on JWT Authentication.
