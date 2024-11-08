@@ -4887,3 +4887,4 @@ Daily updates of topics learned and coded.
 * **2024-11-08**: Learned and worked on Express Middleware.
 * **2024-11-08**: Learned and worked on React Props.
 * **2024-11-08**: Learned and worked on TypeScript Types.
+* **2024-11-08**: Learned and worked on Next.js App Router.
