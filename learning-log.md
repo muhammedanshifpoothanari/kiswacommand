@@ -4886,3 +4886,4 @@ Daily updates of topics learned and coded.
 * **2024-11-07**: Learned and worked on MongoDB Connection.
 * **2024-11-08**: Learned and worked on Express Middleware.
 * **2024-11-08**: Learned and worked on React Props.
+* **2024-11-08**: Learned and worked on TypeScript Types.
