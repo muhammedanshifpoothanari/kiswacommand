@@ -4894,3 +4894,4 @@ Daily updates of topics learned and coded.
 * **2024-11-11**: Learned and worked on React Props.
 * **2024-11-11**: Learned and worked on Fetch API.
 * **2024-11-11**: Learned and worked on TypeScript Types.
+* **2024-11-11**: Learned and worked on MongoDB Connection.
