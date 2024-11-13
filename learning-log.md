@@ -4903,3 +4903,4 @@ Daily updates of topics learned and coded.
 * **2024-11-12**: Learned and worked on JavaScript Variables.
 * **2024-11-12**: Learned and worked on JavaScript Variables.
 * **2024-11-12**: Learned and worked on Docker Containers.
+* **2024-11-13**: Learned and worked on ES6 Classes.
