@@ -4909,3 +4909,4 @@ Daily updates of topics learned and coded.
 * **2024-11-13**: Learned and worked on JWT Authentication.
 * **2024-11-13**: Learned and worked on Async/Await.
 * **2024-11-14**: Learned and worked on Express Middleware.
+* **2024-11-14**: Learned and worked on JavaScript Loops.
