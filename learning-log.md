@@ -4911,3 +4911,4 @@ Daily updates of topics learned and coded.
 * **2024-11-14**: Learned and worked on Express Middleware.
 * **2024-11-14**: Learned and worked on JavaScript Loops.
 * **2024-11-14**: Learned and worked on React Props.
+* **2024-11-14**: Learned and worked on JWT Authentication.
