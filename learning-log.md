@@ -4923,3 +4923,4 @@ Daily updates of topics learned and coded.
 * **2024-11-15**: Learned and worked on DOM Selectors.
 * **2024-11-15**: Learned and worked on React Components.
 * **2024-11-15**: Learned and worked on Docker Containers.
+* **2024-11-15**: Learned and worked on ES6 Classes.
