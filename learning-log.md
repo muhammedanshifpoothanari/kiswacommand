@@ -4913,3 +4913,4 @@ Daily updates of topics learned and coded.
 * **2024-11-14**: Learned and worked on React Props.
 * **2024-11-14**: Learned and worked on JWT Authentication.
 * **2024-11-14**: Learned and worked on Docker Containers.
+* **2024-11-15**: Learned and worked on CSS Flexbox.
