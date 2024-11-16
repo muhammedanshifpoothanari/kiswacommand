@@ -4927,3 +4927,4 @@ Daily updates of topics learned and coded.
 * **2024-11-15**: Learned and worked on TypeScript Types.
 * **2024-11-16**: Learned and worked on Promises.
 * **2024-11-16**: Learned and worked on React Components.
+* **2024-11-16**: Learned and worked on Async/Await.
