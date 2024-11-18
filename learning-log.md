@@ -4933,3 +4933,4 @@ Daily updates of topics learned and coded.
 * **2024-11-16**: Learned and worked on TypeScript Types.
 * **2024-11-16**: Learned and worked on HTML structure.
 * **2024-11-16**: Learned and worked on DOM Selectors.
+* **2024-11-18**: Learned and worked on React Effects (useEffect).
