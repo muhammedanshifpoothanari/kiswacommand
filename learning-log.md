@@ -4950,3 +4950,4 @@ Daily updates of topics learned and coded.
 * **2024-11-20**: Learned and worked on CSS Grid.
 * **2024-11-20**: Learned and worked on JavaScript Loops.
 * **2024-11-20**: Learned and worked on HTML structure.
+* **2024-11-20**: Learned and worked on TypeScript Types.
