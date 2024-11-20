@@ -4944,3 +4944,4 @@ Daily updates of topics learned and coded.
 * **2024-11-18**: Learned and worked on Async/Await.
 * **2024-11-20**: Learned and worked on Docker Containers.
 * **2024-11-20**: Learned and worked on Next.js App Router.
+* **2024-11-20**: Learned and worked on Promises.
