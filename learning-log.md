@@ -4954,3 +4954,4 @@ Daily updates of topics learned and coded.
 * **2024-11-20**: Learned and worked on CSS Grid.
 * **2024-11-21**: Learned and worked on CSS Flexbox.
 * **2024-11-21**: Learned and worked on JWT Authentication.
+* **2024-11-21**: Learned and worked on Next.js App Router.
