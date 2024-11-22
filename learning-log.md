@@ -4961,3 +4961,4 @@ Daily updates of topics learned and coded.
 * **2024-11-21**: Learned and worked on MongoDB Connection.
 * **2024-11-21**: Learned and worked on JavaScript Variables.
 * **2024-11-21**: Learned and worked on Async/Await.
+* **2024-11-22**: Learned and worked on HTML structure.
