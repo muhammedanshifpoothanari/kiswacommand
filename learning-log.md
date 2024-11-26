@@ -4981,3 +4981,4 @@ Daily updates of topics learned and coded.
 * **2024-11-26**: Learned and worked on HTML structure.
 * **2024-11-26**: Learned and worked on CSS Flexbox.
 * **2024-11-26**: Learned and worked on React Props.
+* **2024-11-26**: Learned and worked on JavaScript Variables.
