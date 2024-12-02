@@ -4995,3 +4995,4 @@ Daily updates of topics learned and coded.
 * **2024-11-29**: Learned and worked on Express routing.
 * **2024-11-29**: Learned and worked on Docker Containers.
 * **2024-12-02**: Learned and worked on React Components.
+* **2024-12-02**: Learned and worked on REST API design.
