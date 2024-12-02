@@ -4999,3 +4999,4 @@ Daily updates of topics learned and coded.
 * **2024-12-02**: Learned and worked on React Effects (useEffect).
 * **2024-12-02**: Learned and worked on JavaScript Variables.
 * **2024-12-02**: Learned and worked on JavaScript Variables.
+* **2024-12-02**: Learned and worked on Async/Await.
