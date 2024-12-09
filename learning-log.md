@@ -5016,3 +5016,4 @@ Daily updates of topics learned and coded.
 * **2024-12-09**: Learned and worked on Docker Containers.
 * **2024-12-09**: Learned and worked on ES6 Classes.
 * **2024-12-09**: Learned and worked on TypeScript Types.
+* **2024-12-09**: Learned and worked on REST API design.
