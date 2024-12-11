@@ -5027,3 +5027,4 @@ Daily updates of topics learned and coded.
 * **2024-12-11**: Learned and worked on CSS Flexbox.
 * **2024-12-11**: Learned and worked on JavaScript Loops.
 * **2024-12-11**: Learned and worked on Promises.
+* **2024-12-11**: Learned and worked on Promises.
