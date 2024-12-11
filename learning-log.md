@@ -5025,3 +5025,4 @@ Daily updates of topics learned and coded.
 * **2024-12-11**: Learned and worked on Express routing.
 * **2024-12-11**: Learned and worked on CSS Grid.
 * **2024-12-11**: Learned and worked on CSS Flexbox.
+* **2024-12-11**: Learned and worked on JavaScript Loops.
