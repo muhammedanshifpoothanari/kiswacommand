@@ -5041,3 +5041,4 @@ Daily updates of topics learned and coded.
 * **2024-12-18**: Learned and worked on CSS Grid.
 * **2024-12-18**: Learned and worked on Next.js App Router.
 * **2024-12-18**: Learned and worked on JWT Authentication.
+* **2024-12-18**: Learned and worked on Fetch API.
