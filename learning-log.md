@@ -5038,3 +5038,4 @@ Daily updates of topics learned and coded.
 * **2024-12-18**: Learned and worked on DOM Selectors.
 * **2024-12-18**: Learned and worked on HTML structure.
 * **2024-12-18**: Learned and worked on DOM Selectors.
+* **2024-12-18**: Learned and worked on CSS Grid.
