@@ -5031,3 +5031,4 @@ Daily updates of topics learned and coded.
 * **2024-12-11**: Learned and worked on REST API design.
 * **2024-12-11**: Learned and worked on Next.js App Router.
 * **2024-12-18**: Learned and worked on Express routing.
+* **2024-12-18**: Learned and worked on Mongoose Schemas.
