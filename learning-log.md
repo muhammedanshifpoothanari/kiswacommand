@@ -5060,3 +5060,4 @@ Daily updates of topics learned and coded.
 * **2024-12-23**: Learned and worked on HTML structure.
 * **2024-12-23**: Learned and worked on Promises.
 * **2024-12-23**: Learned and worked on Responsive Design.
+* **2024-12-23**: Learned and worked on REST API design.
