@@ -5057,3 +5057,4 @@ Daily updates of topics learned and coded.
 * **2024-12-20**: Learned and worked on Express Middleware.
 * **2024-12-20**: Learned and worked on DOM Selectors.
 * **2024-12-23**: Learned and worked on React Props.
+* **2024-12-23**: Learned and worked on HTML structure.
