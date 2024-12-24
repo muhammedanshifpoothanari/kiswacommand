@@ -5062,3 +5062,4 @@ Daily updates of topics learned and coded.
 * **2024-12-23**: Learned and worked on Responsive Design.
 * **2024-12-23**: Learned and worked on REST API design.
 * **2024-12-24**: Learned and worked on TypeScript Types.
+* **2024-12-24**: Learned and worked on React Props.
