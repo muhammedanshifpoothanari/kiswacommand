@@ -5069,3 +5069,4 @@ Daily updates of topics learned and coded.
 * **2024-12-24**: Learned and worked on React Components.
 * **2024-12-24**: Learned and worked on Next.js App Router.
 * **2024-12-24**: Learned and worked on Next.js App Router.
+* **2024-12-24**: Learned and worked on React Props.
