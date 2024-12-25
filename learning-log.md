@@ -5082,3 +5082,4 @@ Daily updates of topics learned and coded.
 * **2024-12-25**: Learned and worked on Responsive Design.
 * **2024-12-25**: Learned and worked on REST API design.
 * **2024-12-25**: Learned and worked on JavaScript Functions.
+* **2024-12-25**: Learned and worked on Docker Containers.
