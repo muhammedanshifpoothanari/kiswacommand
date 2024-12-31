@@ -5103,3 +5103,4 @@ Daily updates of topics learned and coded.
 * **2024-12-28**: Learned and worked on JavaScript Functions.
 * **2024-12-31**: Learned and worked on Docker Containers.
 * **2024-12-31**: Learned and worked on REST API design.
+* **2024-12-31**: Learned and worked on Mongoose Schemas.
