@@ -5109,3 +5109,4 @@ Daily updates of topics learned and coded.
 * **2024-12-31**: Learned and worked on Fetch API.
 * **2024-12-31**: Learned and worked on JWT Authentication.
 * **2024-12-31**: Learned and worked on Express Middleware.
+* **2024-12-31**: Learned and worked on CSS Flexbox.
