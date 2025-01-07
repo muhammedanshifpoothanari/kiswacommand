@@ -5115,3 +5115,4 @@ Daily updates of topics learned and coded.
 * **2024-12-31**: Learned and worked on CSS Flexbox.
 * **2025-01-06**: Learned and worked on React Props.
 * **2025-01-07**: Learned and worked on Mongoose Schemas.
+* **2025-01-07**: Learned and worked on React Components.
