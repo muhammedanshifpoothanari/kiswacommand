@@ -5117,3 +5117,4 @@ Daily updates of topics learned and coded.
 * **2025-01-07**: Learned and worked on Mongoose Schemas.
 * **2025-01-07**: Learned and worked on React Components.
 * **2025-01-08**: Learned and worked on MongoDB Connection.
+* **2025-01-08**: Learned and worked on Docker Containers.
