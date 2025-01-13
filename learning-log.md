@@ -5119,3 +5119,4 @@ Daily updates of topics learned and coded.
 * **2025-01-08**: Learned and worked on MongoDB Connection.
 * **2025-01-08**: Learned and worked on Docker Containers.
 * **2025-01-10**: Learned and worked on REST API design.
+* **2025-01-13**: Learned and worked on Promises.
