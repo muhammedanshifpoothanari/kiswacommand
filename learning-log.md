@@ -5123,3 +5123,4 @@ Daily updates of topics learned and coded.
 * **2025-01-13**: Learned and worked on React Props.
 * **2025-01-13**: Learned and worked on MongoDB Connection.
 * **2025-01-16**: Learned and worked on Docker Containers.
+* **2025-01-17**: Learned and worked on React Props.
