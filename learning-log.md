@@ -5126,3 +5126,4 @@ Daily updates of topics learned and coded.
 * **2025-01-17**: Learned and worked on React Props.
 * **2025-01-20**: Learned and worked on React Components.
 * **2025-01-22**: Learned and worked on Fetch API.
+* **2025-01-22**: Learned and worked on Async/Await.
