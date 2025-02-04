@@ -5135,3 +5135,4 @@ Daily updates of topics learned and coded.
 * **2025-01-29**: Learned and worked on CSS Flexbox.
 * **2025-01-30**: Learned and worked on MongoDB Connection.
 * **2025-01-31**: Learned and worked on CSS Grid.
+* **2025-02-04**: Learned and worked on Promises.
