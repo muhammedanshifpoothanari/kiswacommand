@@ -5143,3 +5143,4 @@ Daily updates of topics learned and coded.
 * **2025-02-07**: Learned and worked on JavaScript Functions.
 * **2025-02-07**: Learned and worked on REST API design.
 * **2025-02-08**: Learned and worked on JWT Authentication.
+* **2025-02-09**: Learned and worked on MongoDB Connection.
