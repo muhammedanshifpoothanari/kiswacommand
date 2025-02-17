@@ -5153,3 +5153,4 @@ Daily updates of topics learned and coded.
 * **2025-02-15**: Learned and worked on DOM Selectors.
 * **2025-02-15**: Learned and worked on CSS Flexbox.
 * **2025-02-16**: Learned and worked on React State (useState).
+* **2025-02-17**: Learned and worked on Fetch API.
