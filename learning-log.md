@@ -5163,3 +5163,4 @@ Daily updates of topics learned and coded.
 * **2025-03-06**: Learned and worked on React Effects (useEffect).
 * **2025-03-07**: Learned and worked on Responsive Design.
 * **2025-03-10**: Learned and worked on TypeScript Types.
+* **2025-03-12**: Learned and worked on DOM Selectors.
