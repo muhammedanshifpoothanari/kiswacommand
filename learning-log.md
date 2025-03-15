@@ -5165,3 +5165,4 @@ Daily updates of topics learned and coded.
 * **2025-03-10**: Learned and worked on TypeScript Types.
 * **2025-03-12**: Learned and worked on DOM Selectors.
 * **2025-03-15**: Learned and worked on JWT Authentication.
+* **2025-03-15**: Learned and worked on React Props.
