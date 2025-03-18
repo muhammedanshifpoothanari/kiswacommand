@@ -5170,3 +5170,4 @@ Daily updates of topics learned and coded.
 * **2025-03-16**: Learned and worked on Express Middleware.
 * **2025-03-17**: Learned and worked on Express Middleware.
 * **2025-03-17**: Learned and worked on React Effects (useEffect).
+* **2025-03-18**: Learned and worked on Responsive Design.
