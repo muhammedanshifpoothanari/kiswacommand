@@ -5176,3 +5176,4 @@ Daily updates of topics learned and coded.
 * **2025-03-24**: Learned and worked on CSS Flexbox.
 * **2025-03-24**: Learned and worked on Mongoose Schemas.
 * **2025-03-25**: Learned and worked on TypeScript Types.
+* **2025-03-26**: Learned and worked on React Effects (useEffect).
