@@ -5178,3 +5178,4 @@ Daily updates of topics learned and coded.
 * **2025-03-25**: Learned and worked on TypeScript Types.
 * **2025-03-26**: Learned and worked on React Effects (useEffect).
 * **2025-03-27**: Learned and worked on React State (useState).
+* **2025-03-31**: Learned and worked on React Effects (useEffect).
