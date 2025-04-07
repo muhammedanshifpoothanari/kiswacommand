@@ -5183,3 +5183,4 @@ Daily updates of topics learned and coded.
 * **2025-04-02**: Learned and worked on Express routing.
 * **2025-04-04**: Learned and worked on MongoDB Connection.
 * **2025-04-05**: Learned and worked on React Effects (useEffect).
+* **2025-04-07**: Learned and worked on REST API design.
