@@ -5184,3 +5184,4 @@ Daily updates of topics learned and coded.
 * **2025-04-04**: Learned and worked on MongoDB Connection.
 * **2025-04-05**: Learned and worked on React Effects (useEffect).
 * **2025-04-07**: Learned and worked on REST API design.
+* **2025-04-08**: Learned and worked on DOM Selectors.
