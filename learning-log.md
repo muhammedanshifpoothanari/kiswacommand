@@ -5187,3 +5187,4 @@ Daily updates of topics learned and coded.
 * **2025-04-08**: Learned and worked on DOM Selectors.
 * **2025-04-08**: Learned and worked on Docker Containers.
 * **2025-04-10**: Learned and worked on Mongoose Schemas.
+* **2025-04-11**: Learned and worked on JWT Authentication.
