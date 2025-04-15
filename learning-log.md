@@ -5191,3 +5191,4 @@ Daily updates of topics learned and coded.
 * **2025-04-12**: Learned and worked on HTML structure.
 * **2025-04-14**: Learned and worked on Responsive Design.
 * **2025-04-14**: Learned and worked on CSS Flexbox.
+* **2025-04-15**: Learned and worked on React Effects (useEffect).
