@@ -5195,3 +5195,4 @@ Daily updates of topics learned and coded.
 * **2025-04-18**: Learned and worked on ES6 Classes.
 * **2025-04-18**: Learned and worked on REST API design.
 * **2025-04-18**: Learned and worked on Express Middleware.
+* **2025-04-25**: Learned and worked on Docker Containers.
