@@ -5198,3 +5198,4 @@ Daily updates of topics learned and coded.
 * **2025-04-25**: Learned and worked on Docker Containers.
 * **2025-04-25**: Learned and worked on Express routing.
 * **2025-04-25**: Learned and worked on Promises.
+* **2025-04-27**: Learned and worked on React Effects (useEffect).
