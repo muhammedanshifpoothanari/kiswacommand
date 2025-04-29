@@ -5201,3 +5201,4 @@ Daily updates of topics learned and coded.
 * **2025-04-27**: Learned and worked on React Effects (useEffect).
 * **2025-04-27**: Learned and worked on MongoDB Connection.
 * **2025-04-27**: Learned and worked on JavaScript Loops.
+* **2025-04-29**: Learned and worked on Promises.
