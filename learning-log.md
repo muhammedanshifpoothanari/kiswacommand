@@ -5207,3 +5207,4 @@ Daily updates of topics learned and coded.
 * **2025-05-01**: Learned and worked on JavaScript Variables.
 * **2025-05-03**: Learned and worked on JavaScript Variables.
 * **2025-05-04**: Learned and worked on Promises.
+* **2025-05-05**: Learned and worked on CSS Flexbox.
