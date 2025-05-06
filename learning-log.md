@@ -5209,3 +5209,4 @@ Daily updates of topics learned and coded.
 * **2025-05-04**: Learned and worked on Promises.
 * **2025-05-05**: Learned and worked on CSS Flexbox.
 * **2025-05-05**: Learned and worked on JWT Authentication.
+* **2025-05-06**: Learned and worked on Docker Containers.
