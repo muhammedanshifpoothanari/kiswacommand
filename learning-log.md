@@ -5213,3 +5213,4 @@ Daily updates of topics learned and coded.
 * **2025-05-06**: Learned and worked on Promises.
 * **2025-05-07**: Learned and worked on Next.js App Router.
 * **2025-05-08**: Learned and worked on ES6 Classes.
+* **2025-05-09**: Learned and worked on REST API design.
