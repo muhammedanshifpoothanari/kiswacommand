@@ -5220,3 +5220,4 @@ Daily updates of topics learned and coded.
 * **2025-05-14**: Learned and worked on HTML structure.
 * **2025-05-14**: Learned and worked on Express routing.
 * **2025-05-19**: Learned and worked on ES6 Classes.
+* **2025-05-21**: Learned and worked on React Components.
