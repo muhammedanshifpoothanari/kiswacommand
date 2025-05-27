@@ -5225,3 +5225,4 @@ Daily updates of topics learned and coded.
 * **2025-05-22**: Learned and worked on REST API design.
 * **2025-05-22**: Learned and worked on ES6 Classes.
 * **2025-05-27**: Learned and worked on Mongoose Schemas.
+* **2025-05-27**: Learned and worked on Next.js App Router.
