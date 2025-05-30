@@ -5230,3 +5230,4 @@ Daily updates of topics learned and coded.
 * **2025-05-29**: Learned and worked on HTML structure.
 * **2025-05-29**: Learned and worked on Express routing.
 * **2025-05-29**: Learned and worked on Docker Containers.
+* **2025-05-30**: Learned and worked on TypeScript Types.
