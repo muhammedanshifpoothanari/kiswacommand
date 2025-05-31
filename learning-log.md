@@ -5232,3 +5232,4 @@ Daily updates of topics learned and coded.
 * **2025-05-29**: Learned and worked on Docker Containers.
 * **2025-05-30**: Learned and worked on TypeScript Types.
 * **2025-05-30**: Learned and worked on Async/Await.
+* **2025-05-31**: Learned and worked on REST API design.
