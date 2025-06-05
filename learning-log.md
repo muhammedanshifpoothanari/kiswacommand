@@ -5235,3 +5235,4 @@ Daily updates of topics learned and coded.
 * **2025-05-31**: Learned and worked on REST API design.
 * **2025-05-31**: Learned and worked on Express routing.
 * **2025-06-04**: Learned and worked on Docker Containers.
+* **2025-06-05**: Learned and worked on REST API design.
