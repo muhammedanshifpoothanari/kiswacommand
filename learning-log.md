@@ -5240,3 +5240,4 @@ Daily updates of topics learned and coded.
 * **2025-06-06**: Learned and worked on Promises.
 * **2025-06-09**: Learned and worked on CSS Grid.
 * **2025-06-09**: Learned and worked on ES6 Classes.
+* **2025-06-10**: Learned and worked on React Props.
