@@ -5244,3 +5244,4 @@ Daily updates of topics learned and coded.
 * **2025-06-11**: Learned and worked on React Props.
 * **2025-06-13**: Learned and worked on Docker Containers.
 * **2025-06-13**: Learned and worked on Mongoose Schemas.
+* **2025-06-15**: Learned and worked on Express Middleware.
