@@ -5247,3 +5247,4 @@ Daily updates of topics learned and coded.
 * **2025-06-15**: Learned and worked on Express Middleware.
 * **2025-06-16**: Learned and worked on Express routing.
 * **2025-06-17**: Learned and worked on TypeScript Types.
+* **2025-06-18**: Learned and worked on DOM Selectors.
