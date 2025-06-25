@@ -5251,3 +5251,4 @@ Daily updates of topics learned and coded.
 * **2025-06-20**: Learned and worked on CSS Flexbox.
 * **2025-06-23**: Learned and worked on Mongoose Schemas.
 * **2025-06-24**: Learned and worked on DOM Selectors.
+* **2025-06-25**: Learned and worked on JavaScript Functions.
