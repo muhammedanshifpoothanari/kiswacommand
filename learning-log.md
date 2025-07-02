@@ -5254,3 +5254,4 @@ Daily updates of topics learned and coded.
 * **2025-06-25**: Learned and worked on JavaScript Functions.
 * **2025-06-25**: Learned and worked on Docker Containers.
 * **2025-06-30**: Learned and worked on DOM Selectors.
+* **2025-07-02**: Learned and worked on Next.js App Router.
