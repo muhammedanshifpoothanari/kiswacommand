@@ -5258,3 +5258,4 @@ Daily updates of topics learned and coded.
 * **2025-07-05**: Learned and worked on Async/Await.
 * **2025-07-08**: Learned and worked on React Components.
 * **2025-07-08**: Learned and worked on ES6 Classes.
+* **2025-07-08**: Learned and worked on JavaScript Loops.
