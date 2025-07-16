@@ -5265,3 +5265,4 @@ Daily updates of topics learned and coded.
 * **2025-07-11**: Learned and worked on CSS Grid.
 * **2025-07-14**: Learned and worked on CSS Grid.
 * **2025-07-14**: Learned and worked on JavaScript Variables.
+* **2025-07-16**: Learned and worked on React Effects (useEffect).
