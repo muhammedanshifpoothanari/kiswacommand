@@ -5267,3 +5267,4 @@ Daily updates of topics learned and coded.
 * **2025-07-14**: Learned and worked on JavaScript Variables.
 * **2025-07-16**: Learned and worked on React Effects (useEffect).
 * **2025-07-17**: Learned and worked on Express routing.
+* **2025-07-17**: Learned and worked on Docker Containers.
