@@ -5274,3 +5274,4 @@ Daily updates of topics learned and coded.
 * **2025-07-23**: Learned and worked on Async/Await.
 * **2025-07-23**: Learned and worked on CSS Flexbox.
 * **2025-07-25**: Learned and worked on Next.js App Router.
+* **2025-07-28**: Learned and worked on Mongoose Schemas.
