@@ -5283,3 +5283,4 @@ Daily updates of topics learned and coded.
 * **2025-07-31**: Learned and worked on HTML structure.
 * **2025-07-31**: Learned and worked on React State (useState).
 * **2025-08-01**: Learned and worked on JavaScript Variables.
+* **2025-08-03**: Learned and worked on React Effects (useEffect).
