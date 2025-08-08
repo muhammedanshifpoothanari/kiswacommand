@@ -5288,3 +5288,4 @@ Daily updates of topics learned and coded.
 * **2025-08-06**: Learned and worked on CSS Grid.
 * **2025-08-07**: Learned and worked on Docker Containers.
 * **2025-08-08**: Learned and worked on React Props.
+* **2025-08-08**: Learned and worked on CSS Flexbox.
