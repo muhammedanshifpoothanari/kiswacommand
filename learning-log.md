@@ -5292,3 +5292,4 @@ Daily updates of topics learned and coded.
 * **2025-08-11**: Learned and worked on JavaScript Functions.
 * **2025-08-13**: Learned and worked on CSS Flexbox.
 * **2025-08-16**: Learned and worked on Async/Await.
+* **2025-08-18**: Learned and worked on Express Middleware.
