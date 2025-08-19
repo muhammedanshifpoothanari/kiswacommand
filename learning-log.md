@@ -5295,3 +5295,4 @@ Daily updates of topics learned and coded.
 * **2025-08-18**: Learned and worked on Express Middleware.
 * **2025-08-18**: Learned and worked on MongoDB Connection.
 * **2025-08-19**: Learned and worked on JavaScript Loops.
+* **2025-08-19**: Learned and worked on HTML structure.
