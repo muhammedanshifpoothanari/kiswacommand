@@ -5297,3 +5297,4 @@ Daily updates of topics learned and coded.
 * **2025-08-19**: Learned and worked on JavaScript Loops.
 * **2025-08-19**: Learned and worked on HTML structure.
 * **2025-08-20**: Learned and worked on React Components.
+* **2025-08-20**: Learned and worked on JWT Authentication.
