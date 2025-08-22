@@ -5301,3 +5301,4 @@ Daily updates of topics learned and coded.
 * **2025-08-21**: Learned and worked on Docker Containers.
 * **2025-08-21**: Learned and worked on JWT Authentication.
 * **2025-08-22**: Learned and worked on React Components.
+* **2025-08-22**: Learned and worked on React State (useState).
