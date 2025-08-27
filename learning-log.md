@@ -5305,3 +5305,4 @@ Daily updates of topics learned and coded.
 * **2025-08-25**: Learned and worked on JavaScript Loops.
 * **2025-08-26**: Learned and worked on Express Middleware.
 * **2025-08-27**: Learned and worked on JWT Authentication.
+* **2025-08-27**: Learned and worked on REST API design.
