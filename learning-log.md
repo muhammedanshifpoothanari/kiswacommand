@@ -5308,3 +5308,4 @@ Daily updates of topics learned and coded.
 * **2025-08-27**: Learned and worked on REST API design.
 * **2025-08-28**: Learned and worked on DOM Selectors.
 * **2025-08-29**: Learned and worked on React Props.
+* **2025-08-30**: Learned and worked on React State (useState).
