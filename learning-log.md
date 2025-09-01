@@ -5310,3 +5310,4 @@ Daily updates of topics learned and coded.
 * **2025-08-29**: Learned and worked on React Props.
 * **2025-08-30**: Learned and worked on React State (useState).
 * **2025-08-30**: Learned and worked on React Components.
+* **2025-09-01**: Learned and worked on React Components.
