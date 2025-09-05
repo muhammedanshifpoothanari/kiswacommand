@@ -5313,3 +5313,4 @@ Daily updates of topics learned and coded.
 * **2025-09-01**: Learned and worked on React Components.
 * **2025-09-03**: Learned and worked on React Props.
 * **2025-09-05**: Learned and worked on Responsive Design.
+* **2025-09-05**: Learned and worked on Docker Containers.
