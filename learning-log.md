@@ -5316,3 +5316,4 @@ Daily updates of topics learned and coded.
 * **2025-09-05**: Learned and worked on Docker Containers.
 * **2025-09-08**: Learned and worked on JavaScript Loops.
 * **2025-09-09**: Learned and worked on MongoDB Connection.
+* **2025-09-11**: Learned and worked on Promises.
