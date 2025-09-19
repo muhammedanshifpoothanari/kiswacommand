@@ -5320,3 +5320,4 @@ Daily updates of topics learned and coded.
 * **2025-09-17**: Learned and worked on MongoDB Connection.
 * **2025-09-17**: Learned and worked on Express Middleware.
 * **2025-09-18**: Learned and worked on React Effects (useEffect).
+* **2025-09-19**: Learned and worked on Promises.
