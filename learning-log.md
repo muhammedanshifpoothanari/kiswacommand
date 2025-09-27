@@ -5324,3 +5324,4 @@ Daily updates of topics learned and coded.
 * **2025-09-19**: Learned and worked on JavaScript Loops.
 * **2025-09-24**: Learned and worked on CSS Grid.
 * **2025-09-24**: Learned and worked on TypeScript Types.
+* **2025-09-27**: Learned and worked on Next.js App Router.
