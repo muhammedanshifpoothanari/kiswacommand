@@ -5327,3 +5327,4 @@ Daily updates of topics learned and coded.
 * **2025-09-27**: Learned and worked on Next.js App Router.
 * **2025-09-28**: Learned and worked on Express routing.
 * **2025-09-29**: Learned and worked on JavaScript Loops.
+* **2025-09-30**: Learned and worked on DOM Selectors.
