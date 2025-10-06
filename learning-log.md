@@ -5330,3 +5330,4 @@ Daily updates of topics learned and coded.
 * **2025-09-30**: Learned and worked on DOM Selectors.
 * **2025-10-01**: Learned and worked on ES6 Classes.
 * **2025-10-01**: Learned and worked on Docker Containers.
+* **2025-10-06**: Learned and worked on Docker Containers.
