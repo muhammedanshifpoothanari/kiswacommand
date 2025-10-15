@@ -5337,3 +5337,4 @@ Daily updates of topics learned and coded.
 * **2025-10-11**: Learned and worked on HTML structure.
 * **2025-10-13**: Learned and worked on JavaScript Functions.
 * **2025-10-15**: Learned and worked on CSS Flexbox.
+* **2025-10-15**: Learned and worked on Mongoose Schemas.
