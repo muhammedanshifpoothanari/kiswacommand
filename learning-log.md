@@ -5338,3 +5338,4 @@ Daily updates of topics learned and coded.
 * **2025-10-13**: Learned and worked on JavaScript Functions.
 * **2025-10-15**: Learned and worked on CSS Flexbox.
 * **2025-10-15**: Learned and worked on Mongoose Schemas.
+* **2025-10-16**: Learned and worked on JWT Authentication.
