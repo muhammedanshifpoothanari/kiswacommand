@@ -5342,3 +5342,4 @@ Daily updates of topics learned and coded.
 * **2025-10-20**: Learned and worked on Docker Containers.
 * **2025-10-20**: Learned and worked on MongoDB Connection.
 * **2025-10-21**: Learned and worked on Express Middleware.
+* **2025-10-21**: Learned and worked on HTML structure.
