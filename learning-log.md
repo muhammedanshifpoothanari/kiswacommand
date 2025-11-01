@@ -5347,3 +5347,4 @@ Daily updates of topics learned and coded.
 * **2025-10-28**: Learned and worked on JWT Authentication.
 * **2025-10-31**: Learned and worked on JWT Authentication.
 * **2025-10-31**: Learned and worked on React Components.
+* **2025-11-01**: Learned and worked on React State (useState).
