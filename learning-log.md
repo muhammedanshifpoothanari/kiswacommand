@@ -5349,3 +5349,4 @@ Daily updates of topics learned and coded.
 * **2025-10-31**: Learned and worked on React Components.
 * **2025-11-01**: Learned and worked on React State (useState).
 * **2025-11-01**: Learned and worked on HTML structure.
+* **2025-11-02**: Learned and worked on TypeScript Types.
