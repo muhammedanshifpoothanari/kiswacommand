@@ -5351,3 +5351,4 @@ Daily updates of topics learned and coded.
 * **2025-11-01**: Learned and worked on HTML structure.
 * **2025-11-02**: Learned and worked on TypeScript Types.
 * **2025-11-02**: Learned and worked on DOM Selectors.
+* **2025-11-03**: Learned and worked on JavaScript Variables.
