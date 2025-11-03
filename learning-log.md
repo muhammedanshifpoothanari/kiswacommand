@@ -5353,3 +5353,4 @@ Daily updates of topics learned and coded.
 * **2025-11-02**: Learned and worked on DOM Selectors.
 * **2025-11-03**: Learned and worked on JavaScript Variables.
 * **2025-11-03**: Learned and worked on JWT Authentication.
+* **2025-11-03**: Learned and worked on Docker Containers.
