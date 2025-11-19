@@ -5364,3 +5364,4 @@ Daily updates of topics learned and coded.
 * **2025-11-13**: Learned and worked on ES6 Classes.
 * **2025-11-14**: Learned and worked on DOM Selectors.
 * **2025-11-19**: Learned and worked on JWT Authentication.
+* **2025-11-19**: Learned and worked on React Effects (useEffect).
