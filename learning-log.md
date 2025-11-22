@@ -5368,3 +5368,4 @@ Daily updates of topics learned and coded.
 * **2025-11-20**: Learned and worked on Async/Await.
 * **2025-11-21**: Learned and worked on DOM Selectors.
 * **2025-11-21**: Learned and worked on Async/Await.
+* **2025-11-22**: Learned and worked on Promises.
