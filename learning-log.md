@@ -5370,3 +5370,4 @@ Daily updates of topics learned and coded.
 * **2025-11-21**: Learned and worked on Async/Await.
 * **2025-11-22**: Learned and worked on Promises.
 * **2025-11-24**: Learned and worked on Promises.
+* **2025-11-26**: Learned and worked on REST API design.
