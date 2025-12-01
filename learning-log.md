@@ -5373,3 +5373,4 @@ Daily updates of topics learned and coded.
 * **2025-11-26**: Learned and worked on REST API design.
 * **2025-11-28**: Learned and worked on TypeScript Types.
 * **2025-11-28**: Learned and worked on TypeScript Types.
+* **2025-12-01**: Learned and worked on JWT Authentication.
