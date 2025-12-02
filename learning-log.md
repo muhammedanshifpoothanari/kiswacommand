@@ -5374,3 +5374,4 @@ Daily updates of topics learned and coded.
 * **2025-11-28**: Learned and worked on TypeScript Types.
 * **2025-11-28**: Learned and worked on TypeScript Types.
 * **2025-12-01**: Learned and worked on JWT Authentication.
+* **2025-12-02**: Learned and worked on React Components.
