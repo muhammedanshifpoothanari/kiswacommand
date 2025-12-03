@@ -5377,3 +5377,4 @@ Daily updates of topics learned and coded.
 * **2025-12-02**: Learned and worked on React Components.
 * **2025-12-03**: Learned and worked on CSS Grid.
 * **2025-12-03**: Learned and worked on CSS Flexbox.
+* **2025-12-03**: Learned and worked on Promises.
