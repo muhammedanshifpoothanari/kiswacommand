@@ -5379,3 +5379,4 @@ Daily updates of topics learned and coded.
 * **2025-12-03**: Learned and worked on CSS Flexbox.
 * **2025-12-03**: Learned and worked on Promises.
 * **2025-12-04**: Learned and worked on Express routing.
+* **2025-12-08**: Learned and worked on MongoDB Connection.
