@@ -5383,3 +5383,4 @@ Daily updates of topics learned and coded.
 * **2025-12-10**: Learned and worked on Fetch API.
 * **2025-12-10**: Learned and worked on JavaScript Functions.
 * **2025-12-12**: Learned and worked on JWT Authentication.
+* **2025-12-15**: Learned and worked on React Props.
