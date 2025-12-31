@@ -5390,3 +5390,4 @@ Daily updates of topics learned and coded.
 * **2025-12-24**: Learned and worked on DOM Selectors.
 * **2025-12-29**: Learned and worked on React Props.
 * **2025-12-31**: Learned and worked on Next.js App Router.
+* **2025-12-31**: Learned and worked on Docker Containers.
