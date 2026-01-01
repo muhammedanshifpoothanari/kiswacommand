@@ -5398,3 +5398,4 @@ Daily updates of topics learned and coded.
 * **2026-01-01**: Learned and worked on Promises.
 * **2026-01-01**: Learned and worked on React Props.
 * **2026-01-01**: Learned and worked on JavaScript Loops.
+* **2026-01-01**: Learned and worked on DOM Selectors.
