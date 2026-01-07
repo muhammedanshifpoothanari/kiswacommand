@@ -5427,3 +5427,4 @@ Daily updates of topics learned and coded.
 * **2026-01-05**: Learned and worked on HTML structure.
 * **2026-01-05**: Learned and worked on JavaScript Variables.
 * **2026-01-07**: Learned and worked on React Effects (useEffect).
+* **2026-01-07**: Learned and worked on Mongoose Schemas.
