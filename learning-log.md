@@ -5439,3 +5439,4 @@ Daily updates of topics learned and coded.
 * **2026-01-08**: Learned and worked on React Props.
 * **2026-01-08**: Learned and worked on DOM Selectors.
 * **2026-01-08**: Learned and worked on Docker Containers.
+* **2026-01-08**: Learned and worked on ES6 Classes.
