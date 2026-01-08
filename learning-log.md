@@ -5445,3 +5445,4 @@ Daily updates of topics learned and coded.
 * **2026-01-08**: Learned and worked on React Props.
 * **2026-01-08**: Learned and worked on Mongoose Schemas.
 * **2026-01-08**: Learned and worked on JavaScript Variables.
+* **2026-01-08**: Learned and worked on ES6 Classes.
