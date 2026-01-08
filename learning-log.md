@@ -5436,3 +5436,4 @@ Daily updates of topics learned and coded.
 * **2026-01-07**: Learned and worked on Mongoose Schemas.
 * **2026-01-07**: Learned and worked on HTML structure.
 * **2026-01-08**: Learned and worked on React State (useState).
+* **2026-01-08**: Learned and worked on React Props.
