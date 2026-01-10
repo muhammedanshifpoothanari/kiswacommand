@@ -5452,3 +5452,4 @@ Daily updates of topics learned and coded.
 * **2026-01-10**: Learned and worked on React State (useState).
 * **2026-01-10**: Learned and worked on React Props.
 * **2026-01-10**: Learned and worked on React Effects (useEffect).
+* **2026-01-10**: Learned and worked on Mongoose Schemas.
