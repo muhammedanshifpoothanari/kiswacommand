@@ -5481,3 +5481,4 @@ Daily updates of topics learned and coded.
 * **2026-01-15**: Learned and worked on REST API design.
 * **2026-01-15**: Learned and worked on JavaScript Variables.
 * **2026-01-15**: Learned and worked on CSS Grid.
+* **2026-01-19**: Learned and worked on Express routing.
