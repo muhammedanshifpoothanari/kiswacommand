@@ -5500,3 +5500,4 @@ Daily updates of topics learned and coded.
 * **2026-01-21**: Learned and worked on Express Middleware.
 * **2026-01-21**: Learned and worked on Fetch API.
 * **2026-01-21**: Learned and worked on Express Middleware.
+* **2026-01-21**: Learned and worked on DOM Selectors.
