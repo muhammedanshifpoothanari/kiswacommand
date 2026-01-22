@@ -5510,3 +5510,4 @@ Daily updates of topics learned and coded.
 * **2026-01-22**: Learned and worked on Next.js App Router.
 * **2026-01-22**: Learned and worked on JavaScript Functions.
 * **2026-01-22**: Learned and worked on MongoDB Connection.
+* **2026-01-22**: Learned and worked on React Props.
