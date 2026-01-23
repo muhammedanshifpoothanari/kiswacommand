@@ -5520,3 +5520,4 @@ Daily updates of topics learned and coded.
 * **2026-01-23**: Learned and worked on MongoDB Connection.
 * **2026-01-23**: Learned and worked on CSS Flexbox.
 * **2026-01-23**: Learned and worked on React Props.
+* **2026-01-23**: Learned and worked on HTML structure.
