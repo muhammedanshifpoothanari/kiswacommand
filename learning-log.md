@@ -5526,3 +5526,4 @@ Daily updates of topics learned and coded.
 * **2026-01-23**: Learned and worked on Docker Containers.
 * **2026-01-26**: Learned and worked on JavaScript Loops.
 * **2026-01-26**: Learned and worked on TypeScript Types.
+* **2026-01-26**: Learned and worked on Mongoose Schemas.
