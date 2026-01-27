@@ -5530,3 +5530,4 @@ Daily updates of topics learned and coded.
 * **2026-01-26**: Learned and worked on React Effects (useEffect).
 * **2026-01-26**: Learned and worked on MongoDB Connection.
 * **2026-01-27**: Learned and worked on JWT Authentication.
+* **2026-01-27**: Learned and worked on React Effects (useEffect).
