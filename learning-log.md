@@ -5565,3 +5565,4 @@ Daily updates of topics learned and coded.
 * **2026-02-05**: Learned and worked on DOM Selectors.
 * **2026-02-05**: Learned and worked on Fetch API.
 * **2026-02-06**: Learned and worked on Mongoose Schemas.
+* **2026-02-06**: Learned and worked on React State (useState).
