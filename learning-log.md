@@ -5593,3 +5593,4 @@ Daily updates of topics learned and coded.
 * **2026-02-10**: Learned and worked on JavaScript Functions.
 * **2026-02-10**: Learned and worked on Express Middleware.
 * **2026-02-10**: Learned and worked on Next.js App Router.
+* **2026-02-10**: Learned and worked on DOM Selectors.
