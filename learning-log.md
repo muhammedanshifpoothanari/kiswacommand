@@ -5587,3 +5587,4 @@ Daily updates of topics learned and coded.
 * **2026-02-10**: Learned and worked on TypeScript Types.
 * **2026-02-10**: Learned and worked on DOM Selectors.
 * **2026-02-10**: Learned and worked on Async/Await.
+* **2026-02-10**: Learned and worked on Express routing.
