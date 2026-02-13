@@ -5600,3 +5600,4 @@ Daily updates of topics learned and coded.
 * **2026-02-13**: Learned and worked on Express Middleware.
 * **2026-02-13**: Learned and worked on Fetch API.
 * **2026-02-13**: Learned and worked on JavaScript Loops.
+* **2026-02-13**: Learned and worked on JWT Authentication.
