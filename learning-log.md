@@ -5605,3 +5605,4 @@ Daily updates of topics learned and coded.
 * **2026-02-13**: Learned and worked on REST API design.
 * **2026-02-13**: Learned and worked on React Effects (useEffect).
 * **2026-02-13**: Learned and worked on JavaScript Functions.
+* **2026-02-13**: Learned and worked on Async/Await.
