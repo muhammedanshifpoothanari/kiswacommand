@@ -5612,3 +5612,4 @@ Daily updates of topics learned and coded.
 * **2026-02-18**: Learned and worked on DOM Selectors.
 * **2026-02-18**: Learned and worked on Fetch API.
 * **2026-02-18**: Learned and worked on Next.js App Router.
+* **2026-02-18**: Learned and worked on Promises.
