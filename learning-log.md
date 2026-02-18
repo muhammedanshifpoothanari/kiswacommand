@@ -5609,3 +5609,4 @@ Daily updates of topics learned and coded.
 * **2026-02-18**: Learned and worked on React Props.
 * **2026-02-18**: Learned and worked on Async/Await.
 * **2026-02-18**: Learned and worked on JavaScript Variables.
+* **2026-02-18**: Learned and worked on DOM Selectors.
