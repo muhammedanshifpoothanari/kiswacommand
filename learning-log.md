@@ -5620,3 +5620,4 @@ Daily updates of topics learned and coded.
 * **2026-02-20**: Learned and worked on Express routing.
 * **2026-02-20**: Learned and worked on Fetch API.
 * **2026-02-20**: Learned and worked on React Effects (useEffect).
+* **2026-02-20**: Learned and worked on React Components.
