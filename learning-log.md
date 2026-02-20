@@ -5626,3 +5626,4 @@ Daily updates of topics learned and coded.
 * **2026-02-20**: Learned and worked on Docker Containers.
 * **2026-02-20**: Learned and worked on Mongoose Schemas.
 * **2026-02-20**: Learned and worked on ES6 Classes.
+* **2026-02-20**: Learned and worked on JWT Authentication.
