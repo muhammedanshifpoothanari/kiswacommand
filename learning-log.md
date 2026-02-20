@@ -5624,3 +5624,4 @@ Daily updates of topics learned and coded.
 * **2026-02-20**: Learned and worked on CSS Flexbox.
 * **2026-02-20**: Learned and worked on DOM Selectors.
 * **2026-02-20**: Learned and worked on Docker Containers.
+* **2026-02-20**: Learned and worked on Mongoose Schemas.
