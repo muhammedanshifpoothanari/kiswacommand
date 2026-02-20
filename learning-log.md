@@ -5617,3 +5617,4 @@ Daily updates of topics learned and coded.
 * **2026-02-18**: Learned and worked on JWT Authentication.
 * **2026-02-18**: Learned and worked on CSS Flexbox.
 * **2026-02-20**: Learned and worked on CSS Flexbox.
+* **2026-02-20**: Learned and worked on Express routing.
