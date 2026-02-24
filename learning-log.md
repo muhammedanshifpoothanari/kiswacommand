@@ -5641,3 +5641,4 @@ Daily updates of topics learned and coded.
 * **2026-02-24**: Learned and worked on Responsive Design.
 * **2026-02-24**: Learned and worked on React State (useState).
 * **2026-02-24**: Learned and worked on Next.js App Router.
+* **2026-02-24**: Learned and worked on Express routing.
