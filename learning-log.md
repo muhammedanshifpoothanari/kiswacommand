@@ -5652,3 +5652,4 @@ Daily updates of topics learned and coded.
 * **2026-02-25**: Learned and worked on Responsive Design.
 * **2026-02-25**: Learned and worked on React Props.
 * **2026-02-25**: Learned and worked on ES6 Classes.
+* **2026-02-25**: Learned and worked on REST API design.
