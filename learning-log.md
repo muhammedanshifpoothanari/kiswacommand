@@ -5673,3 +5673,4 @@ Daily updates of topics learned and coded.
 * **2026-02-27**: Learned and worked on Responsive Design.
 * **2026-02-27**: Learned and worked on TypeScript Types.
 * **2026-02-27**: Learned and worked on JavaScript Functions.
+* **2026-02-27**: Learned and worked on Promises.
