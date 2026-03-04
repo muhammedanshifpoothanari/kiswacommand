@@ -5679,3 +5679,4 @@ Daily updates of topics learned and coded.
 * **2026-03-04**: Learned and worked on REST API design.
 * **2026-03-04**: Learned and worked on Docker Containers.
 * **2026-03-04**: Learned and worked on JWT Authentication.
+* **2026-03-04**: Learned and worked on Express routing.
