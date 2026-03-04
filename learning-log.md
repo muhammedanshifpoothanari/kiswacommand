@@ -5676,3 +5676,4 @@ Daily updates of topics learned and coded.
 * **2026-02-27**: Learned and worked on Promises.
 * **2026-02-27**: Learned and worked on React State (useState).
 * **2026-03-04**: Learned and worked on Docker Containers.
+* **2026-03-04**: Learned and worked on REST API design.
