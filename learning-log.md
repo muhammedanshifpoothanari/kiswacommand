@@ -5715,3 +5715,4 @@ Daily updates of topics learned and coded.
 * **2026-03-16**: Learned and worked on JavaScript Loops.
 * **2026-03-16**: Learned and worked on JavaScript Variables.
 * **2026-03-16**: Learned and worked on DOM Selectors.
+* **2026-03-16**: Learned and worked on ES6 Classes.
