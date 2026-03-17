@@ -5722,3 +5722,4 @@ Daily updates of topics learned and coded.
 * **2026-03-17**: Learned and worked on Express routing.
 * **2026-03-17**: Learned and worked on HTML structure.
 * **2026-03-17**: Learned and worked on CSS Flexbox.
+* **2026-03-17**: Learned and worked on React State (useState).
