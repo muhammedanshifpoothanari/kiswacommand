@@ -5729,3 +5729,4 @@ Daily updates of topics learned and coded.
 * **2026-03-17**: Learned and worked on DOM Selectors.
 * **2026-03-18**: Learned and worked on React Components.
 * **2026-03-18**: Learned and worked on Next.js App Router.
+* **2026-03-18**: Learned and worked on React State (useState).
