@@ -5732,3 +5732,4 @@ Daily updates of topics learned and coded.
 * **2026-03-18**: Learned and worked on React State (useState).
 * **2026-03-18**: Learned and worked on Mongoose Schemas.
 * **2026-03-18**: Learned and worked on Mongoose Schemas.
+* **2026-03-18**: Learned and worked on DOM Selectors.
