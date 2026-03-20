@@ -5745,3 +5745,4 @@ Daily updates of topics learned and coded.
 * **2026-03-20**: Learned and worked on Async/Await.
 * **2026-03-20**: Learned and worked on React Effects (useEffect).
 * **2026-03-20**: Learned and worked on React State (useState).
+* **2026-03-20**: Learned and worked on Fetch API.
