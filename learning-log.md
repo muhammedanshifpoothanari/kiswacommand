@@ -5736,3 +5736,4 @@ Daily updates of topics learned and coded.
 * **2026-03-18**: Learned and worked on Express routing.
 * **2026-03-18**: Learned and worked on TypeScript Types.
 * **2026-03-18**: Learned and worked on JavaScript Loops.
+* **2026-03-20**: Learned and worked on DOM Selectors.
