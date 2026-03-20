@@ -5738,3 +5738,4 @@ Daily updates of topics learned and coded.
 * **2026-03-18**: Learned and worked on JavaScript Loops.
 * **2026-03-20**: Learned and worked on DOM Selectors.
 * **2026-03-20**: Learned and worked on Promises.
+* **2026-03-20**: Learned and worked on Fetch API.
