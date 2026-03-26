@@ -5753,3 +5753,4 @@ Daily updates of topics learned and coded.
 * **2026-03-26**: Learned and worked on REST API design.
 * **2026-03-26**: Learned and worked on JavaScript Functions.
 * **2026-03-26**: Learned and worked on CSS Flexbox.
+* **2026-03-26**: Learned and worked on Express routing.
