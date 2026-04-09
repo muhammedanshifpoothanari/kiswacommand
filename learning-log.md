@@ -5765,3 +5765,4 @@ Daily updates of topics learned and coded.
 * **2026-04-06**: Learned and worked on CSS Grid.
 * **2026-04-06**: Learned and worked on React Props.
 * **2026-04-06**: Learned and worked on JWT Authentication.
+* **2026-04-09**: Learned and worked on React Effects (useEffect).
