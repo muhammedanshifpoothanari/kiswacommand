@@ -5782,3 +5782,4 @@ Daily updates of topics learned and coded.
 * **2026-04-10**: Learned and worked on HTML structure.
 * **2026-04-10**: Learned and worked on DOM Selectors.
 * **2026-04-14**: Learned and worked on HTML structure.
+* **2026-04-14**: Learned and worked on MongoDB Connection.
