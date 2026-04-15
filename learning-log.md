@@ -5788,3 +5788,4 @@ Daily updates of topics learned and coded.
 * **2026-04-14**: Learned and worked on DOM Selectors.
 * **2026-04-15**: Learned and worked on Responsive Design.
 * **2026-04-15**: Learned and worked on React State (useState).
+* **2026-04-15**: Learned and worked on Express routing.
