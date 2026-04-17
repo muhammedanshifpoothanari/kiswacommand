@@ -5809,3 +5809,4 @@ Daily updates of topics learned and coded.
 * **2026-04-17**: Learned and worked on DOM Selectors.
 * **2026-04-17**: Learned and worked on REST API design.
 * **2026-04-17**: Learned and worked on Async/Await.
+* **2026-04-17**: Learned and worked on React Effects (useEffect).
