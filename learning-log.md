@@ -5804,3 +5804,4 @@ Daily updates of topics learned and coded.
 * **2026-04-17**: Learned and worked on JavaScript Functions.
 * **2026-04-17**: Learned and worked on DOM Selectors.
 * **2026-04-17**: Learned and worked on Fetch API.
+* **2026-04-17**: Learned and worked on JWT Authentication.
