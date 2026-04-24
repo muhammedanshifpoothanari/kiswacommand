@@ -5818,3 +5818,4 @@ Daily updates of topics learned and coded.
 * **2026-04-20**: Learned and worked on Promises.
 * **2026-04-20**: Learned and worked on Next.js App Router.
 * **2026-04-20**: Learned and worked on MongoDB Connection.
+* **2026-04-24**: Learned and worked on JavaScript Functions.
