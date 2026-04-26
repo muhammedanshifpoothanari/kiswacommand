@@ -5831,3 +5831,4 @@ Daily updates of topics learned and coded.
 * **2026-04-24**: Learned and worked on CSS Flexbox.
 * **2026-04-26**: Learned and worked on JavaScript Loops.
 * **2026-04-26**: Learned and worked on React State (useState).
+* **2026-04-26**: Learned and worked on Responsive Design.
