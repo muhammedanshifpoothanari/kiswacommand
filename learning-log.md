@@ -5843,3 +5843,4 @@ Daily updates of topics learned and coded.
 * **2026-04-27**: Learned and worked on Fetch API.
 * **2026-04-27**: Learned and worked on Mongoose Schemas.
 * **2026-04-27**: Learned and worked on Docker Containers.
+* **2026-04-27**: Learned and worked on DOM Selectors.
