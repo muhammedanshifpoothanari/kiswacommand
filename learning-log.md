@@ -5857,3 +5857,4 @@ Daily updates of topics learned and coded.
 * **2026-05-01**: Learned and worked on REST API design.
 * **2026-05-04**: Learned and worked on React State (useState).
 * **2026-05-04**: Learned and worked on MongoDB Connection.
+* **2026-05-04**: Learned and worked on JavaScript Functions.
