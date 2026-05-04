@@ -5855,3 +5855,4 @@ Daily updates of topics learned and coded.
 * **2026-05-01**: Learned and worked on Promises.
 * **2026-05-01**: Learned and worked on CSS Grid.
 * **2026-05-01**: Learned and worked on REST API design.
+* **2026-05-04**: Learned and worked on React State (useState).
