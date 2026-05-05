@@ -5865,3 +5865,4 @@ Daily updates of topics learned and coded.
 * **2026-05-04**: Learned and worked on Fetch API.
 * **2026-05-04**: Learned and worked on Express routing.
 * **2026-05-05**: Learned and worked on Next.js App Router.
+* **2026-05-05**: Learned and worked on React State (useState).
