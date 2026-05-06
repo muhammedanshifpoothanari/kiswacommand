@@ -5877,3 +5877,4 @@ Daily updates of topics learned and coded.
 * **2026-05-05**: Learned and worked on React Effects (useEffect).
 * **2026-05-06**: Learned and worked on React Effects (useEffect).
 * **2026-05-06**: Learned and worked on HTML structure.
+* **2026-05-06**: Learned and worked on Next.js App Router.
