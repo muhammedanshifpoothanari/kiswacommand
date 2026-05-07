@@ -5886,3 +5886,4 @@ Daily updates of topics learned and coded.
 * **2026-05-07**: Learned and worked on MongoDB Connection.
 * **2026-05-07**: Learned and worked on Fetch API.
 * **2026-05-07**: Learned and worked on JWT Authentication.
+* **2026-05-07**: Learned and worked on REST API design.
