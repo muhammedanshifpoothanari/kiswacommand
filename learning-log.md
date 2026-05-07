@@ -5883,3 +5883,4 @@ Daily updates of topics learned and coded.
 * **2026-05-06**: Learned and worked on REST API design.
 * **2026-05-06**: Learned and worked on Mongoose Schemas.
 * **2026-05-06**: Learned and worked on Mongoose Schemas.
+* **2026-05-07**: Learned and worked on MongoDB Connection.
