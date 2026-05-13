@@ -5909,3 +5909,4 @@ Daily updates of topics learned and coded.
 * **2026-05-13**: Learned and worked on Mongoose Schemas.
 * **2026-05-13**: Learned and worked on React Components.
 * **2026-05-13**: Learned and worked on React Props.
+* **2026-05-13**: Learned and worked on Async/Await.
