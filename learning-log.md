@@ -5914,3 +5914,4 @@ Daily updates of topics learned and coded.
 * **2026-05-13**: Learned and worked on ES6 Classes.
 * **2026-05-13**: Learned and worked on Promises.
 * **2026-05-13**: Learned and worked on JavaScript Variables.
+* **2026-05-13**: Learned and worked on REST API design.
