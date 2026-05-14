@@ -5919,3 +5919,4 @@ Daily updates of topics learned and coded.
 * **2026-05-14**: Learned and worked on Next.js App Router.
 * **2026-05-14**: Learned and worked on JWT Authentication.
 * **2026-05-14**: Learned and worked on Mongoose Schemas.
+* **2026-05-14**: Learned and worked on ES6 Classes.
