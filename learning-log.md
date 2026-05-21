@@ -5941,3 +5941,4 @@ Daily updates of topics learned and coded.
 * **2026-05-21**: Learned and worked on Next.js App Router.
 * **2026-05-21**: Learned and worked on REST API design.
 * **2026-05-21**: Learned and worked on REST API design.
+* **2026-05-21**: Learned and worked on Express routing.
