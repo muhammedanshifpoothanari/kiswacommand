@@ -5951,3 +5951,4 @@ Daily updates of topics learned and coded.
 * **2026-05-23**: Learned and worked on DOM Selectors.
 * **2026-05-23**: Learned and worked on React State (useState).
 * **2026-05-23**: Learned and worked on Docker Containers.
+* **2026-05-23**: Learned and worked on HTML structure.
