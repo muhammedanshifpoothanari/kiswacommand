@@ -5957,3 +5957,4 @@ Daily updates of topics learned and coded.
 * **2026-05-24**: Learned and worked on JavaScript Functions.
 * **2026-05-24**: Learned and worked on HTML structure.
 * **2026-05-24**: Learned and worked on REST API design.
+* **2026-05-24**: Learned and worked on ES6 Classes.
