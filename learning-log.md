@@ -5967,3 +5967,4 @@ Daily updates of topics learned and coded.
 * **2026-05-26**: Learned and worked on HTML structure.
 * **2026-05-26**: Learned and worked on React State (useState).
 * **2026-05-26**: Learned and worked on HTML structure.
+* **2026-06-01**: Learned and worked on JWT Authentication.
