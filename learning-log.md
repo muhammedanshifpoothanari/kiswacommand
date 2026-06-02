@@ -5975,3 +5975,4 @@ Daily updates of topics learned and coded.
 * **2026-06-01**: Learned and worked on Express Middleware.
 * **2026-06-02**: Learned and worked on React Props.
 * **2026-06-02**: Learned and worked on Express routing.
+* **2026-06-02**: Learned and worked on Async/Await.
