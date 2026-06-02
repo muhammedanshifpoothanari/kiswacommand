@@ -5977,3 +5977,4 @@ Daily updates of topics learned and coded.
 * **2026-06-02**: Learned and worked on Express routing.
 * **2026-06-02**: Learned and worked on Async/Await.
 * **2026-06-02**: Learned and worked on JavaScript Loops.
+* **2026-06-02**: Learned and worked on Promises.
