@@ -5982,3 +5982,4 @@ Daily updates of topics learned and coded.
 * **2026-06-02**: Learned and worked on CSS Grid.
 * **2026-06-02**: Learned and worked on JavaScript Loops.
 * **2026-06-02**: Learned and worked on ES6 Classes.
+* **2026-06-02**: Learned and worked on Responsive Design.
