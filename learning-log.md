@@ -6002,3 +6002,4 @@ Daily updates of topics learned and coded.
 * **2026-06-04**: Learned and worked on React Props.
 * **2026-06-04**: Learned and worked on JWT Authentication.
 * **2026-06-04**: Learned and worked on CSS Flexbox.
+* **2026-06-08**: Learned and worked on Promises.
