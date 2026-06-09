@@ -6017,3 +6017,4 @@ Daily updates of topics learned and coded.
 * **2026-06-09**: Learned and worked on React Components.
 * **2026-06-09**: Learned and worked on Express routing.
 * **2026-06-09**: Learned and worked on JWT Authentication.
+* **2026-06-09**: Learned and worked on Mongoose Schemas.
