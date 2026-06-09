@@ -6011,3 +6011,4 @@ Daily updates of topics learned and coded.
 * **2026-06-08**: Learned and worked on Responsive Design.
 * **2026-06-08**: Learned and worked on Promises.
 * **2026-06-08**: Learned and worked on Express Middleware.
+* **2026-06-09**: Learned and worked on JWT Authentication.
