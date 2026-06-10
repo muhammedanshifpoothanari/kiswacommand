@@ -6022,3 +6022,4 @@ Daily updates of topics learned and coded.
 * **2026-06-09**: Learned and worked on React State (useState).
 * **2026-06-09**: Learned and worked on Express Middleware.
 * **2026-06-09**: Learned and worked on CSS Flexbox.
+* **2026-06-10**: Learned and worked on React Props.
