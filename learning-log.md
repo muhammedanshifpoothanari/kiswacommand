@@ -6030,3 +6030,4 @@ Daily updates of topics learned and coded.
 * **2026-06-10**: Learned and worked on Promises.
 * **2026-06-10**: Learned and worked on MongoDB Connection.
 * **2026-06-11**: Learned and worked on JavaScript Loops.
+* **2026-06-11**: Learned and worked on Express routing.
