@@ -6057,3 +6057,4 @@ Daily updates of topics learned and coded.
 * **2026-06-18**: Learned and worked on React Components.
 * **2026-06-18**: Learned and worked on React Effects (useEffect).
 * **2026-06-18**: Learned and worked on JavaScript Variables.
+* **2026-06-18**: Learned and worked on REST API design.
