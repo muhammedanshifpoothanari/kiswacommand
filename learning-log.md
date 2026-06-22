@@ -6074,3 +6074,4 @@ Daily updates of topics learned and coded.
 * **2026-06-20**: Learned and worked on Express Middleware.
 * **2026-06-20**: Learned and worked on React Components.
 * **2026-06-20**: Learned and worked on TypeScript Types.
+* **2026-06-22**: Learned and worked on MongoDB Connection.
