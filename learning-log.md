@@ -6076,3 +6076,4 @@ Daily updates of topics learned and coded.
 * **2026-06-20**: Learned and worked on TypeScript Types.
 * **2026-06-22**: Learned and worked on MongoDB Connection.
 * **2026-06-22**: Learned and worked on Docker Containers.
+* **2026-06-22**: Learned and worked on DOM Selectors.
