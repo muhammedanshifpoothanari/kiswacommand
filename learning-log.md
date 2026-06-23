@@ -6083,3 +6083,4 @@ Daily updates of topics learned and coded.
 * **2026-06-23**: Learned and worked on React State (useState).
 * **2026-06-23**: Learned and worked on Promises.
 * **2026-06-23**: Learned and worked on React Props.
+* **2026-06-23**: Learned and worked on ES6 Classes.
