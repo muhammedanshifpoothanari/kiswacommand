@@ -6085,3 +6085,4 @@ Daily updates of topics learned and coded.
 * **2026-06-23**: Learned and worked on React Props.
 * **2026-06-23**: Learned and worked on ES6 Classes.
 * **2026-06-23**: Learned and worked on ES6 Classes.
+* **2026-06-23**: Learned and worked on Async/Await.
