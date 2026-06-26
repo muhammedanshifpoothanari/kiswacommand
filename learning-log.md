@@ -6100,3 +6100,4 @@ Daily updates of topics learned and coded.
 * **2026-06-26**: Learned and worked on React Props.
 * **2026-06-26**: Learned and worked on ES6 Classes.
 * **2026-06-26**: Learned and worked on React Components.
+* **2026-06-26**: Learned and worked on Fetch API.
