@@ -6096,3 +6096,4 @@ Daily updates of topics learned and coded.
 * **2026-06-25**: Learned and worked on MongoDB Connection.
 * **2026-06-26**: Learned and worked on Async/Await.
 * **2026-06-26**: Learned and worked on JavaScript Loops.
+* **2026-06-26**: Learned and worked on React Effects (useEffect).
