@@ -6105,3 +6105,4 @@ Daily updates of topics learned and coded.
 * **2026-06-26**: Learned and worked on Promises.
 * **2026-06-26**: Learned and worked on JavaScript Functions.
 * **2026-06-26**: Learned and worked on Express routing.
+* **2026-06-27**: Learned and worked on HTML structure.
