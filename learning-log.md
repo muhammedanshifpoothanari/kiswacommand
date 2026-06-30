@@ -6111,3 +6111,4 @@ Daily updates of topics learned and coded.
 * **2026-06-27**: Learned and worked on HTML structure.
 * **2026-06-27**: Learned and worked on Fetch API.
 * **2026-06-30**: Learned and worked on Next.js App Router.
+* **2026-06-30**: Learned and worked on React Effects (useEffect).
