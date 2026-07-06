@@ -6124,3 +6124,4 @@ Daily updates of topics learned and coded.
 * **2026-06-30**: Learned and worked on Responsive Design.
 * **2026-07-06**: Learned and worked on React Props.
 * **2026-07-06**: Learned and worked on Next.js App Router.
+* **2026-07-06**: Learned and worked on REST API design.
