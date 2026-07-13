@@ -6141,3 +6141,4 @@ Daily updates of topics learned and coded.
 * **2026-07-08**: Learned and worked on Fetch API.
 * **2026-07-08**: Learned and worked on MongoDB Connection.
 * **2026-07-13**: Learned and worked on CSS Grid.
+* **2026-07-13**: Learned and worked on Promises.
