@@ -6143,3 +6143,4 @@ Daily updates of topics learned and coded.
 * **2026-07-13**: Learned and worked on CSS Grid.
 * **2026-07-13**: Learned and worked on Promises.
 * **2026-07-13**: Learned and worked on DOM Selectors.
+* **2026-07-13**: Learned and worked on React Effects (useEffect).
