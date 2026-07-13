@@ -6146,3 +6146,4 @@ Daily updates of topics learned and coded.
 * **2026-07-13**: Learned and worked on React Effects (useEffect).
 * **2026-07-13**: Learned and worked on Express routing.
 * **2026-07-13**: Learned and worked on React State (useState).
+* **2026-07-13**: Learned and worked on Mongoose Schemas.
